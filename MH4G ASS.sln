@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MH4G ASS", "MH4G ASS.vcxproj", "{9E14DC37-9A12-4E58-BC87-EE3569792592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DLL-Import Debug|Win32 = DLL-Import Debug|Win32
+		DLL-Import Release|Win32 = DLL-Import Release|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E14DC37-9A12-4E58-BC87-EE3569792592}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9E14DC37-9A12-4E58-BC87-EE3569792592}.Debug|Win32.Build.0 = Debug|Win32
+		{9E14DC37-9A12-4E58-BC87-EE3569792592}.DLL-Import Debug|Win32.ActiveCfg = Debug|Win32
+		{9E14DC37-9A12-4E58-BC87-EE3569792592}.DLL-Import Debug|Win32.Build.0 = Debug|Win32
+		{9E14DC37-9A12-4E58-BC87-EE3569792592}.DLL-Import Release|Win32.ActiveCfg = Release|Win32
+		{9E14DC37-9A12-4E58-BC87-EE3569792592}.DLL-Import Release|Win32.Build.0 = Release|Win32
+		{9E14DC37-9A12-4E58-BC87-EE3569792592}.Release|Win32.ActiveCfg = Release|Win32
+		{9E14DC37-9A12-4E58-BC87-EE3569792592}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E14938E1-F440-4B24-9D2A-9BD2C5AA7ABD}
+	EndGlobalSection
+EndGlobal
