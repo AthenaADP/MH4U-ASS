@@ -1,0 +1,599 @@
+Leder-Gürtel
+Wagemut-Gürtel
+Ketten-Gürtel
+Jäger-Beinzeug
+Jäger-Waffenrock
+Knochen-Beinzeug
+Knochen-Waffenrock
+Legierungs-Hüftring
+LegierungsWaffenrock
+Loc-Lac-Kilt
+Leichter Gürtel
+Eisen-Gürtel
+Bnahabra-Hüftring
+Bnahabra-Waffenrock
+Rhenoplos-Hüftring
+Rhenoplos-Waffenrock
+Remobra-Gürtel
+Remobra-Band
+Jaggi-Beinzeug
+Jaggi-Waffenrock
+Genprey-Beinzeug
+Genprey-Waffenrock
+Ioprey-Beinzeug
+Ioprey-Waffenrock
+Lagombi-Beinzeug
+Lagombi-Waffenrock
+Kecha-Wacha-Beinzeug
+KechaWachaWaffenrock
+Conga-Beinzeug
+Conga-Waffenrock
+Gypceros-Beinzeug
+Gypceros-Waffenrock
+Tetsucabra-Beinzeug
+TetsucabraWaffenrock
+Nerscylla-Beinzeug
+Nerscylla-Waffenrock
+Zamtrios-Beinzeug
+Zamtrios-Waffenrock
+Najarala-Beinzeug
+Najarala-Waffenrock
+Khezu-Beinzeug
+Khezu-Waffenrock
+Rathian-Beinzeug
+Rathian-Waffenrock
+Velociprey-Beinzeug
+VelocipreyWaffenrock
+Kut-Ku-Beinzeug
+Kut-Ku-Waffenrock
+Basarios-Beinzeug
+Basarios-Waffenrock
+Arzuros-Beinzeug
+Arzuros-Waffenrock
+Ludroth-Beinzeug
+Ludroth-Waffenrock
+Barroth-Beinzeug
+Barroth-Waffenrock
+Nibelsnarf-Beinzeug
+NibelsnarfWaffenrock
+Ceanataur-Beinzeug
+Ceanataur-Waffenrock
+Hochmetall-Beinzeug
+HochmetallWaffenrock
+Kampf-Beinzeug
+Kampf-Waffenrock
+Gore-Magala-Beinzeug
+GoreMagalaWaffenrock
+Rathalos-Beinzeug
+Rathalos-Waffenrock
+Tigrex-Beinzeug
+Tigrex-Waffenrock
+Zinogre-Beinzeug
+Zinogre-Waffenrock
+Seltas-Beinzeug
+Seltas-Waffenrock
+Gravios-Beinzeug
+Gravios-Waffenrock
+Brachydios-Beinzeug
+BrachydiosWaffenrock
+Zwielicht-Koshiate
+Morgenlicht-Koshiate
+Adamantium-Koshiate
+Epochen-Koshiate
+Erz-Beinzeug
+Erz-Waffenrock
+Philia-Beinzeug
+Philia-Waffenrock
+Garuga-Beinzeug
+Garuga-Waffenrock
+Kirin-Reifen
+Kirin-Shorts
+Nargacuga-Beinzeug
+Nargacuga-Waffenrock
+Uragaan-Beinzeug
+Uragaan-Waffenrock
+Duramboros-Beinzeug
+DuramborosWaffenrock
+Lava-Beinzeug
+Lava-Waffenrock
+Diablos-Hüftring
+Diablos-Waffenrock
+Auroros-Koshiate
+Genesis-Koshiate
+Borealis-Koshiate
+Glyphen-Koshiate
+Guss-Hüftring
+Guss-Waffenrock
+Bnahabra-Hüftring S
+BnahabraWaffenrock S
+Rhenoplos-Hüftring S
+RhenoplosWaffenrockS
+Remobra-Gürtel S
+Remobra-Band S
+Jaggi-Beinzeug S
+Jaggi-Waffenrock S
+Genprey-Beinzeug S
+Genprey-Waffenrock S
+Ioprey-Beinzeug S
+Ioprey-Waffenrock S
+Lagombi-Beinzeug S
+Lagombi-Waffenrock S
+KechaWachaBeinzeug S
+KechaWachaWaffenrckS
+Conga-Beinzeug S
+Conga-Waffenrock S
+VelocipreyBeinzeug S
+VelocipreyWaffnrockS
+Kut-Ku-Beinzeug S
+Kut-Ku-Waffenrock S
+Vespoid-Beinzeug
+Vespoid-Waffenrock
+Cephalos-Beinzeug
+Cephalos-Waffenrock
+Volvidon-Beinzeug
+Volvidon-Waffenrock
+Hermitaur-Beinzeug
+Hermitaur-Waffenrock
+Qurupeco-Hüftring
+Qurupeco-Waffenrock
+Leder-Beinzeug S
+Leder-Waffenrock S
+Wagemut-Beinzeug S
+Wagemut-Waffenrock S
+Ketten-Beinzeug S
+Ketten-Waffenrock S
+Jäger-Beinzeug S
+Jäger-Waffenrock S
+Knochen-Beinzeug S
+Knochen-Waffenrock S
+LegierungsHüftring S
+LegierungsWaffenrckS
+Chrom-Hüftring
+Chrom-Waffenrock
+Mosgharl-Blatt
+Mosgharl-Wedel
+Aelucanth-Elytren
+Aelucanth-Schwingen
+Rhopessa-Elytren
+Rhopessa-Schwingen
+Hummer-Hüftring
+Hummer-Waffenrock
+Wächter-Lende
+Wächter-Waffenrock
+Helfer-Rock
+Helfer-Rüschen
+GildenbardenHüftring
+GildenbardWaffenrock
+Gelehrten-Rock
+Gelehrten-Minirock
+Conga-Beinzeug U
+Conga-Waffenrock U
+Gypceros-Beinzeug S
+GypcerosWaffenrock S
+TetsucabraBeinzeug S
+TetsucabraWaffenrckS
+Nerscylla-Beinzeug S
+NerscyllaWaffenrockS
+Zamtrios-Beinzeug S
+ZamtriosWaffenrock S
+Najarala-Beinzeug S
+NajaralaWaffenrock S
+Khezu-Beinzeug S
+Khezu-Waffenrock S
+Rathian-Beinzeug S
+Rathian-Waffenrock S
+Rathalos-Beinzeug S
+RathalosWaffenrock S
+Tigrex-Beinzeug S
+Tigrex-Waffenrock S
+Zinogre-Beinzeug S
+Zinogre-Waffenrock S
+Seltas-Beinzeug S
+Seltas-Waffenrock S
+Gravios-Beinzeug S
+Gravios-Waffenrock S
+Kut-Ku-Beinzeug U
+Kut-Ku-Waffenrock U
+Basarios-Beinzeug S
+BasariosWaffenrock S
+Garuga-Beinzeug S
+Garuga-Waffenrock S
+Mono-Hüftring S
+Mono-Waffenrock S
+Blango-Beinzeug
+Blango-Waffenrock
+Gobul-Beinzeug
+Gobul-Waffenrock
+Barioth-Beinzeug
+Barioth-Waffenrock
+HochmetallBeinzeug S
+HochmetallWaffenrckS
+Todes-Elytra
+Todes-Alae
+SchmetterlingElytren
+SchmetterlingSchwngn
+Artian-Hüftring S
+Artian-Waffenrock S
+Chakra-Beintasche
+GoreMagalaBeinzeug S
+GoreMagalaWaffenrckS
+Regios-Beinzeug S
+Regios-Waffenrock S
+Gypceros-Beinzeug U
+GypcerosWaffenrock U
+Khezu-Beinzeug U
+Khezu-Waffenrock U
+Rathianherz-Hüftring
+RathianherzWaffenrck
+RathalosseelnHüftrng
+RathalosseelnWffnrck
+Tigrex-Beinzeug U
+Tigrex-Waffenrock U
+Zinogre-Beinzeug U
+Zinogre-Waffenrock U
+Gravios-Beinzeug U
+Gravios-Waffenrock U
+BrachydiosBeinzeug S
+BrachydiosWaffenrckS
+Vangis-Hüftring
+Vangis-Waffenrock
+Basarios-Beinzeug U
+BasariosWaffenrock U
+Kirin-Reifen S
+Kirin-Shorts S
+Lagiacrus-Beinzeug
+Lagiacrus-Waffenrock
+Agnaktor-Beinzeug
+Agnaktor-Waffenrock
+Dober-Hüftring
+Dober-Waffenrock
+Adlerhüftring
+Adlerwaffenrock
+Dozentenrock
+Dozentenrüschen
+GildenritterWaffnrck
+Gildenritter-Kilt
+Magd-Rock
+Magd-Rüschen
+Yukumo-Obi Himmel
+Yukumo-Obi Land
+Ranger-Obi
+Bogenschützen-Obi
+Schwarzgurt-Beinzeug
+SchwarzgurtWaffenrck
+Matrosen-Rock
+Matrosen-Minirock
+Erz-Beinzeug S
+Erz-Waffenrock S
+Philia-Beinzeug S
+Philia-Waffenrock S
+Goldener Obi
+Puppenspieler-Obi
+Gotteszorn-Obi
+Geistmalmer-Obi
+Kushala-Kokon
+Kushala-Windumhang
+Kaiser-Beinzeug
+Kaiser-Waffenrock
+ZwielchtHegeKoshiate
+ÜbrMrgnlichtKoshiate
+ÜbergnAdamanKoshiate
+ÜberEpochenKoshiate
+Rebellionshüftring
+Aufruhr-Waffenrock
+Akantor-Gürtel
+Akantor-Schärpe
+SilberSonnenhüftring
+SilberSonnenwaffnrck
+GoldenerMondhüftring
+GoldenerMondwaffnrck
+Gier-Beinzeug
+Gier-Waffenrock
+Excello-Hüftring
+Excello-Waffenrock
+Drachenrückgrat
+Drachenschuppe
+KarmesinFatalisFlügl
+KarmesinFatalisSchwf
+Kirin-Reifen U
+Kirin-Shorts U
+Ukanlos-Gürtel
+Ukanlos-Schärpe
+Indra-Koshiate
+Standhafter Koshiate
+Yaksha-Hüftring
+Gemetzel-Umhang
+Kaiserin-Beinzeug
+Kaiserin-Waffenrock
+Mizuha-Maruobi
+Fantasie-Maruobi
+Helios-Hüftring
+Helios-Waffenrock
+Selene-Hüftring
+Selene-Waffenrock
+Escadora-Macht
+Escadora-Kraft
+Rathian-Beinzeug EX
+RathianWaffenrock EX
+Rathalos-Beinzeug EX
+RathalosWaffenrockEX
+Kushala-Kokon EX
+KushalaWindumhang EX
+Kaiser-Beinzeug EX
+Kaiser-Waffenrock EX
+Tigrex-Beinzeug EX
+Tigrex-Waffenrock EX
+Yamato-Koshiate
+Mutsu-Koshiate
+Hyuga-Koshiate
+Amagi-Koshiate
+Shinobi-Obi Himmel
+Shinobi-Obi Land
+BlauerStern-Hüftring
+BlauerSternWaffenrck
+Captain Coil J
+Captain Skirt J
+Legend Coil J
+Legend Skirt J
+Bouya Belt
+Bouya Buckle
+Uniqlo-Beutel
+Uniqlo-Täschchen
+Sternlicht-Hüftring
+SternlichtWaffenrock
+Zodias Coil
+Zodias Coat
+Heroengürtel
+Heroenband
+Kirin-Reifen U EX
+Kirin-Shorts U EX
+Guss-Hüftring EX
+Guss-Waffenrock EX
+Artian-Hüftring EX
+Artian-Waffenrock EX
+GoreMagalaBeinzeugEX
+GoreMagalaWaffnrckEX
+RebellionshüftringEX
+Aufruhr-Waffenrock EX
+Konditor-Sarong
+Konditor-Schürze
+Bnahabra-Hüftring X
+BnahabraWaffenrock X
+Rhenoplos-Hüftring X
+RhenoplosWaffenrockX
+Ioprey-Beinzeug X
+Ioprey-Waffenrock X
+Cephalos-Beinzeug X
+CephalosWaffenrock X
+Lagombi-Beinzeug X
+Lagombi-Waffenrock X
+KechaWachaBeinzeug X
+KechaWachaWaffenrckX
+KechaWachaBeinzeug Z
+KechaWachaWaffenrckZ
+Conga-Beinzeug X
+Conga-Waffenrock X
+Conga-Beinzeug Z
+Conga-Waffenrock Z
+Gypceros-Beinzeug X
+GypcerosWaffenrock X
+Gypceros-Beinzeug Z
+GypcerosWaffenrock Z
+Hermitaur-Beinzeug X
+HermitaurWaffenrockX
+Hermitaur-Beinzeug Z
+HermitaurWaffenrockZ
+TetsucabraBeinzeug X
+TetsucabraWaffenrckX
+TetsucabraBeinzeug Z
+TetsucabraWaffenrckZ
+Nerscylla-Beinzeug X
+NerscyllaWaffenrockX
+Zamtrios-Beinzeug X
+ZamtriosWaffenrock X
+Zamtrios-Beinzeug Z
+ZamtriosWaffenrock Z
+Najarala-Beinzeug X
+NajaralaWaffenrock X
+Najarala-Beinzeug Z
+NajaralaWaffenrock Z
+Khezu-Beinzeug X
+Khezu-WaffenrockX
+Khezu-Beinzeug Z
+Khezu-Waffenrock Z
+Rathian-Beinzeug X
+Rathian-Waffenrock X
+RathianherzHüftringZ
+RathianherzWffnrockZ
+VelocipreyBeinzeug X
+VelocipreyWaffnrockX
+Kut-Ku-Beinzeug X
+Kut-Ku-Waffenrock X
+Kut-Ku-Beinzeug Z
+Kut-Ku-Waffenrock Z
+Basarios-Beinzeug X
+BasariosWaffenrock X
+Basarios-Beinzeug Z
+Basarios-Waffenrock Z
+Qurupeco-Hüftring X
+QurupecoWaffenrock X
+Barroth-Beinzeug X
+Barroth-Waffenrock X
+Gobul-Beinzeug X
+Gobul-Waffenrock X
+NibelsnarfBeinzeug X
+NibelsnarfWaffenrckX
+Barioth-Beinzeug X
+Barioth-Waffenrock X
+Agnaktor-Beinzeug X
+AgnaktorWaffenrock X
+Plesioth-Beinzeug Z
+PlesiothWaffenrock Z
+Todes-Elytra X
+Todes-Alae X
+SchmettrlingElytrenX
+SchmettrlingSchwngnX
+Aelucanth-Elytren X
+AelucanthSchwingen X
+Rhopessa-Elytren X
+Rhopessa-Schwingen X
+Wächter-Lende X
+Wächter-Waffenrock X
+Helfer-Rock X
+Heiler-Rüschen X
+Regios-Beinzeug X
+Regios-Waffenrock X
+Nerscylla-Beinzeug Z
+NerscyllaWaffenrockZ
+Rathalos-Beinzeug X
+RathalosWaffenrock X
+RathalosselnHüftrngZ
+RathalosselnWffnrckZ
+Tigrex-Beinzeug X
+Tigrex-Waffenrock X
+Tigrex-Beinzeug Z
+Tigrex-Waffenrock Z
+Zinogre-Beinzeug X
+Zinogre-Waffenrock X
+Zinogre-Beinzeug Z
+Zinogre-Waffenrock Z
+Seltas-Beinzeug X
+Seltas-Waffenrock X
+Seltas-Beinzeug Z
+Seltas-Waffenrock Z
+Gravios-Beinzeug X
+Gravios-Waffenrock X
+Gravios-Beinzeug Z
+Gravios-Waffenrock Z
+Diablos-Hüftring X
+Diablos-Waffenrock X
+Diablos-Hüftring Z
+Diablos-Waffenrock Z
+BrachydiosBeinzeug X
+BrachydiosWaffenrckX
+Vangis-Hüftring X
+Vangis-Waffenrock X
+Chaos-Beinzeug
+Chaos-Waffenrock
+Nephilim-Beinzeug
+Nephilim-Waffenrock
+Garuga-Beinzeug X
+Garuga-Waffenrock X
+Mono-Hüftring X
+Mono-Waffenrock X
+Monodevil-Hüftring
+Monodevil-Waffenrock
+GoreMagalaBeinzeug X
+GoreMagalaWaffenrckX
+Nargacuga-Beinzeug X
+NargacugaWaffenrockX
+Lagiacrus-Beinzeug X
+LagiacrusWaffenrockX
+DuramborosBeinzeug X
+DuramborosWaffenrckX
+Lava-Beinzeug X
+Lava-Waffenrock X
+Artian-Hüftring X
+Artian-Waffenrock X
+Adlerhüftring X
+Adlerwaffenrock X
+Dozentenrock X
+Dozentenrüschen X
+Ass-Beinzeug
+Ass-Waffenrock
+Amazonen-Beinzeug
+Amazonen-Waffenrock
+Wächter-Lende Z
+Wächter-Waffenrock Z
+Helfer-Rock Z
+Heiler-Rüschen Z
+GildenrittrWaffnrockX
+Gildenritter-Kilt X
+Magd-Rock X
+Exklusive Rüschen X
+Erz-Beinzeug X
+Erz-Waffenrock X
+Philia-Beinzeug X
+Philia-Waffenrock X
+GroßartProphetengürtl
+GroßartEinsidlrgürtel
+GroßartGotteszornObi
+GroßartigerMalmerObi
+Kushala-Kokon X
+Kushala-Windumhang X
+Kujula-Kokon
+Kujula-Windumhang
+Kaiser-Beinzeug X
+Kaiser-Waffenrock X
+GroßartMizuhaMaruobi
+GroßFantasieMaruobi
+GroßZwilichtKoshiate
+GroßMrgnlchtKoshiate
+GroßAdamantiKoshiate
+GroßEpochenKoshiate
+Gogma-Beinzeug
+Gogma-Waffenrock
+Rebellionshüftring Z
+Aufruhr-Waffenrock Z
+Akantor-Gürtel X
+Akantor-Schärpe X
+Ukanlos-Gürtel X
+Ukanlos-Schärpe
+Gier-Beinzeug Z
+Gier-Waffenrock Z
+Excello-Hüftring Z
+Excello-Waffenrock Z
+Brachydium-Beinzeug
+Brachydium-Waffenrock
+Wroth-Stacheln
+Wroth-Schuppen
+Kirin-Reifen X
+Kirin-Shorts X
+Kirin-Reifen Z
+Kirin-Shorts Z
+GroßartYakshaHüftrng
+GroßartGemetzlumhang
+GroßartYamatKoshiate
+GroßartMutsuKoshiate
+GroßartHyugaKoshiate
+GroßartAmagiKoshiate
+Kaiserin-Lende X
+KaiserinWaffenrock X
+Helios-Hüftring X
+Helios-Waffenrock X
+Selene-Hüftring X
+Selene-Waffenrock X
+Auroros-Koshiate EX
+Genesis-Koshiate EX
+Borealis-Koshiate EX
+Glyphen-Koshiate EX
+Sturm-Obi
+Firmament-Obi
+Miralis-Stacheln
+Miralis-Hülse
+Escadora-Macht EX
+Escadora-Kraft EX
+SternenritterHüftring
+SternenritterWffnrock
+Pirate King Coil J
+Pirate King Skirt J
+Champion Belt
+Strongman Belt
+GoldnerMondhüftringZ
+GoldenerMondwffnrckZ
+SilberSonnenhüftrngZ
+SilberSonnenwffnrckZ
+Rebellionshüftring X
+Aufruhr-Waffenrock X
+Drachenrückgrat X
+Drachenschuppe X
+WeißerFatalisRckgrat
+WeißerFatalisSchuppe
+Jäger-Surcot GX
+Jäger-Tabard GX
+Gier-Surcot GX
+Gier-Tabard GX
+Sturm-Leibbinde GX
+FirmanentLeibbinde GX
+KarmesFatalisSurcotGX
+KarmesFatalisTabardGX

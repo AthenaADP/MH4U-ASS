@@ -1,0 +1,599 @@
+﻿Cinturón de cuero
+Cinturón valeroso
+Cinturón de malla
+Muslera de cazador
+Cota de cazador
+Muslera de hueso
+Cota de hueso
+Faja de aleación
+Cota de aleación
+Falda de Loc Lac
+Cinturón ligero
+Cinturón de hierro
+Faja de Bnahabra
+Cota de Bnahabra
+Faja de Rhenoplos
+Cota de Rhenoplos
+Cinturón de Remobra
+Banda de Remobra
+Muslera de Jaggi
+Cota de Jaggi
+Muslera de Genprey
+Cota de Genprey
+Muslera de Ioprey
+Cota de Ioprey
+Muslera de Lagombi
+Cota de Lagombi
+Muslera de Kecha
+Cota de Kecha
+Muslera de Conga
+Cota de Conga
+Muslera de Gypceros
+Cota de Gypceros
+Muslera Tetsucabra
+Cota de Tetsucabra
+Muslera de Nerscylla
+Cota de Nerscylla
+Muslera de Zamtrios
+Cota de Zamtrios
+Muslera de Najarala
+Cota de Najarala
+Muslera de Khezu
+Cota de Khezu
+Muslera de Rathian
+Cota de Rathian
+Muslera Velociprey
+Cota de Velociprey
+Muslera de Kut-Ku
+Cota de Kut-Ku
+Muslera de Basarios
+Cota de Basarios
+Muslera de Arzuros
+Cota de Arzuros
+Muslera de Ludroth
+Cota de Ludroth
+Muslera de Barroth
+Cota de Barroth
+Muslera Nibelsnarf
+Cota de Nibelsnarf
+Muslera de Ceanataur
+Cota de Ceanataur
+Muslera de megametal
+Cota de megametal
+Muslera de combate
+Cota de combate
+Muslera de Gore
+Cota de Gore
+Muslera de Rathalos
+Cota de Rathalos
+Muslera de Tigrex
+Cota de Tigrex
+Muslera de Zinogre
+Cota de Zinogre
+Muslera de Seltas
+Cota de Seltas
+Muslera de Gravios
+Cota de Gravios
+Muslera Brachydios
+Cota de Brachydios
+Cinto del ocaso
+Cinto del alba
+Cinto tenaz
+Cinto de época
+Muslera de arco
+Cota de arco
+Muslera amor filial
+Cota de amor filial
+Muslera de Garuga
+Cota de Garuga
+Aro de Kirin
+Calzoncillos Kirin
+Muslera de Nargacuga
+Cota de Nargacuga
+Muslera de Uragaan
+Cota de Uragaan
+Muslera Duramboros
+Cota de Duramboros
+Muslera de Lava
+Cota de Lava
+Faja de Diablos
+Cota de Diablos
+Muslera de Auroros
+Muslera de Génesis
+Muslera de Borealis
+Muslera de Glifo
+Faja de lingote
+Cota de lingote
+Faja de Bnahabra S
+Cota de Bnahabra S
+Faja de Rhenoplos S
+Cota de Rhenoplos S
+Cinturón Remobra S
+Banda de Remobra S
+Muslera de Jaggi S
+Cota de Jaggi S
+Muslera de Genprey S
+Cota de Genprey S
+Muslera de Ioprey S
+Cota de Ioprey S
+Muslera de Lagombi S
+Cota de Lagombi S
+Muslera de Kecha S
+Cota de Kecha S
+Muslera de Conga S
+Cota de Conga S
+Muslera Velociprey S
+Cota de Velociprey S
+Muslera de Kut-Ku S
+Cota de Kut-Ku S
+Muslera de Vespoid
+Cota de Vespoid
+Muslera de Cephalos
+Cota de Cephalos
+Muslera de Volvidon
+Cota de Volvidon
+Muslera de Hermitaur
+Cota de Hermitaur
+Faja de Qurupeco
+Cota de Qurupeco
+Muslera de cuero S
+Cota de cuero S
+Muslera valerosa S
+Cota valerosa S
+Muslera de malla S
+Cota de malla S
+Muslera de cazador S
+Cota de cazador S
+Muslera de hueso S
+Cota de hueso S
+Faja de aleación S
+Cota de aleación S
+Faja metal cromado
+Cota metal cromado
+Hoja de Mosgharl
+Fronda de Mosgharl
+Élitro de Aelucanth
+Ala de Aelucanth
+Élitro de Rhopessa
+Ala de Rhopessa
+Faldón de langosta
+Cota de langosta
+Faldón de guardián
+Cota de guardián
+Falda de ayudante
+Adornos de asistente
+Faja bardo gremio
+Cota de bardo gremio
+Falda de colegiala
+Minifalda colegiala
+Muslera de Conga U
+Cota de Conga U
+Muslera Gypceros S
+Cota de Gypceros S
+Muslera Tetsucabra S
+Cota de Tetsucabra S
+Muslera Nerscylla S
+Cota de Nerscylla S
+Muslera Zamtrios S
+Cota de Zamtrios S
+Muslera Najarala S
+Cota de Najarala S
+Muslera de Khezu S
+Cota de Khezu S
+Muslera de Rathian S
+Cota de Rathian S
+Muslera Rathalos S
+Cota de Rathalos S
+Muslera de Tigrex S
+Cota de Tigrex S
+Muslera de Zinogre S
+Cota de Zinogre S
+Muslera de Seltas S
+Cota de Seltas S
+Muslera de Gravios S
+Cota de Gravios S
+Muslera de Kut-Ku U
+Cota de Kut-Ku U
+Muslera Basarios S
+Cota de Basarios S
+Muslera de Garuga S
+Cota de Garuga S
+Faja de Mono S
+Cota de Mono S
+Muslera de Blango
+Cota de Blango
+Muslera de Gobul
+Cota de Gobul
+Muslera de Barioth
+Cota de Barioth
+Muslera megametal S
+Cota de megametal S
+Élitro de obituario
+Ala de obituario
+Élitro de mariposa
+Ala de mariposa
+Faja Artiana S
+Cota Artiana S
+Ceñidor Chakra
+Musleras de Gore S
+Cota de Gore S
+Muslera de Regios S
+Cota de Regios S
+Muslera Gypceros U
+Cota de Gypceros U
+Muslera de Khezu U
+Cota de Khezu U
+Faja corazón Rath
+Cota corazón Rath
+Faja de alma de Rath
+Cota de alma de Rath
+Muslera de Tigrex U
+Cota de Tigrex U
+Muslera de Zinogre U
+Cota de Zinogre U
+Muslera de Gravios U
+Cota de Gravios U
+Muslera Brachydios S
+Cota de Brachydios S
+Faja de Vangis
+Cota de Vangis
+Muslera Basarios U
+Cota de Basarios U
+Aro de Kirin S
+Calzoncillos Kirin S
+Muslera de Lagiacrus
+Cota de Lagiacrus
+Muslera de Agnaktor
+Cota de Agnaktor
+Faja de Dober
+Cota de Dober
+Faja de halcón
+Cota de halcón
+Falda académica
+Adornos académicos
+Cota caball. gremio
+Falda caball. gremio
+Falda de doncella
+Adornos de doncella
+Obi cielo de Yukumo
+Obi tierra de Yukumo
+Fajín de soldado
+Cinturón de arquero
+Muslera cint. negro
+Cota cinturón negro
+Falda de marinera
+Minifalda marinera
+Muslera de arco S
+Cota de arco S
+Musl. amor filial S
+Cota amor filial S
+Obi dorado
+Obi de titiritero
+Obi de ira divina
+Cinturón rompementes
+Rollo de Kushala
+Cinta viento Kushala
+Muslera de Káiser
+Cota de Káiser
+Archicinto del ocaso
+Archicinto del alba
+Archicinto tenaz
+Archicinto de época
+Faja de rebelión
+Cota vandálica
+Cincho de Akantor
+Fajín de Akantor
+Faja sol de plata
+Cota sol de plata
+Faja luna dorada
+Cota luna dorada
+Muslera voraz
+Cota voraz
+Faja excelente
+Cota excelente
+Espinas de dragón
+Escamas de dragón
+Alas carmesí Fatalis
+Cola carmesí Fatalis
+Aro de Kirin U
+Calzoncillos Kirin U
+Cincho de Ukanlos
+Fajín de Ukanlos
+Cinta de Indra
+Cota firme
+Faldón de Yaksha
+Cinta de matanza
+Muslera emperatriz
+Cota de emperatriz
+Fajín de Mizuha
+Cota extravagante
+Faja de Helios
+Cota de Helios
+Faja de Selene
+Cota de Selene
+Poder Escadora
+Fuerza Escadora
+Muslera Rathian EX
+Cota de Rathian EX
+Muslera Rathalos EX
+Cota de Rathalos EX
+Rollo Kushala EX
+Cinta v. Kushala EX
+Muslera de Káiser EX
+Cota de Káiser EX
+Muslera de Tigrex EX
+Cota de Tigrex EX
+Koshiate de Yamato
+Koshiate de Mutsu
+Koshiate de Hyuga
+Koshiate de Amagi
+Cint. cielo Shinobi
+Cint. tierra Shinobi
+Faja estrella azul
+Cota estrella azul
+Faja de Capitán J
+Falda de Capitán J
+Faja Legend. J
+Falda Legend. J
+Cinturón de Bouya
+Hebilla de Bouya
+Bolsa de Uniqlo
+Bolsita de Uniqlo
+Faja de luz estelar
+Cota de luz estelar
+Faja del Zodiaco
+Cota del Zodiaco
+Cinturón del héroe
+Alforjas del héroe
+Aro de Kirin U EX
+Calzon. Kirin U EX
+Faja de lingote EX
+Cota de lingote EX
+Faja Artiana EX
+Cota Artiana EX
+Muslera de Magala EX
+Cota de Magala EX
+Faja de rebelión EX
+Cota vandálica EX
+Pareo de pastelero
+Delantal de pastelero
+Faja de Bnahabra X
+Cota de Bnahabra X
+Faja de Rhenoplos X
+Cota de Rhenoplos X
+Muslera de Ioprey X
+Cota de Ioprey X
+Muslera de Cephalos X
+Cota de Cephalos X
+Muslera de Lagombi X
+Cota de Lagombi X
+Muslera de Kecha X
+Cota de Kecha X
+Muslera de Kecha Z
+Cota de Kecha Z
+Muslera de Conga X
+Cota de Conga X
+Muslera de Conga Z
+Cota de Conga Z
+Muslera Gypceros X
+Cota de Gypceros X
+Muslera Gypceros Z
+Cota de Gypceros Z
+Muslera Hermitaur X
+Cota de Hermitaur X
+Muslera Hermitaur Z
+Cota de Hermitaur Z
+Muslera Tetsucabra X
+Cota de Tetsucabra X
+Muslera Tetsucabra Z
+Cota de Tetsucabra Z
+Muslera Nerscylla X
+Cota de Nerscylla X
+Muslera de Zamtrios X
+Cota de Zamtrios X
+Muslera de Zamtrios Z
+Cota de Zamtrios Z
+Muslera de Najarala X
+Cota de Najarala X
+Muslera de Najarala Z
+Cota de Najarala Z
+Muslera de Khezu X
+Cota de Khezu X
+Muslera de Khezu Z
+Cota de Khezu Z
+Muslera de Rathian X
+Cota de Rathian X
+Faja corazón Rath Z
+Cota corazón Rath Z
+Muslera Velociprey X
+Cota de Velociprey X
+Muslera de Kut-Ku X
+Cota de Kut-Ku X
+Muslera de Kut-Ku Z
+Cota de Kut-Ku Z
+Muslera Basarios X
+Cota de Basarios X
+Muslera de Basarios Z
+Cota de Basarios Z
+Faja de Qurupeco X
+Cota de Qurupeco X
+Muslera de Barroth X
+Cota de Barroth X
+Muslera de Gobul X
+Cota de Gobul X
+Muslera Nibelsnarf X
+Cota de Nibelsnarf X
+Muslera de Barioth X
+Cota de Barioth X
+Muslera Agnaktor X
+Cota de Agnaktor X
+Muslera Plesioth Z
+Cota de Plesioth Z
+Élitro obituario X
+Ala de obituario X
+Élitro de mariposa X
+Ala de mariposa X
+Élitro Aelucanth X
+Ala de Aelucanth X
+Élitro de Rhopessa X
+Ala de Rhopessa X
+Faldón de guardián X
+Cota de guardián X
+Falda de ayudante X
+Adornos de sanador X
+Muslera de Regios X
+Cota de Regios X
+Muslera Nerscylla Z
+Cota de Nerscylla Z
+Muslera Rathalos X
+Cota de Rathalos X
+Faja alma Rath Z
+Cota alma Rath Z
+Muslera de Tigrex X
+Cota de Tigrex X
+Muslera de Tigrex Z
+Cota de Tigrex Z
+Muslera de Zinogre X
+Cota de Zinogre X
+Muslera de Zinogre Z
+Cota de Zinogre Z
+Muslera de Seltas X
+Cota de Seltas X
+Muslera de Seltas Z
+Cota de Seltas Z
+Muslera de Gravios X
+Cota de Gravios X
+Muslera de Gravios Z
+Cota de Gravios Z
+Faja de Diablos X
+Cota de Diablos X
+Faja de Diablos Z
+Cota de Diablos Z
+Muslera Brachydios X
+Cota de Brachydios X
+Faja de Vangis X
+Cota de Vangis X
+Muslera caótica
+Cota caótica
+Muslera de Nephilim
+Cota de Nephilim
+Muslera de Garuga X
+Cota de Garuga X
+Faja de Mono X
+Cota de Mono X
+Faldón de Monodevil
+Cota de Monodevil
+Muslera de Gore X
+Cota de Gore X
+Muslera Nargacuga X
+Cota de Nargacuga X
+Muslera Lagiacrus X
+Cota de Lagiacrus X
+Muslera Duramboros X
+Cota de Duramboros X
+Muslera de Lava X
+Cota de Lava X
+Faja Artiana X
+Cota Artiana X
+Faja de halcón X
+Cota de halcón X
+Falda académica X
+Adornos académicos X
+Muslera de élite
+Cota de élite
+Muslera fraternal
+Cota fraternal
+Faldón de guardián Z
+Cota de guardián Z
+Falda de ayudante Z
+Adornos de sanador Z
+Cota g. caballero X
+Falda g. caballero X
+Falda de doncella X
+Adornos exclusivos X
+Muslera de arco X
+Cota de arco X
+Muslera amor filial X
+Cota de amor filial X
+Gran cinturón divino
+Gran cinturón ermitaño
+Gran obi ira divina
+Gran cinturón rompem.
+Rollo de Kushala X
+Cinta vie. Kushala X
+Rollo de Kujula
+Cinta viento Kujula
+Muslera de Káiser X
+Cota de Káiser X
+Gran fajín de Mizuha
+Gr. cota extravag.
+Gran cinto del ocaso
+Gran cinto del alba
+Gran cinto tenaz
+Gran cinto de época
+Muslera de Gogma
+Cota de Gogma
+Faja de rebelión Z
+Cota vandálica Z
+Cincho de Akantor X
+Fajín de Akantor X
+Cincho de Ukanlos X
+Fajín de Ukanlos X
+Muslera voraz Z
+Cota voraz Z
+Faja excelente Z
+Cota excelente Z
+Muslera de Brachydium
+Cota de Brachydium
+Espinas furiosas
+Escamas furiosas
+Aro de Kirin X
+Calzoncillos Kirin X
+Aro de Kirin Z
+Calzoncillos Kirin Z
+Faldón Gran Yaksha
+Gran cinta matanza
+Kosh. de Gran Yamato
+Koshiate Gran Mutsu
+Koshiate Gran Hyuga
+Koshiate Gran Amagi
+Faldón emperatriz X
+Cota de emperatriz X
+Faja de Helios X
+Cota de Helios X
+Faja de Selene X
+Cota de Selene X
+Muslera de Auroros EX
+Muslera de Génesis EX
+Muslera de borealis EX
+Muslera de Glifo EX
+Obi de tempestad
+Obi de firmamento
+Lengüeta de Miralis
+Vaina de Miralis
+Poder Escadora EX
+Fuerza Escadora EX
+Faja caball. estelar
+Cota caball. estelar
+Faja Rey Pirata J
+Falda Rey Pirata J
+Cinturón de campeón
+Cinturón musculoso
+Faldón luna dorada Z
+Cota luna dorada Z
+Fald. sol de plata Z
+Cota sol de plata Z
+Faja de rebelión X
+Cota vandálica X
+Espinazo de dragón X
+Vaina de dragón X
+Espinaz. Fatalis bl.
+Escama Fatalis blan.
+Base de cazador GX
+Escarcela cazador GX
+Base voraz GX
+Escarcela voraz GX
+Braguero tempestad GX
+Brag. firmamento GX
+Base carm. Fatalis GX
+Esc. carm. Fatalis GX

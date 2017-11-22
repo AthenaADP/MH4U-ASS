@@ -1,0 +1,617 @@
+﻿Leather Trousers
+Derring Trousers
+Chainmail Trousers
+Hunter's Greaves
+Hunter's Leggings
+Bone Greaves
+Bone Leggings
+Alloy Greaves
+Alloy Leggings
+Loc Lac Boots
+Bnahabra Boots
+Bnahabra Pants
+Rhenoplos Greaves
+Rhenoplos Leggings
+Remobra Feet
+Remobra Tights
+Jaggi Greaves
+Jaggi Leggings
+Genprey Greaves
+Genprey Leggings
+Ioprey Greaves
+Ioprey Leggings
+Lagombi Greaves
+Lagombi Leggings
+Kecha Greaves
+Kecha Leggings
+Conga Greaves
+Conga Leggings
+Gypceros Greaves
+Gypceros Leggings
+Tetsucabra Greaves
+Tetsucabra Leggings
+Nerscylla Greaves
+Nerscylla Leggings
+Zamtrios Greaves
+Zamtrios Leggings
+Najarala Greaves
+Najarala Leggings
+Khezu Greaves
+Khezu Leggings
+Rathian Greaves
+Rathian Leggings
+Velociprey Greaves
+Velociprey Leggings
+Kut-Ku Greaves
+Kut-Ku Leggings
+Basarios Greaves
+Basarios Leggings
+Arzuros Greaves
+Arzuros Leggings
+Ludroth Greaves
+Ludroth Leggings
+Barroth Greaves
+Barroth Leggings
+Nibelsnarf Greaves
+Nibelsnarf Leggings
+Ceanataur Greaves
+Ceanataur Leggings
+High Metal Greaves
+High Metal Leggings
+Battle Greaves
+Battle Leggings
+Gore Greaves
+Gore Leggings
+Rathalos Greaves
+Rathalos Leggings
+Tigrex Greaves
+Tigrex Leggings
+Zinogre Greaves
+Zinogre Leggings
+Seltas Greaves
+Seltas Leggings
+Gravios Greaves
+Gravios Leggings
+Brachydios Greaves
+Brachydios Leggings
+Gloaming Greaves
+Dayspring Pleats
+Adamance Pleats
+Epoch Pleats
+Arc Greaves
+Arc Leggings
+Storge Greaves
+Storge Leggings
+Garuga Greaves
+Garuga Leggings
+Kirin Leg Guards
+Kirin Boots
+Nargacuga Greaves
+Nargacuga Leggings
+Uragaan Greaves
+Uragaan Leggings
+Duramboros Greaves
+Duramboros Leggings
+Lava Greaves
+Lava Leggings
+Diablos Greaves
+Diablos Leggings
+Auroros Pants
+Genesis Pants
+Borealis Hakama
+Glyph Hakama
+Artian Greaves
+Artian Leggings
+Ingot Greaves
+Ingot Leggings
+Bnahabra Boots S
+Bnahabra Pants S
+Rhenoplos Greaves S
+Rhenoplos Leggings S
+Remobra Feet S
+Remobra Tights S
+Jaggi Greaves S
+Jaggi Leggings S
+Genprey Greaves S
+Genprey Leggings S
+Ioprey Greaves S
+Ioprey Leggings S
+Lagombi Greaves S
+Lagombi Leggings S
+Kecha Greaves S
+Kecha Leggings S
+Conga Greaves S
+Conga Leggings S
+Velociprey Greaves S
+Velociprey Leggings S
+Kut-Ku Greaves S
+Kut-Ku Leggings S
+Vespoid Greaves
+Vespoid Leggings
+Cephalos Greaves
+Cephalos Leggings
+Volvidon Greaves
+Volvidon Leggings
+Hermitaur Greaves
+Hermitaur Leggings
+Qurupeco Greaves
+Qurupeco Leggings
+Plesioth Greaves
+Plesioth Leggings
+Leather Greaves S
+Leather Leggings S
+Derring Greaves S
+Derring Leggings S
+Chainmail Greaves S
+Chainmail Leggings S
+Hunter's Greaves S
+Hunter's Leggings S
+Bone Greaves S
+Bone Leggings S
+Alloy Greaves S
+Alloy Leggings S
+Chrome Metal Boots
+Chrome Metal Feet
+Mosgharl Roots
+Mosgharl Radicles
+Aelucanth Crura
+Aelucanth Tarsi
+Rhopessa Crura
+Rhopessa Tarsi
+Lobster Greaves
+Lobster Leggings
+Guardian Boots
+Guardian Pants
+Helper Socks
+Helper Tights
+Guild Bard Boots
+Guild Bard Gaiters
+Scholar's Socks
+Scholar's Sandals
+Conga Greaves U
+Conga Leggings U
+Gypceros Greaves S
+Gypceros Leggings S
+Tetsucabra Greaves S
+Tetsucabra Leggings S
+Nerscylla Greaves S
+Nerscylla Leggings S
+Zamtrios Greaves S
+Zamtrios Leggings S
+Najarala Greaves S
+Najarala Leggings S
+Khezu Greaves S
+Khezu Leggings S
+Rathian Greaves S
+Rathian Leggings S
+Rathalos Greaves S
+Rathalos Leggings S
+Tigrex Greaves S
+Tigrex Leggings S
+Zinogre Greaves S
+Zinogre Leggings S
+Seltas Greaves S
+Seltas Leggings S
+Gravios Greaves S
+Gravios Leggings S
+Kut-Ku Greaves U
+Kut-Ku Leggings U
+Basarios Greaves S
+Basarios Leggings S
+Garuga Greaves S
+Garuga Leggings S
+Mono Greaves S
+Mono Leggings S
+Blango Greaves
+Blango Leggings
+Gobul Greaves
+Gobul Leggings
+Barioth Greaves
+Barioth Leggings
+High Metal Greaves S
+High Metal Leggings S
+Ioprey Feet
+Ioprey Tights
+Obituary Crura
+Obituary Tarsi
+Butterfly Crura
+Butterfly Tarsi
+Artian Greaves S
+Artian Leggings S
+Chakra Anklet
+Gore Greaves S
+Gore Leggings S
+Regios Greaves S
+Regios Leggings S
+Gypceros Greaves U
+Gypceros Leggings U
+Khezu Greaves U
+Khezu Leggings U
+Rath Heart Greaves
+Rath Heart Leggings
+Rath Soul Greaves
+Rath Soul Leggings
+Tigrex Greaves U
+Tigrex Leggings U
+Zinogre Greaves U
+Zinogre Leggings U
+Gravios Greaves U
+Gravios Leggings U
+Brachydios Greaves S
+Brachy Leggings S
+Vangis Greaves
+Vangis Leggings
+Basarios Greaves U
+Basarios Leggings U
+Kirin Leg Guards S
+Kirin Boots S
+Lagiacrus Greaves
+Lagiacrus Leggings
+Agnaktor Greaves
+Agnaktor Leggings
+Dober Greaves
+Dober Leggings
+Hawkboots
+Hawkfeet
+Lecturer's Boots
+Lecturer's Footwear
+Guild Knight Boots
+Guild Knight Tights
+Maiden's Socks
+Maiden's Tights
+Yukumo Sky Hakama
+Yukumo Land Hakama
+Ranger's Espadrilles
+Archer's Espadrilles
+Black Belt Greaves
+Black Belt Leggings
+Sailor Socks
+Sailor Sandals
+Arc Greaves S
+Arc Leggings S
+Storge Greaves S
+Storge Leggings S
+Golden Hakama
+Puppeteer Tabi
+Divine Ire Hakama
+Mind Crusher Tabi
+Kushala Crus
+Kushala Shank
+Kaiser Greaves
+Kaiser Leggings
+Gloaming Archgreaves
+Dayspring Archpleats
+Adamance Archpleats
+Epoch Archpleats
+Rebellion Greaves
+Riot Leggings
+Akantor Hessian
+Akantor Boots
+Silver Solgreaves
+Silver Solleggings
+Golden Lunegreaves
+Golden Luneleggings
+Esurient Greaves
+Esurient Leggings
+Excello Greaves
+Excello Leggings
+Dragonfeet
+Dragonlegs
+Fatalis Crimsonfeet
+Fatalis Crimsonlegs
+Kirin Leg Guards U
+Kirin Boots U
+Ukanlos Hessian
+Ukanlos Boots
+Indra Leggings
+Steadfast Boots
+Yaksha Boots
+Carnage Boots
+Empress Greaves
+Empress Leggings
+Mizuha Leg Wrap
+Cham Trousers
+Helios Greaves
+Helios Leggings
+Selene Greaves
+Selene Leggings
+Escadora Sheath
+Escadora Scala
+EX Rathian Greaves
+EX Rathian Leggings
+EX Rathalos Greaves
+EX Rathalos Leggings
+EX Kushala Crus
+EX Kushala Shank
+EX Kaiser Greaves
+EX Kaiser Leggings
+EX Tigrex Greaves
+EX Tigrex Leggings
+Yamato Gusoku
+Mutsu Gusoku
+Hyuga Hakama
+Amagi Hakama
+Shinobi Sky Boots
+Shinobi Land Boots
+Black Leather Legs
+Black Leather Pants
+Blue Star Boots
+Blue Star Footwear
+Captain Boots J
+Captain Pants J
+Legend Boots J
+Legend Pants J
+Bouya Jeans
+Bouya Denims
+Uniqlo Slacks
+Uniqlo Tights
+Star Rook Greaves
+Star Rook Leggings
+Zodias Greaves
+Zodias Leggings
+Hero's Boots
+Hero's Leggings
+Ogre's Hakama
+Ogre's Robes
+EX Kirin Leg Guards U
+EX Kirin Boots U
+EX Ingot Greaves
+EX Ingot Leggings
+EX Artian Greaves
+EX Artian Leggings
+EX Gore Greaves
+EX Gore Leggings
+EX Rebellion Greaves
+EX Riot Leggings
+Patissier's Boots
+Patissier's Footwear
+Bnahabra Boots X
+Bnahabra Pants X
+Rhenoplos Greaves X
+Rhenoplos Leggings X
+Ioprey Greaves X
+Ioprey Leggings X
+Cephalos Greaves X
+Cephalos Leggings X
+Lagombi Greaves X
+Lagombi Leggings X
+Kecha Greaves X
+Kecha Leggings X
+Kecha Greaves Z
+Kecha Leggings Z
+Conga Greaves X
+Conga Leggings X
+Conga Greaves Z
+Conga Leggings Z
+Gypceros Greaves X
+Gypceros Leggings X
+Gypceros Greaves Z
+Gypceros Leggings Z
+Hermitaur Greaves X
+Hermitaur Leggings X
+Hermitaur Greaves Z
+Hermitaur Leggings Z
+Tetsucabra Greaves X
+Tetsucabra Leggings X
+Tetsucabra Greaves Z
+Tetsucabra Leggings Z
+Nerscylla Greaves X
+Nerscylla Leggings X
+Zamtrios Greaves X
+Zamtrios Leggings X
+Zamtrios Greaves Z
+Zamtrios Leggings Z
+Najarala Greaves X
+Najarala Leggings X
+Najarala Greaves Z
+Najarala Leggings Z
+Khezu Greaves X
+Khezu Leggings X
+Khezu Greaves Z
+Khezu Leggings Z
+Rathian Greaves X
+Rathian Leggings X
+Rath Heart Greaves Z
+Rath Heart Leggings Z
+Velociprey Greaves X
+Velociprey Leggings X
+Kut-Ku Greaves X
+Kut-Ku Leggings X
+Kut-Ku Greaves Z
+Kut-Ku Leggings Z
+Basarios Greaves X
+Basarios Leggings X
+Basarios Greaves Z
+Basarios Leggings Z
+Qurupeco Greaves X
+Qurupeco Leggings X
+Barroth Greaves X
+Barroth Leggings X
+Gobul Greaves X
+Gobul Leggings X
+Nibelsnarf Greaves X
+Nibelsnarf Leggings X
+Barioth Greaves X
+Barioth Leggings X
+Agnaktor Greaves X
+Agnaktor Leggings X
+Plesioth Greaves Z
+Plesioth Leggings Z
+Kita Star Hakama
+Umi Ocean Hakama
+Obituary Crura X
+Obituary Tarsi X
+Butterfly Crura X
+Butterfly Tarsi X
+Aelucanth Crura X
+Aelucanth Tarsi X
+Rhopessa Crura X
+Rhopessa Tarsi X
+Guardian Boots X
+Guardian Pants X
+Helper Socks X
+Healer Socks X
+Regios Greaves X
+Regios Leggings X
+Nerscylla Greaves Z
+Nerscylla Leggings Z
+Rathalos Greaves X
+Rathalos Leggings X
+Rath Soul Greaves Z
+Rath Soul Leggings Z
+Tigrex Greaves X
+Tigrex Leggings X
+Tigrex Greaves Z
+Tigrex Leggings Z
+Zinogre Greaves X
+Zinogre Leggings X
+Zinogre Greaves Z
+Zinogre Leggings Z
+Seltas Greaves X
+Seltas Leggings X
+Seltas Greaves Z
+Seltas Leggings Z
+Gravios Greaves X
+Gravios Leggings X
+Gravios Greaves Z
+Gravios Leggings Z
+Diablos Greaves X
+Diablos Leggings X
+Diablos Greaves Z
+Diablos Leggings Z
+Brachydios Greaves X
+Brachydios Leggings X
+Vangis Greaves X
+Vangis Leggings X
+Chaos Greaves
+Chaos Leggings
+Nephilim Greaves
+Nephilim Leggings
+Garuga Greaves X
+Garuga Leggings X
+Mono Greaves X
+Mono Leggings X
+Monodevil Greaves
+Monodevil Leggings
+Gore Greaves X
+Gore Leggings X
+Nargacuga Greaves X
+Nargacuga Leggings X
+Lagiacrus Greaves X
+Lagiacrus Leggings X
+Duramboros Greaves X
+Duramboros Leggings X
+Lava Greaves X
+Lava Leggings X
+Artian Greaves X
+Artian Leggings X
+Hawkboots X
+Hawkfeet X
+Lecturer's Boots X
+Lecturer's Footwear X
+Ace Greaves
+Ace Leggings
+Sororal Greaves
+Sororal Leggings
+Guardian Boots Z
+Guardian Pants Z
+Helper Socks Z
+Healer Socks Z
+G. Knight Boots X
+G. Knight Tights X
+Maiden's Socks X
+Exclusive Tights X
+Arc Greaves X
+Arc Leggings X
+Storge Greaves X
+Storge Leggings X
+Grand God's Peer Feet
+Grand Hermit Feet
+Grand Divine Ire Feet
+Grand Crusher Feet
+Kushala Crus X
+Kushala Shank X
+Kujula Crus
+Kujula Shank
+Kaiser Greaves X
+Kaiser Leggings X
+Grand Mizuha Leg Wrap
+Grand Cham Trousers
+Grand Gloaming Greaves
+Grand Dayspring Pleats
+Grand Adamance Pleats
+Grand Epoch Greaves
+Gogma Greaves
+Gogma Leggings
+Rebellion Greaves Z
+Riot Leggings Z
+Akantor Hessian X
+Akantor Boots X
+Ukanlos Hessian X
+Ukanlos Boots X
+Esurient Greaves Z
+Esurient Leggings Z
+Excello Greaves Z
+Excello Leggings Z
+Brachydium Greaves
+Brachydium Leggings
+Wrothfeet
+Wrothlegs
+Kirin Leg Guards X
+Kirin Boots X
+Kirin Leg Guards Z
+Kirin Boots Z
+Grand Yaksha Boots
+Grand Carnage Boots
+Grand Yamato Gusoku
+Grand Mutsu Gusoku
+Grand Hyuga Hakama
+Grand Amagi Hakama
+Empress Greaves X
+Empress Leggings X
+Helios Greaves X
+Helios Leggings X
+Selene Greaves X
+Selene Leggings X
+EX Auroros Pants
+EX Genesis Pants
+EX Borealis Hakama
+EX Glyph Hakama
+Tempest Hakama
+Welkin Hakama
+Miralis Drogues
+Miralis Kedges
+EX Escadora Sheath
+EX Escadora Scala
+Star Knight Greaves
+Star Knight Leggings
+Pirate King Boots J
+Pirate King Pants J
+Champion Leg Lock
+Strongman Leg Lock
+Varia Suit Leg Guards
+Varia Suit Legs
+Zero Suit Boots
+Zero Suit Tights
+Golden Lunegreaves Z
+Golden Luneleggings Z
+Silver Solgreaves Z
+Silver Solleggings Z
+Rebellion Greaves X
+Riot Leggings X
+Dragonfeet X
+Dragonlegs X
+White Fatalis Feet
+White Fatalis Legs
+GX Hunter's Cuisses
+GX Hunter's Jambs
+GX Esurient Cuisses
+GX Esurient Jambs
+GX Tempest Wingpleats
+GX Welkin Wingpleats
+GX Fatalis Crimsonboots
+GX Fatalis Crimsonjambs
+Greaves of Rage
+Leggings of Rage
+Greaves of Anat
+Leggings of Anat

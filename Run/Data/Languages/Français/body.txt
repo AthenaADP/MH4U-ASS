@@ -1,0 +1,629 @@
+Veste en cuir
+Veste de bravoure
+Veste en maille
+Cotte de chasseur
+Tunique de chasseur
+Cotte d'os
+Tunique d'os
+Cotte en alliage
+Tunique en alliage
+Foulard de Loc Lac
+Tenue Bnahabra
+Veste Bnahabra
+Manteau Slagtoth
+Cape Slagtoth
+Cotte Rhenoplos
+Tunique Rhenoplos
+Plastron Remobra
+Vêtement Remobra
+Cotte Jaggi
+Tunique Jaggi
+Cotte Genprey
+Tunique Genprey
+Cotte Ioprey
+Tunique Ioprey
+Cotte Lagombi
+Tunique Lagombi
+Cotte Kecha
+Tunique Kecha
+Cotte Conga
+Tunique Conga
+Cotte Gypceros
+Tunique Gypceros
+Cotte Tetsucabra
+Tunique Tetsucabra
+Cotte Nerscylla
+Tunique Nerscylla
+Cotte Zamtrios
+Tunique Zamtrios
+Cotte Najarala
+Tunique Najarala
+Cotte Khezu
+Tunique Khezu
+Cotte Rathian
+Tunique Rathian
+Cotte Velociprey
+Tunique Velociprey
+Cotte Kut-Ku
+Tunique Kut-Ku
+Cotte Basarios
+Tunique Basarios
+Cotte Arzuros
+Tunique Arzuros
+Cotte Ludroth
+Tunique Ludroth
+Cotte Barroth
+Tunique Barroth
+Cotte Nibelsnarf
+Tunique Nibelsnarf
+Cotte Ceanataur
+Tunique Ceanataur
+Cotte haut-métal
+Tunique haut-métal
+Cotte de combat
+Tunique de combat
+Cotte Gore
+Tunique Gore
+Cotte Rathalos
+Tunique Rathalos
+Cotte Tigrex
+Tunique Tigrex
+Cotte Zinogre
+Tunique Zinogre
+Cotte Seltas
+Tunique Seltas
+Cotte Gravios
+Tunique Gravios
+Cotte Brachydios
+Tunique Brachydios
+Doate Crépuscule
+Doate Aurore
+Muneate Mithril
+Muneate ancestral
+Cotte Archange
+Tunique Archange
+Cotte Philia
+Tunique Philia
+Cotte Garuga
+Tunique Garuga
+Veste Kirin
+Cape Kirin
+Cotte Nargacuga
+Tunique Nargacuga
+Cotte Uragaan
+Tunique Uragaan
+Cotte Duramboros
+Tunique Duramboros
+Cotte Lava
+Tunique Lava
+Cotte Diablos
+Tunique Diablos
+Doate Auroros
+Doate Genesis
+Muneate Borealis
+Muneate Glyphe
+Cotte Artian
+Tunique Artian
+Cotte en lingot
+Tunique en lingot
+Tenue Bnahabra S
+Veste Bnahabra S
+Manteau Slagtoth S
+Cape Slagtoth S
+Cotte Rhenoplos S
+Tunique Rhenoplos S
+Plastron Remobra S
+Vêtement Remobra S
+Cotte Jaggi S
+Tunique Jaggi S
+Cotte Genprey S
+Tunique Genprey S
+Cotte Ioprey S
+Tunique Ioprey S
+Cotte Lagombi S
+Tunique Lagombi S
+Cotte Kecha S
+Tunique Kecha S
+Cotte Conga S
+Tunique Conga S
+Cotte Velociprey S
+Tunique Velociprey S
+Cotte Kut-Ku S
+Tunique Kut-Ku S
+Cotte Vespoid
+Tunique Vespoid
+Cotte Cephalos
+Tunique Cephalos
+Cotte Volvidon
+Tunique Volvidon
+Cotte Hermitaur
+Tunique Hermitaur
+Cotte Qurupeco
+Tunique Qurupeco
+Cotte Plesioth
+Tunique Plesioth
+Cotte en cuir S
+Tunique en cuir S
+Cotte de bravoure S
+Tunique bravoure S
+Cotte de mailles S
+Tunique de mailles S
+Cotte de chasseur S
+Tunique chasseur S
+Cotte d'os S
+Tunique d'os S
+Cotte en alliage S
+Tunique en alliage S
+Corset Mosgharl
+Pansière Mosgharl
+Thorax Aelucanth
+Pleuron Aelucanth
+Thorax Rhopessa
+Pleuron Rhopessa
+Coquille Homard
+Peau Homard
+Tenue Gardien
+Veste Gardien
+Tenue de servante
+Veste de servante
+Boléro de barde
+Veste de barde
+Tenue de clerc
+Veste de clerc
+Cotte Conga U
+Tunique Conga U
+Cotte Gypceros S
+Tunique Gypceros S
+Cotte Tetsucabra S
+Tunique Tetsucabra S
+Cotte Nerscylla S
+Tunique Nerscylla S
+Cotte Zamtrios S
+Tunique Zamtrios S
+Cotte Najarala S
+Tunique Najarala S
+Cotte Khezu S
+Tunique Khezu S
+Cotte Rathian S
+Tunique Rathian S
+Cotte Rathalos S
+Tunique Rathalos S
+Cotte Tigrex S
+Tunique Tigrex S
+Cotte Zinogre S
+Tunique Zinogre S
+Cotte Seltas S
+Tunique Seltas S
+Cotte Gravios S
+Tunique Gravios S
+Cotte Kut-Ku U
+Tunique Kut-Ku U
+Cotte Basarios S
+Tunique Basarios S
+Cotte Garuga S
+Tunique Garuga S
+Cotte Mono S
+Tunique Mono S
+Cotte Blango
+Tunique Blango
+Cotte Gobul
+Tunique Gobul
+Cotte Barioth
+Tunique Barioth
+Cotte haut-métal S
+Tunique haut-métal S
+Plastron Ioprey
+Vêtement Ioprey
+Thorax Nécrologie
+Pleuron Nécrologie
+Thorax papillon
+Pleuron papillon
+Cotte Artian S
+Tunique Artian S
+Collier Chakra
+Cotte Gore S
+Tunique Gore S
+Cotte Regios S
+Tunique Regios S
+Cotte Gypceros U
+Tunique Gypceros U
+Cotte Khezu U
+Tunique Khezu U
+Cotte Cœur Rathian
+Tunique Cœur Rathian
+Cotte Âme Rathalos
+Tunique Âme Rathalos
+Cotte Tigrex U
+Tunique Tigrex U
+Cotte Zinogre U
+Tunique Zinogre U
+Cotte Gravios U
+Tunique Gravios U
+Cotte Brachydios S
+Tunique Brachydios S
+Cotte Vangis
+Tunique Vangis
+Cotte Basarios U
+Tunique Basarios U
+Veste Kirin S
+Cape Kirin S
+Cotte Lagiacrus
+Tunique Lagiacrus
+Cotte Agnaktor
+Tunique Agnaktor
+Cotte Dober
+Tunique Dober
+Tenue Faucon
+Veste Faucon
+Tenue d'érudite
+Veste d'érudite
+Tenue Chevalier
+Veste Chevalier
+Tenue de soubrette
+Veste de soubrette
+Dogi Yukumo Ciel
+Dogi Yukumo Terre
+Domaki de ranger
+Domaki d'archer
+Cotte obi noir
+Tunique obi noir
+Tenue de marin
+Veste de marin
+Cotte Archange S
+Tunique Archange S
+Cotte Philia S
+Tunique Philia S
+Haori d'or
+Habit Kuroko
+Haori Ire divine
+Habit Brise-esprit
+Cista Kushala
+Étau Kushala
+Cotte Kaiser
+Tunique Kaiser
+Doate Crépuscule H
+Doate Aurore H
+Muneate Mithril H
+Muneate ancestral H
+Cotte Rébellion
+Tunique Anarchie
+Aegis Akantor
+Plaque Akantor
+Cotte Solargent
+Tunique Solargent
+Cotte Lunedor
+Tunique Lunedor
+Cotte Voracité
+Tunique Voracité
+Cotte Excello
+Tunique Excello
+Cuir-de-dragon
+Peau-de-dragon
+Cuir Fatalis rouge
+Peau Fatalis rouge
+Veste Kirin U
+Cape Kirin U
+Aegis Ukanlos
+Plaque Ukanlos
+Doate Indra
+Doate inflexible
+Hagoromo Spectre
+Hagoromo Carnage
+Cotte impériale
+Tunique impériale
+Muneate Mizuha
+Muneate fantasque
+Cotte Helios
+Tunique Helios
+Cotte Selene
+Tunique Selene
+Âme Escadora
+Ardeur Escadora
+Cotte Rathian EX
+Tunique Rathian EX
+Cotte Rathalos EX
+Tunique Rathalos EX
+Cista Kushala EX
+Étau Kushala EX
+Cotte Kaiser EX
+Tunique Kaiser EX
+Cotte Tigrex EX
+Tunique Tigrex EX
+Doate Yamato
+Doate Mutsu
+Muneate Hyuga
+Muneate Amagi
+Habit Shinobi Cieux
+Habit Shinobi Terre
+Gilet fan-club
+Survêt fan-club
+Gilet de l'enfer
+Cuir de l'enfer
+Tenue Armament
+Veste Armament
+Tenue Étoile bleue
+Veste Étoile bleue
+Costume Pirate J
+Veste Pirate J
+Tunique camouflage
+Gilet de camouflage
+Tenue de Légende J
+Veste de Légende J
+Tenue Bouya
+Veste Bouya
+Blouson Uniqlo
+Sweat Uniqlo
+Cotte Star Rook
+Tunique Star Rook
+Cotte Zodias
+Tunique Zodias
+Tenue du Héros
+Habit du Héros
+Tenue d'Ogre
+Veste d'Ogre
+Veste Kirin U EX
+Cape Kirin U EX
+Cotte en lingot EX
+Tunique en lingot EX
+Cotte Artian EX
+Tunique Artian EX
+Cotte Gore EX
+Tunique Gore EX
+Cotte Rébellion EX
+Tunique Anarchie EX
+Tenue de pâtissier
+Veste de pâtissier
+Tenue Bnahabra X
+Veste Bnahabra X
+Manteau Slagtoth X
+Cape Slagtoth X
+Cotte Rhenoplos X
+Tunique Rhenoplos X
+Cotte Ioprey X
+Tunique Ioprey X
+Cotte Cephalos X
+Tunique Cephalos X
+Cotte Lagombi X
+Tunique Lagombi X
+Cotte Kecha X
+Tunique Kecha X
+Cotte Kecha Z
+Tunique Kecha Z
+Cotte Conga X
+Tunique Conga X
+Cotte Conga Z
+Tunique Conga Z
+Cotte Gypceros X
+Tunique Gypceros X
+Cotte Gypceros Z
+Tunique Gypceros Z
+Cotte Hermitaur X
+Tunique Hermitaur X
+Cotte Hermitaur Z
+Tunique Hermitaur Z
+Cotte Tetsucabra X
+Tunique Tetsucabra X
+Cotte Tetsucabra Z
+Tunique Tetsucabra Z
+Cotte Nerscylla X
+Tunique Nerscylla X
+Cotte Zamtrios X
+Tunique Zamtrios X
+Cotte Zamtrios Z
+Tunique Zamtrios Z
+Cotte Najarala X
+Tunique Najarala X
+Cotte Najarala Z
+Tunique Najarala Z
+Cotte Khezu X
+Tunique Khezu X
+Cotte Khezu Z
+Tunique Khezu Z
+Cotte Rathian X
+Tunique Rathian X
+Cotte Cœur Rathian Z
+Tunique Cœur Rathian Z
+Cotte Velociprey X
+Tunique Velociprey X
+Cotte Kut-Ku X
+Tunique Kut-Ku X
+Cotte Kut-Ku Z
+Tunique Kut-Ku Z
+Cotte Basarios X
+Tunique Basarios X
+Cotte Basarios Z
+Tunique Basarios Z
+Cotte Qurupeco X
+Tunique Qurupeco X
+Cotte Barroth X
+Tunique Barroth X
+Cotte Gobul X
+Tunique Gobul X
+Cotte Nibelsnarf X
+Tunique Nibelsnarf X
+Cotte Barioth X
+Tunique Barioth X
+Cotte Agnaktor X
+Tunique Agnaktor X
+Cotte Plesioth Z
+Tunique Plesioth Z
+Pèlerine Hokushin
+Pèlerine Océan
+Thorax Nécrologie X
+Pleuron Nécrologie X
+Thorax papillon X
+Pleuron papillon X
+Thorax Aelucanth X
+Pleuron Aelucanth X
+Thorax Rhopessa X
+Pleuron Rhopessa X
+Tenue Gardien X
+Veste Gardien X
+Veste de servante X
+Veste guérisseuse X
+Cotte Regios X
+Tunique Regios X
+Cotte Nerscylla Z
+Tunique Nerscylla Z
+Cotte Rathalos X
+Tunique Rathalos X
+Cotte Âme Rathalos Z
+Tunique Âme Rathalos Z
+Cotte Tigrex X
+Tunique Tigrex X
+Cotte Tigrex Z
+Tunique Tigrex Z
+Cotte Zinogre X
+Tunique Zinogre X
+Cotte Zinogre Z
+Tunique Zinogre Z
+Cotte Seltas X
+Tunique Seltas X
+Cotte Seltas Z
+Tunique Seltas Z
+Cotte Gravios X
+Tunique Gravios X
+Cotte Gravios Z
+Tunique Gravios Z
+Cotte Diablos X
+Tunique Diablos X
+Cotte Diablos Z
+Tunique Diablos Z
+Cotte Brachydios X
+Tunique Brachydios X
+Cotte Vangis X
+Tunique Vangis X
+Cotte du chaos
+Tunique du chaos
+Cotte Nephilim
+Tunique Nephilim
+Cotte Garuga X
+Tunique Garuga X
+Cotte Mono X
+Tunique Mono X
+Cotte Monodevil
+Tunique Monodevil
+Cotte Gore X
+Tunique Gore X
+Cotte Nargacuga X
+Tunique Nargacuga X
+Cotte Lagiacrus X
+Tunique Lagiacrus X
+Cotte Duramboros X
+Tunique Duramboros X
+Cotte Lava X
+Tunique Lava X
+Cotte Artian X
+Tunique Artian X
+Tenue Faucon X
+Veste Faucon X
+Tenue d'érudite X
+Veste d'érudite X
+Cotte As de chasse
+Tunique As de chasse
+Cotte Amazone
+Tunique Amazone
+Tenue Gardien Z
+Veste Gardien Z
+Veste de servante Z
+Veste guérisseuse Z
+Tenue Chevalier X
+Veste Chevalier X
+Tenue de soubrette X
+Veste personnelle X
+Cotte Archange X
+Tunique Archange X
+Cotte Philia X
+Tunique Philia X
+Robe du prophète X
+Robe de l'hermite X
+Robe Ire divine X
+Robe Brise-esprit
+Cista Kushala X
+Étau Kushala X
+Cista Kujula
+Étau Kujula
+Cotte Kaiser X
+Tunique Kaiser X
+Muneate Mizuha X
+Muneate fantasque X
+Doate Crépuscule X
+Doate Aurore X
+Muneate Mithril X
+Muneate ancestral X
+Cotte Gogma
+Tunique Gogma
+Cotte Rébellion Z
+Tunique Anarchie Z
+Aegis Akantor X
+Plaque Akantor X
+Aegis Ukanlos X
+Plaque Ukanlos X
+Cotte Voracité Z
+Tunique Voracité Z
+Cotte Excello Z
+Tunique Excello Z
+Cotte Brachydium
+Tunique Brachydium
+Cuir Wroth
+Peau Wroth
+Veste Kirin X
+Cape Kirin X
+Veste Kirin Z
+Cape Kirin Z
+Hagoromo Spectre X
+Hagoromo Carnage X
+Doate Yamato X
+Doate Mutsu X
+Muneate Hyuga X
+Muneate Amagi X
+Cotte impériale X
+Tunique impériale X
+Cotte Helios X
+Tunique Helios X
+Cotte Selene X
+Tunique Selene X
+Doate Auroros EX
+Doate Genesis EX
+Muneate Borealis EX
+Muneate Glyphe EX
+Robe Tempête
+Robe céleste
+Cuir Miralis
+Peau Miralis
+Âme Escadora EX
+Ardeur Escadora EX
+Gilet d'or fan-club
+Survêt argent fan-club
+Cotte Star Knight
+Tunique Star Knight
+Tenue Roi Pirate J
+Veste Roi Pirate J
+Corps de Champion
+Corps d'Athlète
+Armure Varia
+Barrière Varia
+Plastron Zéro
+Vêtement Zéro
+Cotte Lunedor Z
+Tunique Lunedor Z
+Cotte Solargent Z
+Tunique Solargent Z
+Cotte Rébellion X
+Tunique Anarchie X
+Cuir-de-dragon X
+Peau-de-dragon X
+Cuir Fatalis blanc
+Peau Fatalis blanc
+Haubert chasseur GX
+Brigandine chasseur GX
+Haubert Voracité GX
+Brigandine Voracité GX
+Hagoromo Tempête GX
+Hagoromo céleste GX
+Haubert Fatalis rg GX
+Brigandine Fatalis rg GX
+Cotte hérétique
+Tunique hérétique
+Cotte Anat
+Tunique Anat

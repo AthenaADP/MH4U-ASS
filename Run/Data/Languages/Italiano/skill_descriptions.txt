@@ -1,0 +1,277 @@
+﻿Raddoppia i punti abilità presenti sull'armatura della Cotta. Gioielli inclusi.
+Immunità al Veleno.
+Raddoppia la durata del Veleno.
+Immunità alla Paralisi.
+Raddoppia la durata della Paralisi.
+Immunità al Sonno.
+Raddoppia la durata del Sonno.
+Dimezza la durata dello Stordimento.
+Immunità allo Stordimento.
+Raddoppia la durata dello Stordimento.
+Immunità a Fango e Neve.
+Immunità a Difesa Ridotta.
+Immunità a Fetore e Scoppio. Combinazione Bombe Letame al 100%.
+Immunità a Fetore e Scoppio. Combinazione Bombe Letame al 100%. Rallenta l'incubazione del virus.
+Aumenta leggermente l'attacco puro.
+Aumenta moderatamente l'attacco puro.
+Aumenta molto l'attacco puro.
+Aumenta nettamente l'attacco puro.
+Riduce leggermente l'attacco puro.
+Riduce moderatamente l'attacco puro.
+Riduce molto l'attacco puro.
+Aumenta leggermente la difesa.
+Aumenta moderatamente la difesa.
+Aumenta molto la difesa.
+Aumenta nettamente la difesa.
+Riduce leggermente la difesa.
+Riduce moderatamente la difesa.
+Riduce molto la difesa.
+La Vitalità aumenta da 100 a 120.
+La Vitalità aumenta da 100 a 150.
+La Vitalità diminuisce da 100 a 90.
+La Vitalità diminuisce da 100 a 70.
+Velocità recupero vitalità rossa raddoppiata.
+Velocità recupero vitalità rossa quadruplicata.
+Velocità recupero vitalità rossa dimezzata.
+Velocità recupero vitalità rossa quadrimezzata.
+Probabilità del 25% di ricevere il 30% dei danni in meno una volta colpiti.
+Probabilità del 25% di ricevere il 30% dei danni in più una volta colpiti.
+Rinfodero più rapido dell'arma.
+Carica più veloce del 20% per Spadone, Spada Lunga, Martello, Doppie Lame, Spad-ascia, Spad-ascia Caricata e Arco.
+Carica più lenta del 20% per Spadone, Spada Lunga, Martello, Doppie Lame, Spad-ascia, Spad-ascia Caricata e Arco.
++10% in Affinità.
++15% in Affinità.
++20% in Affinità.
++30% in Affinità.
+-5% in Affinità.
+-10% in Affinità.
+-15% in Affinità.
++15% in Affinità e +5% in attacco puro sui punti deboli.
+Rompere parti, tagliare code etc è più facile del 30%.
+Danno KO aumenta del 10% ad ogni colpo impatto.
+Resistenza detratta dai mostri aumenta del 20%.
+25% di Resistenza in meno usata per schivare.
+50% di Resistenza in meno usata per schivare.
+20% di Resistenza in più usata per schivare.
+35% di Resistenza in più usata per schivare.
+Immunità ad alcuni ruggiti dei mostri.
+Immunità a tutti i ruggiti dei mostri.
+Immunità ad alcune pressioni vento.
+Immunità a tutte le pressioni vento.
+Immunità alle scosse sismiche.
+Immunità al calore e alla lava.
+Danni da calore e lava raddoppiati.
+Immunità al freddo.
+Riduzione Resistenza dal freddo raddoppiata.
+Diminuzione continua della Resistenza dimezzata.
+Diminuzione continua della Resistenza raddoppiata.
+Velocità recupero Resistenza raddoppiata.
+Velocità recupero Resistenza dimezzata.
+Aumento leggero del periodo di invulnerabilità durante una schivata.
+Aumento moderato del periodo di invulnerabilità durante una schivata.
+Aumento netto del periodo di invulnerabilità durante una schivata.
+Diminuzione leggera del periodo di invulnerabilità durante una schivata.
+La distanza percorsa con una schivata aumenta del 50%.
+Minore probabilità che il mostro vi prenda di mira.
+Maggiore probabilità che il mostro vi prenda di mira.
+Diminuzione moderata del rinculo e del consumo Resistenza dopo una parata.
+Diminuzione netta del rinculo e del consumo Resistenza dopo una parata.
+Aumento moderato del rinculo e del consumo Resistenza dopo una parata.
+Puoi parare gli attacchi inparabili.
+Aumenta leggermente lo status alterato dell'arma.
+Aumenta nettamente lo status alterato dell'arma.
+Diminuisce lo status alterato dell'arma e delle Bombe Tranquillanti.
++10% all'elemento di tutte le armi e munizioni.
+Riduzione all'elemento di tutte le armi e munizioni.
++20% all'Elemento Fuoco su armi e P. Fiamma.
++40% all'Elemento Fuoco su armi e P. Fiamma.
++55% all'Elemento Fuoco su armi e P. Fiamma.
+-30% all'Elemento Fuoco su armi e P. Fiamma.
++20% all'Elemento Acqua su armi e P. Acqua.
++40% all'Elemento Acqua su armi e P. Acqua.
++55% all'Elemento Acqua su armi e P. Acqua.
+-30% all'Elemento Acqua su armi e P. Acqua.
++20% all'Elemento Tuono su armi e P. Tuono.
++40% all'Elemento Tuono su armi e P. Tuono.
++55% all'Elemento Tuono su armi e P. Tuono.
+-30% all'Elemento Tuono su armi e P. Tuono.
++20% all'Elemento Ghiaccio su armi e P. Ghiaccio.
++40% all'Elemento Ghiaccio su armi e P. Ghiaccio.
++55% all'Elemento Ghiaccio su armi e P. Ghiaccio.
+-30% all'Elemento Ghiaccio su armi e P. Ghiaccio.
++20% all'Elemento Drago su armi e P. Drago.
++40% all'Elemento Drago su armi e P. Drago.
++55% all'Elemento Drago su armi e P. Drago.
+-30% all'Elemento Drago su armi e P. Drago.
+Resistenza Fuoco +15.
+Resistenza Fuoco +20.
+Resistenza Fuoco -20.
+Resistenza Acqua +15.
+Resistanza Acqua +20.
+Resistenza Acqua -20.
+Resistenza Tuono +15.
+Resistenza Tuono +20.
+Resistenza Tuono -20.
+Resistenza Ghiaccio +15.
+Resistenza Ghiaccio +20.
+Resistenza Ghiaccio -20.
+Resistenza Drago +15.
+Resistenza Drago +20.
+Resistenza Drago -20.
+Consumo Acutezza dimezzato.
+Consumo Acutezza raddoppiato.
+Aumenta il livello dell'Acutezza.
+Armi vengono affilate più rapidamente.
+Armi vengono affilate più lentamente.
+Colpi ad estrazione infliggono KO.
+Colpi ad estrazione hanno il 100% di Affinità.
+Gli attacchi non rimbalzano mai.
+Attacchi che normalmente non rimbalzerebbero rimbalzano 1/3 delle volte.
+Ricarica leggermente velocizzata per Balestre e Boccette Arco. 
+Ricarica moderatamente velocizzata per Balestre e Boccette Arco.
+Ricarica nettamente velocizzata per Balestre e Boccette Arco.
+Ricarica leggermente rallentata per Balestre e Boccette Arco.
+Ricarica moderatamente rallentata per Balestre e Boccette Arco.
+Ricarica nettamente rallentata per Balestre e Boccette Arco.
+Un proiettile in più per Balestre e Lance-Fucile. Una Boccetta in più per Spad-asce Caricate. Un livello di carica in più per l'Arco.
+Aggiunge un proiettile al fuoco-rapido (solo Balestre Leggere).
+Riduce il rinculo delle Balestre di 1 livello.
+Riduce il rinculo delle Balestre di 2 livelli.
+Riduce il rinculo delle Balestre di 3 livelli.
+Aumenta il rinculo delle Balestre di 1 livello.
+Aumenta il rinculo delle Balestre di 2 livelli.
+Aumenta il rinculo delle Balestre di 3 livelli.
+Riduce la deviazione dei proiettili di 1 livello.
+Riduce la deviazione dei proiettili di 2 livelli.
+Aumenta la deviazione dei proiettili di 1 livello.
+Aumenta la deviazione dei proiettili di 2 livelli.
++10% all'attacco puro dei P. Normali e delle Frecce Rapide.
++10% all'attacco puro dei P. Perforanti e delle Frecce Perforanti.
++20% all'attacco puro dei P. Ventaglio, +30% alle Freccie Ventaglio.
+Tutti i P. Normali possono essere usati con qualunque Balestra.
+P. Perforanti Lv1 possono essere usati con qualunque Balestra.
+Tutti i P. Perforanti possono essere usati con qualunque Balestra.
+P. Ventaglio Lv1 possono essere usati con qualunque Balestra.
+Tutti i P. Ventaglio possono essere usati con qualunque Balestra.
+P. Esplosivi Lv1 possono essere usati con qualunque Balestra.
+Tutti i P. Esplosivi possono essere usati con qualunque Balestra.
+P. Grappolo Lv1 possono essere usati con qualunque Balestra.
+Tutti i P. Grappolo possono essere usati con qualunque Balestra.
+P. Laceranti possono essere usati con qualunque Balestra.
+P. Scoppio possono essere usati con qualunque Balestra.
+Boccette Veleno possono essere usate con qualunque Arco.
+Boccette Paralisi possono essere usate con qualunque Arco.
+Boccette Sonno possono essere usate con qualunque Arco.
+Boccette Potenza possono essere usate con qualunque Arco.
+Boccette Cortoraggio possono essere usate con qualunque Arco.
+Boccette Fatica possono essere usate con qualunque Arco.
+Boccette Scoppio possono essere usate con qualunque Arco.
+Potenziamenti del Corno da Caccia durano 1 minuto in più. I corni si rompono meno facilmente.
+Aumento leggero dei danni da Balista, Cannoni, P. Esplosivi, Proiettili Lancia-Fucile, Fuoco di wyvern e Boccette Spad-ascia Caricata Impatto.
+Aumento moderato dei danni da Balista, Cannoni, P. Esplosivi, Proiettili Lancia-Fucile, Fuoco di wyvern e Boccette Spad-ascia Caricata Impatto. Riduce tempo di raffreddamento del Fuoco di wyvern.
+Aumento netto dei danni da Balista, Cannoni, P. Esplosivi, Proiettili Lancia-Fucile, Fuoco di wyvern e Boccette Spad-ascia Caricata Impatto. Riduce tempo di raffreddamento del Fuoco di wyvern.
++30% ai danni delle Bombe e all'attributo Scoppio. Combinazione Bombe al 100%.
++25 Vitalità dagli oggetti recupero.
+-25 Vitalità dagli oggetti recupero.
+50% di probabilità che l'effetto di un oggetto venga trasmesso agli alleati nella stessa area.
+Gli effetti degli oggetti vengono trasmessi agli alleati nella stessa area.
+Aumenta la durata degli effetti degli oggetti del 50%.
+Diminuisce la durata degli effetti degli oggetti del 33%.
+Perdita di Resistenza causa fame è dimezzata.
+Perdita di Resistenza causa fame è annullata.
+Perdita di Resistenza causa fame aumenta del 50%.
+Perdita di Resistenza causa fame è raddoppiata.
+Probabilità del 25% di ottenere un effetto extra da oggetti che aumentano la Resistenza.
+Probabilità del 33% di ottenere un effetto extra da oggetti che aumentano la Resistenza. Oggetti curativi a volte aumentano la Resistenza.
+Velocità consumazione di oggetti e carne aumentata leggermente.
+Velocità consumazione di oggetti e carne aumentata nettamente.
+Velocità consumazione di oggetti e carne diminuita.
+Carne cruda concede +50 Resistenza. Altre carni bloccheranno la diminuzione della Resistenza per 1 minuto.
+Probabilità combinazioni +20%.
+Probabilità combinazioni +45%.
+Probabilità combinazioni -10%.
+Probabilità combinazioni -20%.
+Ottieni sempre il maggior numero di oggetti dalle combinazioni.
+Aumenta leggermente le probabilità di ottenere più oggetti dai punti raccolta.
+Aumenta moderatamente le probabilità di ottenere più oggetti dai punti raccolta.
+Ottieni sempre il massimo numero di oggetti dai punti raccolta.
+Diminuisce le probabilità di ottenere più oggetti dai punti raccolta.
+Velocità di raccolta e di scaglio aumentata.
+Oggetti hanno il 25% di probabilità in meno di rompersi una volta usati.
+Oggetti hanno il 50% di probabilità in meno di rompersi una volta usati.
+Oggetti hanno il 25% di probabilità in più di rompersi una volta usati.
+Oggetti hanno il 50% di probabilità in più di rompersi una volta usati.
+Doppio del miele ottenuto dai punti raccolta.
+Leggera probabilità di ottenere più Talismani quando si mina.
+Moderata probabilità di ottenere più Talismani quando si mina.
+Netta probabilità di ottenere più Talismani quando si mina.
+Leggera probabilità di ottenere più oggetti nel premio finale.
+Netta probabilità di ottenere più oggetti nel premio finale.
+Ottieni sempre il numero massimo di oggetti nel premio finale.
+Leggera probabilità di ottenere meno oggetti nel premio finale.
+Netta probabilità di ottenere meno oggetti nel premio finale.
+Attacchi deboli non interrompono lo scaglio.
+Attacchi deboli non interrompono lo scaglio. E' possibile scagliare una volta in più.
+Attacchi deboli non interrompono lo scaglio. E' possibile scagliare una (22%) o due (78%) volte in più.
+Leggera probabilità di ottenere più oggetti per la cattura.
+Netta probabilità di ottenere più oggetti per la cattura.
+Ottieni sempre il numero massimo di oggetti per la cattura.
+L'icona del mostro lampeggia sulla mappa quando è pronto per la cattura.
+Probabilità del 66% di visualizzare i mostri sulla mappa ogni 5 minuti. Più informazioni sono date quando si usano Palle Pittura.
+Posizione del mostro e informazioni sono sempre disponibili sulla Mappa.
+Velocità aumentata quando si trasportano oggetti pesanti.
+Mostra sempre la Mappa. E' più facile pescare e cucinare carne.
+Immunità ai furti dei Melynx.
+Velocità piazzamento trappole e bombe aumentata. Migliora la combinazione delle trappole.
+L'effetto della Torcia è sempre applicato.
++40 Difesa quando la Vitalità è sotto il 40%.
++45 Difesa e +30% Attacco quando la vitalità è sotto il 40%.
+-21 Difesa e -30% Attacco quando la Vitalità è sotto il 40%.
+Aumenta l'Attacco e la Difesa dopo aver perso i sensi.
++30% in Affinità e consumo Resistenza diminuito del 50% dopo 5 minuti o dopo aver subito danni di 180.
++50% in Affinità e consumo Resistenza diminuito del 75% dopo 5 minuti o dopo aver subito danni di 180.
+Attacco +10 e Affinità +10% quando si è nella stessa area di un mostro in Rage.
+Attacco +25 e Affinità +20% quando si è nella stessa area di un mostro in Rage.
+Aumento netto dell'Attacco quando la Vitalità è piena.
+Attiva l'attributo nascosto delle armi.
+Se la Vitalità è a 64 o più si sopravvive ad un colpo letale. Un'opportunità per caccia. 
+Aumento Attacco, Difesa e recupero Resistenza per i Palico.
+I Palico possono ritornare in battaglia dopo l'utilizzo del segnale.
+Se possibile, ogni attacco viene automaticamente parato.
+Immunità alle alterazioni elementali.
+Immunità al Veleno, Paralisi, Sonno e Stordimento.
+Coraggio e Adrenalina+2.
+Attacco+3 e Acutezza+1.
+Normale/Rapido+, Perforante+ e Ventaglio+.
+Imperturbabile, Vento+1 e Tappi orecchie. 
+Carica rapida e Carnivoro.
+Difesa+3 e Pelle di ferro.
+Fortuna e Premi+1.
+Dominare il virus è molto più facile.
+Punto debole e Affinità+2.
+Adunata compagno e Incita compagno.
+Cavalcare i mostri è leggermente più facile.
+Cavalcare i mostri è nettamente più facile.
+Cavalcare i mostri è più difficile.
+Stordattacco e Rinfodero rapido.
+Schivata+1 e Atleta+1.
+Blocco+ e Recupero Resistenza+.
+Schivatore+ e Forma perfetta.
+Raccolta+1 e Amuleti+2.
+Attacco elementale+ ed Uso oggetti+.
+Immunità ad Emorragia.
+Emorragia raddoppiata.
+L'utilizzo di pozioni e bevande a volte non le consuma.
+Mangiare funghi concede speciali benefici.
+Mangia veloce+2, Carnivoro e Razionatore.
+Immunità alle ragnatele e al catrame.
+Aumenta la distanza in cui proiettili e frecce infliggono colpi critici.
+Cartucciera+, Combinazione +20% e Furtivo.
+Preveggenza e Lama Affilata.
+Infliggi maggiore status alterato durante un colpo critico.
+Infliggi maggiore danno elementale durante un colpo critico.
+Pelle di ferro, Resistenza+ e Ruba Resistenza.
+Risveglio, Attacco elementale+, e Attacco status+1.
+Maestro trappole e Bombarolo.
+Storditore e Ruba Resistenza.
+Medicina+ e Angelo custode.

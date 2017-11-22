@@ -1,0 +1,1572 @@
+﻿Libro alchimia 1
+Libro alchimia 2
+Libro alchimia 3
+Libro alchimia 4
+Libro alchimia 5
+Come organizzare 1
+Come organizzare 2
+Pozione
+Mega-pozione
+Nutrienti
+Mega-nutrienti
+Antidoto
+Immunizzatore
+Supersucco
+Mega-supersucco
+Mistura demoniaca
+Mistura demoniaca+
+Pillola demoniaca
+Mistura ferrosa
+Mistura ferrosa+
+Pillola ferrosa
+Bevanda fresca
+Bevanda calda
+Pulitore
+Deodorante
+Psicosiero
+Rimedio erboristico
+Pozione max
+Antica pozione
+Catalizzatore
+Bevanda energetica
+Polvere da sparo
+Cristalli vitali
+Polvere di vita
+Linfa vitale
+Tappi monouso
+Tranquillante
+Amuleto misterioso
+Amuleto lucente
+Amuleto consunto
+Amuleto antico
+Amuleto distorto
+Amuleto inciso
+Amuleto demoniaco
+Sperone demoniaco
+Amuleto armatura
+Sperone armatura
+Carne cruda
+Carne avvelenata
+Carne tossica
+Carne drogata
+Bistecca al sangue
+Bistecca ben cotta
+Carne bruciata
+Carne fredda
+Carne calda
+Fettine di Moss
+Boomerang
+Coltello da lancio
+Coltello veleno
+Coltello sonno
+Coltello paralisi
+Lama soporifera
+Materiale bomba
+Palla-pittura
+Bomba-lampo
+Bomba sonica
+Letame
+Bomba-letame
+Bomba fumogena
+Bomba velen-fumo
+Lancialontano
+Bomba-vapore portat.
+Bomba soporifera
+Ragnatela
+Rete
+Intrappolatore
+Trappola coperta
+Trappola scossa
+Botte piccola
+Botte grande
+Bomba-botte pic.
+Bomba-botte pic.+
+Bomba-botte gr.
+Bomba-botte gr.+
+Bomba-missile
+Bomba-missile+
+Bomba felvina
+Bomba JUMP
+Guscio di bacca
+Involcrosso
+P normali lv1
+P normali lv2
+P normali lv3
+P perforanti lv1
+P perforanti lv2
+P perforanti lv3
+P ventaglio lv1
+P ventaglio lv2
+P ventaglio lv3
+P esplosivi lv1
+P esplosivi lv2
+P esplosivi lv3
+P grappolo lv1
+P grappolo lv2
+P grappolo lv3
+P fiamma
+P acqua
+P tuono
+P gelo
+P drago
+P veleno lv1
+P veleno lv2
+P paralisi lv1
+P paralisi lv2
+P sonno lv1
+P sonno lv2
+P fatica lv1
+P fatica lv2
+P laceranti
+Fuoco wyvern
+P scoppio
+P recupero lv1
+P recupero lv2
+P demone
+P armatura
+P pittura
+P soporiferi
+Boccetta vuota
+Boccetta potenza
+Boccetta cortor.
+Boccetta veleno
+Boccetta paralisi
+Boccetta sonno
+Boccetta fatica
+Boccetta scoppio
+Boccetta colore
+Esca verme
+Esca mosca
+Esca rana
+Esca pesce-sushi
+Esca bomba
+Esca pesce-dorato
+Vecchio piccone
+Piccone di ferro
+Mega-piccone
+Vecchio retino
+Retino insetti
+Mega-retino
+Spiedo barbecue
+Cote
+Binocolo
+Immondizia
+Corno da richiamo
+Corno della vita
+Corno antidoto
+Corno demoniaco
+Corno armatura
+Wypietra lv1: tonico
+Wypietra lv2: tonico
+Wypietra lv1: elemen.
+Wypietra lv2: elemen.
+Wypietra lv1: forza
+Wypietra lv2: forza
+Wypietra lv1: slancio
+Wypietra lv2: slancio
+Protowypietra: slancio
+P balista difensiva
+Malcarbone
+Miele
+Erba
+Erba antidoto
+Erba fuoco
+Edera
+Erba soporifera
+Pianta da linfa
+Felvina
+Radice notturna
+Gemma notturna
+Peperoncino
+Bacca ghiacciata
+Seme gattangeo
+Gattangea
+Elisir gattangeo
+Fungo blu
+Fungo nitro
+Fungo paralisi
+Fungo a ombrello
+Fungo stimolante
+Fungo depressivo
+Fungo drago
+Bacca-pittura
+Seme demoniaco
+Seme armatura
+Nulbacca
+Bacca-drago
+Noce-scoppio
+Bacca-spillo
+Baccappiccicosa
+Bacca-bomba
+Granzucca
+Pietra
+Ferro
+Cristallo terra
+Machalite
+Dragonite
+Cristallo luce
+Cristallo gelo
+Pietra del fuoco
+Gossamite
+Cristallo divino
+Cristallo meteoritico
+Carbalite
+Novacristallo
+Fucium
+Eltalite
+Meldspar
+Cella di fuoco
+Ardipietra
+Yoldspar
+Cosmicite
+Cristalpuro
+Abrasivo
+Abrasivo magno
+Abrasivo supremo
+Abrasivo estremo
+Pietra-armatura
+Sfera-armatura
+Sfera-armatura +1
+Sfera-armatura +2
+Sfera-armatura +3
+Sfera-armatura +4
+Sfera-armatura +5
+Sfera-armatura +6
+Sfera-armatura +7
+Sgombro-coltello
+Pesce-sushi
+Pesce-sonno
+Tonno-spillo
+Tonno-spada
+Pesce-scoppio
+Pesce-bomba
+Arowana-boom
+Arowana-botto
+Tonno-ghiottone
+Tonno-gastronomo
+Pesce-dorato pic.
+Stanciuga
+Pesce antico
+Tagliagole blu
+Pinnamonete piccolo
+Pinnamonete medio
+Pinnamonete grande
+Tonno di Dundorma
+Pesciol. gattangeo
+Pesce gattangeo
+Guscio d'insetto
+Insetto-puzzetta
+Larva serpente
+Insetto-divino
+Insettamaro
+Insetto-lampo
+Insetto-tuono
+Sputacolla
+Scarabeo brillante
+Insetto-ercole
+Insetto-folgore
+Scarabeo raro
+Cavalletta imperiale
+Sfarfalla
+Mosca-corno
+Scarabeo farf. anz.
+Scarabeo farfalla
+Mosca-corno anz.
+N forza/fuoco
+N forza/fuoco+
+N forza+
+N forza+/fuoco
+N forza++
+N resist./acqua
+N resist./drago
+N resist./drago+
+N resistenza+
+N resist.+/acqua
+N resistenza++
+N veloc./acqua+
+N veloc./tuono
+N veloc./tuono+
+N veloc./ghiac.
+N veloc./ghiac.+
+N velocità+
+N veloc.+/tuono
+N velocità++
+N fuoco+
+N fuoco++
+N acqua+
+N acqua++
+N tuono+
+N tuono++
+N ghiaccio+
+N ghiaccio++
+N drago+
+N drago++
+Osso mostro piccolo
+Osso mostro medio
+Osso mostro grande
+Osso misterioso
+Teschio ignoto
+Osso mostro+
+Osso affilato
+Osso granitico
+Osso mostruoso
+Osso drago anziano
+Osso drago anz. gr.
+Osso volatile
+Osso volatile+
+Osso bruto
+Osso jumbo
+Osso resistente
+Osso massiccio
+Reliquia dragosso
+Manufatto dragosso
+Zanna wyvern
+Artiglio wyvern
+Gemma wyvern rapace
+Rargemma wyvern
+Pietra wyvern
+Pietra-wyvern+
+Sangue drago anziano
+Gemma drago anz.
+Strillone
+Sacca veleno
+Sacca tossina
+Sacca letale
+Sacca paralisi
+Sacca apoplessi
+Sacca soporifera
+Sacca coma
+Sacca fiamma
+Sacca inferno
+Sacca esplosiva
+Elettrosacca
+Sacca tuono
+Sacca fulmine
+Sacca gelo
+Sacca congelante
+Sacca ghiaccio
+Sacca acqua
+Sacca torrente
+Sacca marea
+Superestratto
+Estratto pallido
+Gargwa: piuma
+Kelbi: corno
+Kelbi: corno blu
+Pelle calda
+Pelle lussuosa
+Pelle pregiata
+Rhenoplos: corazza
+Rhenoplos: carapace
+Rhenoplos: scalpo
+Rhenoplos: osso
+Slagtoth: pelle
+Slagtoth: pelle+
+Bnahabra: corazza
+Bnahabra: carapace
+Bnahabra: ala
+Bnahabra: ner-ala
+Altaroth: mandibola
+Altaroth: stomaco
+Stomaco di qualità
+Zanna affilata
+Zanna molare
+Artiglio perforante
+Konchu: corazza
+Konchu: carapace
+Konchu: corteccia
+Remobra: cuoio
+Remobra: cuoio+
+Remobra: pelle spec.
+Pelle a strisce
+Remobra: testa
+Jaggi: scaglia
+Jaggi: scaglia+
+Jaggi: pelle
+Zanna wyvern rapace
+Pelle wyvern rapace
+G.Jaggi: pelle
+G.Jaggi: pelle+
+G.Jaggi: artiglio
+G.Jaggi: artiglio+
+Clamide regale
+G.Jaggi: testa
+Velociprey: scaglia
+Velociprey: scaglia+
+Velociprey: pelle
+Velociprey: pelle+
+Velocidrome: pelle
+Velocidrome: artiglio
+Velocidrome: artiglio+
+Velocidrome: art. duro
+Velocidrome: testa
+Genprey: zanna
+Genprey: scaglia
+Genprey: scaglia+
+Genprey: pelle
+Genprey: pelle+
+Gendrome: pelle
+Gendrome: coda
+Gendrome: teschio
+Ioprey: zanna
+Ioprey: scaglia
+Ioprey: scaglia+
+Ioprey: pelle
+Ioprey: pelle+
+Ioprey: manto
+Iodrome: pelle
+Iodrome: teschio
+Lagombi: pelle
+Lagombi: pelle+
+Lagombi: pelo fino
+Lagombi: orecchio
+Lagombi: orecchio+
+Lagombi: padiglione
+Lagombi: piastrone
+Lagombi: piastrone+
+Lagombi: artiglio
+Lagombi: artiglio+
+Kut-Ku: scaglia
+Kut-Ku: scaglia+
+Kut-Ku: scaglia pura
+Kut-Ku: corazza
+Kut-Ku: carapace
+Kut-Ku: corteccia
+Kut-Ku: orecchio
+Kut-Ku: orecchio+
+Kut-Ku: padiglione
+Becco gigante
+Becco splendido
+Kut-Ku: membrana
+Kut-Ku: ala dura
+Kut-Ku blu: scaglia+
+Kut-Ku blu: sc. pura
+Kut-Ku blu: carapace
+Kut-Ku blu: corteccia
+Pelle gommosa
+Pelle gommosa+
+Pelle gommosa spec.
+Gypceros: testa
+Gypceros: testa dura
+Pelle viola gommosa
+Pelle viola gommosa+
+Gypceros: ala viola
+Gypceros: ala dura
+Garuga: scaglia
+Garuga: scaglia+
+Garuga: scaglia pura
+Garuga: corazza
+Garuga: carapace
+Garuga: corteccia
+Garuga: orecchio
+Garuga: orecchio+
+Becco appuntito
+Becco fresco
+Garuga: ala
+Garuga: ala dura
+Garuga: coda
+Garuga: coda pelle
+Garuga: criniera
+Garuga: pelle argento
+K.Wacha: pelle
+K.Wacha: pelle+
+K.Wacha: pelo
+K.Wacha: ulna
+K.Wacha: omero
+K.Wacha: grandosso
+K.Wacha: sperone
+K.Wacha: bisturi
+K.Wacha: orecchio
+K.Wacha: orecchio+
+K.Wacha: padiglione
+K.Wacha: coda
+K.Wacha: frusta
+K.Wacha c: pelo
+K.Wacha c: grandosso
+K.Wacha c: bisturi
+K.Wacha c: padiglione
+K.Wacha c: frusta
+Conga: pelle
+Conga: pelle+
+Artiglio affilato
+Congalala: pelle
+Congalala: pelle+
+Congalala: pelle dura
+Pelle vibrante
+Congalala: artiglio
+Congalala: artiglio+
+Congalala: art. duro
+Congalala: zanna
+Zanna bestiale
+Congalala s: pelle+
+Congal. s: pel. dura
+Congalala s: zanna+
+Congalala s: artiglio+
+Congal. s: art. duro
+Cresta vibrante
+Rajang: corno+
+Rajang: corno duro
+Rajang: zanna+
+Rajang: zanna dura
+Rajang: pelle
+Rajang: pelle+
+Rajang: artiglio+
+Rajang: artiglio duro
+Rajang: coda
+Rajang: pelle dorata
+Rajang: pelle dorata+
+Rajang: criniera
+Rajang: apoplessia
+Rajang: nervo
+Rajang: cuore
+Corno misterioso
+Corno d'oro malefico
+Tetsucabra: scaglia
+Tetsucabra: scaglia+
+Tetsucabra: framm.
+Tetsucabra: corazza
+Tetsucabra: carap.
+Tetsu: corteccia
+Tetsucabra: artiglio
+Tetsucabra: artiglio+
+Tetsucabra: art. duro
+Tetsucabra: zanne
+Tetsucabra: zanne+
+Tetsucabra: morso
+Teschio elegante
+Viso venefico
+Tetsu b: frammento
+Tetsu b: corteccia
+Tetsucabra b: art. duro
+Tetsucabra b: morso
+Olio di prato
+Olio di prato+
+Crema di prato
+Zamite: scaglia
+Zamite: pelle
+Zamite: pelle+
+Manto carnoso
+Zamtrios: pelle
+Zamtrios: pelle+
+Zamtrios: frammento
+Zamtrios: scaglia
+Zamtrios: scaglia+
+Zamtrios: manto
+Zamtrios: pinna
+Zamtrios: pinna+
+Zamtrios: granpinna
+Zamtrios: dente
+Zamtrios: dente+
+Zamtrios: coda
+Zamtrios: codardente
+Zamtrios t: manto
+Zamtrios t: frammento
+Zamtrios t: granpinna
+Zamtrios t: dente+
+Zamtrios t: codardente
+Najarala: corazza
+Najarala: carapace
+Najarala: corteccia
+Najarala: pelle
+Najarala: pelle+
+Najarala: manto
+Najarala: midollo
+Najarala: bulbo
+Najarala: cassa
+Najarala: cassa+
+Najarala: amplificat.
+Najarala: zanna
+Becco raggelante
+Becco terrificante
+Najarala a: corteccia
+Najarala a: manto
+Najarala a: muta
+Nerscylla: corazza
+Nerscylla: carapace
+Nerscylla: corteccia
+Nerscylla: pinza
+Nerscylla: cesoia
+Nerscylla: cornipunta
+Nerscylla: artiglio
+Nerscylla: artiglio+
+Nerscylla: art. duro
+Nerscylla: punta
+Nerscylla: punta+
+Nerscylla: arpione
+Nerscylla o: cortec.
+Nerscylla o: cornip.
+Nerscylla o: art. duro
+Nerscylla o: arpione
+Fluido di mostro
+Brodo di mostro
+Essenza mostro
+Seltas: corazza
+Seltas: carapace
+Seltas: corteccia
+Seltas: ala
+Seltas: ala interna
+Seltas: ala rasoio
+Seltas: corno
+Seltas: corno+
+Seltas: corno duro
+Seltas d: corteccia
+Seltas d: ala rasoio
+Seltas d: corno duro
+Seltas r: corazza
+Seltas r: carapace
+Seltas r: corteccia
+Seltas r: pleura
+Seltas r: pleura+
+Seltas r: pleura d.+
+Seltas r: artiglio
+Seltas r: artiglio+
+Seltas r: art. duro
+Seltas r: mandibola
+Seltas r: fauci
+Seltas r: falce
+Seltas r: lunafrusta
+Seltas r: estratto
+Seltas r: acido
+Seltas r.d: acido
+Seltas r.d: corteccia
+Seltas r.d: pleura+
+Seltas r.d: art. duro
+Seltas r.d: fauci
+Seltas r.d: lunafrusta
+Hermitaur: osso pic.
+Hermitaur: corteccia
+Hermitaur: art. duro
+Cor. teschio wyvern
+Perla nera
+Perla nera pura
+Daimyo viola: corazza
+Daimyo viola: art.
+Cephalos: frammento
+Cephalos: scaglia co.
+Cephalos: zanna+
+Cephalos: zanna dura
+Cephalos: granpinna
+Cephalos: pinna co.
+Pelle vizza
+Khezu: pelle conciata
+Khezu: pelle cremisi
+Osso pallido
+Khezu: carne pallida
+Khezu: carne speciale
+Pelle seducente
+Pelle crem. seducente
+Membrana seducente
+Khezu r: ala dura
+Rathian: scaglia
+Rathian: scaglia+
+Rathian: frammento
+Rathian: corazza
+Rathian: carapace
+Rathian: corteccia
+Rathian: membrana
+Rathian: punta
+Rathian: punta+
+Rathian: arpione
+Rathian: piastra
+Rathian: rubino
+Rathian: mantello
+Rathian r: scaglia+
+Rathian r: frammento
+Rathian r: carapace
+Rathian r: corteccia
+Rathian d: scaglia+
+Rathian d: frammento
+Rathian d: carapace
+Rathian d: corteccia
+Rathian d: punta+
+Rathian d: arpione
+Rathalos: scaglia
+Rathalos: scaglia+
+Rathalos: frammento
+Rathalos: corazza
+Rathalos: carapace
+Rathalos: corteccia
+Rathalos: membrana
+Rathalos: ala
+Rathalos: ala dura
+Rathalos: coda
+Rathalos: frusta
+Rathalos: piastra
+Rathalos: rubino
+Rathalos: mantello
+Rathalos az: scagl.+
+Rathalos az: framm.
+Rathalos az: carap.
+Rathalos az: cortec.
+Rathalos az: coda
+Rathalos az: frusta
+Rathalos az: ala
+Rathalos ar: scagl.+
+Rathalos ar: framm.
+Rathalos ar: carap.
+Rathalos ar: cortec.
+Rathalos ar: coda
+Rathalos ar: frusta
+Rath: sperone
+Rathalos: bisturi
+Rath: midollo
+Rath: bulbo
+Rath: lucore
+Grumo fiambaleno
+Monoblos: carapace
+Monoblos: corteccia
+Monoblos: torace
+Monoblos: dorso
+Monoblos: grancorno
+Monocorno scarlatto
+Monoblos: cuore
+Monoblos b: cortec.
+Monoblos b: dorso
+Monocorno argenteo
+Diablos: corteccia
+Diablos: dorso
+Diablos: coda dura
+Diablos: corno
+Diablos: corno duro
+Bulbo spinoso
+Diablos n: corteccia
+Diablos n: dorso
+Cornotorto nero+
+Zinogre: corazza
+Zinogre: carapace
+Zinogre: corteccia
+Zinogre: scossapelo
+Zinogre: elettropelo
+Zinogre: elettropelo+
+Zinogre: corno
+Zinogre: corno+
+Zinogre: corno duro
+Zinogre: artiglio
+Zinogre: artiglio+
+Zinogre: sperone
+Zinogre: coda
+Zinogre: frusta
+Zinogre: fulmen
+Zinogre: fulmen+
+Zinogre: fulgur
+Zinogre: piastra
+Zinogre: diaspro
+Zinogre: cielverde
+Zinogre s: carapace
+Zinogre s: cortec.
+Zinogre s: corno+
+Zin. s: corno duro
+Zinogre s: artiglio+
+Zinogre s: sperone
+Zinogre s: coda
+Zinogre s: frusta
+Zinogre s: corazza
+Zinogre s: cor. drago
+Insetto-drago
+Zinogre s: crine
+Zinogre s: crinedrago
+Zinogre s: onta
+Zinogre s: cielverde
+Brachydios: corazza
+Brachydios: carapace
+Brachydios: corteccia
+Brachydios: cor. nr.
+Brachydios: cor. nr.+
+Brachydios: mitena
+Brachydios: calotta
+Brachydios: calotta+
+Brachydios: corona
+Melma mistero
+Melma lucente
+Brachydios: martello
+Brachydios: mazza
+Brachydios: mazza+
+Brachydios: coda
+Brachydios: frusta
+Brachydios: midollo
+Brachydios: gemma
+Brachydios: pallio
+Testata Brachydios
+Melma instabile
+Obliteratore Brach
+Reattore immortale
+Basarios: corazza
+Basarios: carapace
+Basarios: corteccia
+Basarios: ala
+Basarios: ala dura
+Basarios: lacrima
+Basarios v: ala
+Basarios v: ala dura
+Basarios v: carapace
+Basarios v: corteccia
+Gravios: corazza
+Gravios: carapace
+Gravios: corteccia
+Gravios: teschio
+Gravios: corona
+Gravios: midollo
+Gravios: ala
+Gravios: ala dura
+Gravios: cor. eterea
+Gravios nr: carapace
+Gravios n: corteccia
+Gravios nr: teschio
+Gravios n: corona
+Gravios n: cor. eter.
+Tigrex: scaglia
+Tigrex: scaglia+
+Tigrex: scaglia pura
+Tigrex: corazza
+Tigrex: carapace
+Tigrex: corteccia
+Tigrex: coda
+Tigrex: coda pelle
+Tigrex: artiglio
+Tigrex: artiglio+
+Tigrex: artiglio duro
+Tigrex: zanna
+Tigrex: zanna+
+Tigrex: zanna dura
+Tigrex: teschio
+Tigrex: fauci
+Tigrex: mantello
+Tigrex b: scaglia+
+Tigrex b: frammento
+Tigrex b: carapace
+Tigrex b: corteccia
+Tigrex b: artiglio+
+Tigrex b: art. duro
+Tigrex b: zanna+
+Tigrex b: zanna dura
+Tigrex l: scaglia+
+Tigrex l: frammento
+Tigrex l: carapace
+Tigrex l: corteccia
+Tigrex l: innesco
+Tigrex l: innesco+
+Tigrex l: zanna+
+Tigrex l: zanna dura
+Tigrex l: coda
+Tigrex l: frusta
+Cuore pulsante
+Cuore tremendo
+G.Magala: scaglia
+G.Magala: scaglia+
+G.Magala: frammento
+G.Magala: corazza
+G.Magala: carapace
+G.Magala: corteccia
+G.Magala: ala
+G.Magala: ala+
+G.Magala: eclisse
+G.Magala: sperone
+G.Magala: bisturi
+G.Magala: trinciatore
+G.Magala: coda
+G.Magala: frusta
+G.Magala: piastra
+G.Magala: gemma
+G.Magala: mantello
+G.Magala: antenna
+G.Magala: antenna+
+G.Magala: sensore
+Scaglia infetta
+Scaglia del caos
+Corno diammetrico
+Ala antinomica
+Scaglia contrapposta
+S.Magala: scaglia
+S.Magala: scaglia+
+S.Magala: frammento
+S.Magala: corazza
+S.Magala: carapace
+S.Magala: corteccia
+S.Magala: ala
+S.Magala: ala+
+S.Magala: ala leggera
+S.Magala: sperone
+S.Magala: artiglio
+S.Magala: purificatore
+S.Magala: coda
+S.Magala: frusta
+S.Magala: piastra
+S.Magala: fosgemma
+S.Magala: mantello
+S.Magala: corno
+S.Magala: corno+
+S.Magala: corno duro
+Scaglia pura
+Seregios: scaglia
+Seregios: scaglia+
+Seregios: cielolama
+Seregios: cielolama+
+Seregios: scalco
+Seregios: scalco+
+Seregios: fenditore
+Seregios: fenditore+
+Seregios: grattugia
+Seregios: grattugia+
+Seregios: impalatore
+Seregios: impalatore+
+Seregios: sc. ribelle
+Seregios: lente
+Deviljho: scaglia
+Deviljho: frammento
+Deviljho: pelle
+Deviljho: manto
+Deviljho: zanna
+Deviljho: zanna dura
+Deviljho: sperone
+Deviljho: bisturi
+Deviljho: scalpo
+Deviljho: coda
+Deviljho: flagello
+Deviljho: saliva
+Sangue nero
+Zanna immonda
+Pelle macchiata
+Pellebano di sangue
+Deviljho: gemma
+Deviljho: uncino
+Kirin: cornotuono
+Kirin: pelle
+Kirin: pelle+
+Kirin: pelle speciale
+Kirin: criniera
+Criniera Platino
+Kirin: codatuono
+Kirin: codatuono rara
+Kirin: corno azzurro
+Kirin: picco azzurro
+Kirin: cornogelo
+Kirin: picco glaciale
+Kirin: codagelo
+Kirin: criofrusta
+K.Daora: scaglia
+K.Daora: sc. pura
+K.Daora: carapace
+K.Daora: corteccia
+K.Daora: artiglio
+K.Daora: art. duro
+K.Daora: coda
+K.Daora: coda pelle
+K.Daora: membrana
+K.Daora: ala dura
+K.Daora: corno+
+K.Daora: corno duro
+K.Daora: gemma
+Scaglia ruggiferro
+C.drago ruggiferro
+Artiglio ruggiferro
+Ala turbinante
+Corona piccoargento
+Teostra: carapace
+Teostra: corteccia
+Teostra: criniera
+Teostra: coda
+Teostra: coda pelle
+Teostra: corno+
+Teostra: corno duro
+Teostra: scaglia
+Teostra: scaglia pura
+Teostra: artiglio+
+Teostra: art. duro
+Teostra: membrana
+Teostra: polvere
+Teostra: gemma
+Chameleos: pelle sup.
+Chameleos: ala dura
+Chameleos: corno duro
+Chameleos: coda pelle
+D.Mohran: corazza
+D.Mohran: carapace
+D.Mohran: corteccia
+D.Mohran: scaglia
+D.Mohran: scaglia+
+D.Mohran: scagl. dura
+D.Mohran: parazampe
+D.Mohran: parazampe+
+D.Mohran: g. mitena
+Corno brutale
+Corno brutale+
+Pungolo brutale
+Pietra Dah'ren
+Gemmadrago terra
+Sferadrago terra
+Akantor: scaglia
+Akantor: frammento
+Akantor: corazza
+Akantor: corteccia
+Akantor: coda
+Akantor: flagello
+Akantor: artiglio
+Akantor: fendiartiglio
+Akantor: zanna
+Akantor: granzanna
+Akantor: punta
+Akantor: spuntone
+Akantor: gemma
+Sfera conquistatrice
+Ukanlos: corteccia
+Ukanlos: scaglia pura
+Ukanlos: scagl. pura+
+Ukanlos: art. duro
+Ukanlos: art. duro+
+Ukanlos: pinna+
+Ukanlos: pinna dura
+Ukanlos: coda
+Ukanlos: coda dura
+Ukanlos: mandibola+
+Pietra Ukanlos
+Fatalis: corno
+Fatalis: corno duro
+Fatalis: scaglia
+Fatalis: scaglia pura
+Fatalis: corazza
+Fatalis: corteccia
+Fatalis: occhio
+Fatalis: occhio demone
+Fatalis: membrana
+Fatalis: ala dura
+Fatalis: corno cr.
+Fatalis: scaglia cr.
+Fatalis: corazza cr.
+Fatalis: malocchio
+Fatalis: ala cremisi
+Fatalis: pirocorno
+Fatalis: piroscaglia
+Fatalis: pirocorazza
+Fatalis: malocchio+
+Fatalis: piroala
+Fatalis b: corno duro
+Fatalis b: sc. pura
+Fatalis b: corteccia
+Fatalis: introspezione
+Fatalis b: ala dura
+Dalamadur: acciaio
+Dalamadur: acciaio+
+Dalamadur: sc. coda
+Dalamadur: sc. coda+
+Dalamadur: occhio
+Dalamadur: pleura
+Dalamadur: pleura+
+Dalamadur: gladio
+Dalamadur: gladio+
+Dalamadur: sperone
+Dalamadur: bisturi
+Dalamadur: cor. coda
+Dalamadur: cor. coda+
+Dalamadur: lama
+Dalamadur: lama+
+Osso vortice
+Gemma lamacielo
+Perla drago lamacielo
+Presagio d'oblio
+S.Dalamadur: acciaio+
+S.Dalamadur: sc. coda+
+S.Dalamadur: gladio+
+S.Dalamadur: mirino
+S.Dalamadur: pleura+
+S.Dalamadur: bisturi
+S.Dalamadur: cor. coda+
+S.Dalamadur: lama+
+Gogmazios: bastione
+Gogmazios: fortezza
+Gogmazios: sfregio
+Gogmazios: aggressori
+Gogmazios: ala fibra
+Gogmazios: punticoda
+Perla drago bellicosa
+Olio dragosso pesante
+Frammento frenetico
+Cristallo frenetico
+Vilcristallo frenet.
+Cristallo fren. puro
+Pietra-wyvern zenit
+Pietra-wyvern zenit+
+Guscio aragosta
+Coda aragosta
+Plesioth: scaglia
+Plesioth: pinna
+Plesioth v: framm.
+Ples. v: pinna dura
+Arzuros: corazza
+Arzuros: pelle
+Ludroth r: artiglio
+Pelle spugnosa
+Piuma vivace
+Becco strano
+Barroth: corazza
+Barroth: scalpo
+Nibelsnarf: pelle
+Fluido vivace
+Ceanataur: corazza
+Ceanataur: pinza
+Uragaan: midollo
+Uragaan: placca
+Nargacuga: pelle nr.
+Nargacuga: bulbo
+Nargacuga: ala
+Duramboros: piastra
+Duramboros: corno
+Lavasioth: scaglia
+Lavasioth: pinna
+Diablos: corazza
+Corno maestoso
+Lao-Shan: corazza
+Lao-Shan: artiglio
+Lao-Shan: corno
+Vespoid: ala interna
+Cephalos: pinna+
+Cephalos: scaglia+
+Hermitaur: carapace
+Hermitaur: artiglio+
+Gobul: pelle+
+Gobul: punta+
+Volvidon: carapace
+Zanne ambra+
+Barioth: pelle+
+Blangonga: pelle+
+Blangonga: baffo
+Blangonga: zanna+
+Lagiacrus: fulmen+
+Lagiacrus: zaffiro
+Agnaktor: carapace
+Agnaktor: pinna+
+Lunastra: carapace
+Lunastra: criniera
+Chameleos: pelle+
+Chameleos: gemma
+Chameleos: coda
+Y.Tsukami: fluido
+Legnodrago+
+Muschiodrago+
+Ukanlos: mandibola
+Ukanlos: carapace
+Ukanlos: gemma
+Gaoren: pinza
+Gaoren: torace
+Gaoren: artiglio
+Ceadeus: pelle
+Corno ritorto
+Organo luminoso
+Alatreon: piastra
+Alatreon: membrana
+Foracielo
+Barioth s: artiglio+
+Barroth g: spina+
+Qurupeco: frammento
+Piuma splendente
+Qurupeco c: ala dura
+Gobul: manto
+Gobul: resta
+Vespoid: ala rasoio
+Arzuros: corteccia
+Nibelsnarf: corteccia
+Fluido radioso
+Ceanataur: art. duro
+Granzanne ambra
+Barioth: pelo fino
+Barroth: corteccia
+Barroth: corona
+Barioth s: sperone
+Volvidon: corteccia
+Agnaktor: corteccia
+Agnaktor: biancapinna
+Barroth g: corteccia
+Duramboros: corteccia
+Duramboros: corno d.
+Durambolite
+Uragaan: corteccia
+Uragaan: pallio
+Nargacuga: pelo
+Nargacuga: rasoio
+Nargacuga: mantello
+Lagiacrus: frammento
+Lagiacrus: fulgur
+Lagiacrus: mantello
+Lagiacrus av: fulgur
+Lagiacrus av: corno
+Lavasioth: sc. dura
+Lavasioth: pinna dura
+Uragaan: placca dura
+Ceadeus: scaglia
+Ceadeus: pelo
+Gemmadrago abisso
+Y.Tsukami: filetto
+Muschiodrago antico
+Legnodrago antico
+J.Mohran: corteccia
+J.Mohran: g. mitena
+Zanna sublimante
+Lunastra: corteccia
+Lunastra: coda
+Lao-Shan: art. duro
+Nargacuga i: rasoio
+Frammento lunare
+Amatsu: carapace
+Amatsu: membrana
+Gemmadrago celeste
+Alatreon: mantello
+Alatreon: bisturi
+Perla drago blu
+Lagiacrus ab: fulgur
+Lagiacrus ab: dinamo
+Lao-Shan: corteccia
+Lao-Shan: sc. pura
+Lao-Shan: mantello
+Miralis: scaglia
+Miralis: forgia
+Gemmadrago cupa
+Pietra-ruggine
+Frammento antico
+Frammento rugginoso
+Scheggia antica
+Frammento distorto
+Arma ammaccata
+Armatura ammaccata
+Arma vetusta
+Armatura vetusta
+Arma gloriosa
+Armatura gloriosa
+Arma del campione
+Armatura del campione
+Arma incatenata
+Armatura incatenata
+Mappa
+Pronto soccorso
+Pronto soccorso+
+Razione
+Spiedo portatile
+Cote scorta
+T scossa scorta
+B.lampo scorta
+B.sonica scorta
+Lancialontano scorta
+Pozione max scorta
+Polvere di vita scorta
+Linfa vitale scorta
+T coperta scorta
+B.botte gr. scorta
+Proiettile balista
+Bloccante balista
+Bloccante unico
+Palla di cannone
+Bomba antidrago
+Protomalcarbone
+Malcarbone scorta
+Torcia
+Buono pass-zampa
+Fungo speciale
+Fungo scelto
+Fungo maturo
+Pesce-dorato
+Pesce-argento
+Pesce-ordigno fresco
+Marlin blu
+Sgombro
+Pesce telescopio
+Kabuto reale
+Kabuto divino
+Coleottero gigante
+Libellula depressa
+Farfalla comune
+Pulce
+Cristallo sulfureo
+Blocco Auripietra
+Osso cristallo
+Pietrasangue
+Carbone
+Osso fossile
+Nebbiafoglia
+Bacca tropicale
+Scaglia decom. drago
+Gocciapiccola
+Gocciafortuna
+Gocciamiracolo
+Perla Poogie
+Fegato bianco
+Olio di Slagtoth
+Scorta segreta
+Ghianda tonda
+Stomaco pregiato
+Stomaco luminoso
+Budella mostro
+Fegato Piscine
+Lingua di Popo
+Carapaceon: cervello
+Carapaceon: cervello+
+Occhio lungidrago
+Uovo Gargwa
+Uovo Gargwa oro
+Uovo di wyvern
+Uovo d'erbivoro
+Pietra-fuliggine
+Pietra-polvere
+Blocco meteoritico
+Guano di Gargwa
+Letame territoriale
+Letame territoriale+
+Sostanza fuco
+Sostanza regina
+Lacrima rospo
+Granlacrima rospo
+Lacrima wyvern
+Granlacrima wyvern
+Lacrima belva
+Granlacrima belva
+Perla granchio
+Perla granchio+
+Tesoro di drago
+Antico tesoro drago
+Moneta apogeo
+Moneta caccia
+Moneta suprema
+Moneta cintura nr. G
+Moneta esperto G
+Moneta leggenda G
+Moneta zannuta
+Moneta volante
+Moneta volante G
+Moneta rapace
+Moneta vorace
+Moneta brutale
+Moneta brutale G
+Moneta verminea
+Moneta verminea G
+Moneta rospo
+Moneta rospo G
+Moneta serpente G
+Moneta Daimyo
+Buono pasto
+Buono gourmet
+Pass Studio
+Buono Tesoro J
+Poster Ricercato Chopper
+Sgt. Rana Stella
+Buono Rivista
+Invito all'armata
+Buono Famitsu
+Grande Zanna Mistica
+Invito fan club
+Buono Monqlo
+Pass Studio oro
+Pass Studio platino
+Buono Pirata J
+Amuleto prezioso
+Leggendario Cappello Pirata J
+Poster Ricercato Usop
+Distintivo Interpol
+Buono Val Habar
+Polvere Stellare Paradiso Nero
+Melodia della dea
+World Champion Title
+Spirito Cavalleresco
+Buono Uniqlo
+Buono Emblema
+Buono Domenica
+Buono Ezono
+Bracciale pesante
+Buono Dengeki
+Buono Dengeki G
+Edizione Speciale Cucciolo
+Certificato fan club
+Triforza
+Fuoco della dea
+Super fungo
+Buono cacciatore
+Buono Deviljho
+Buono Amatsu
+Buono Fatalis crem.
+Pass fantastico
+Pass speciale
+Buono Condanna J
+Buono Ribellione J
+Coupon Famitsu
+Spada Balbadd
+Progetto meccanico
+Coupon Dengeki
+Newsletter fan club
+Inno fan club
+E-Tank
+Buono carne vintage
+Catalogo imitazione
+Poster arruolamento
+Sigillo eroe
+Motivo colorato
+Dati armi
+Struttura modulare
+Favola di Poogie
+Grazia della dea
+Anello d'oro
+Spartito taiko
+Nota del Peccatore
+Buono Dah'ren Mohran
+Buono Dalamadur
+Buono Rajang
+Buono Gore Magala
+Buono Viperospo
+Buono Kirin oscuro
+Encomio
+Encomio G
+Onorificenza
+Onorificenza G
+Sigillo trionfo
+Sigillo trionfo G
+Buono carovana
+Buono carovana G
+Buono Grancaccia
+Buono compagno
+Buono miaostri
+Buono missioni
+Buono mercantile
+Buono Yukumo
+Buono Batuffola
+Buono Shakalaka
+Buono dell'istruttore
+Buono staff Gilda
+Buono Jumbo
+Buono Kushala Daora
+Buono Teostra
+Bollo a impronta
+Buono AV
+Buono AV lusso
+Buono AV bronzo
+Buono AV argento
+Buono AV oro
+Buono AV cosmico
+Buono Gilda
+Buono Gilda argento
+Buono Gilda oro
+Buono Capo minuto
+Buono Capo minuto S
+Uovo d'acciaio
+Uovo d'argento
+Uovo d'oro
+Picconcino
+Scarto misero
+Scarto misero+
+Scarto armonioso
+Scarto armonioso+
+Scarto Gargwa
+Scarto Gargwa+
+Scarto Arzuros
+Scarto Arzuros+
+Scarto Kecha Wacha
+Scarto Kecha Wacha+
+Scarto Y.Kut-Ku
+Scarto Yian Kut-Ku+
+Scarto Bnahabra
+Scarto Bnahabra+
+Scarto Konchu+
+Scarto Bulldrome
+Scarto Bulldrome+
+Scarto Rhenoplos
+Scarto Rhenoplos+
+Scarto G.Jaggi
+Scarto Gran Jaggi+
+Scarto Yian Garuga+
+Scarto Cephalos+
+Scarto Nerscylla
+Scarto Nerscylla+
+Scarto Qurupeco
+Scarto Qurupeco+
+Scarto Zamtrios
+Scarto Zamtrios+
+Scarto Lagombi
+Scarto Lagombi+
+Scarto Tetsucabra
+Scarto Tetsucabra+
+Scarto Barroth
+Scarto Barroth+
+Scarto Slagtoth
+Scarto Slagtoth+
+Scarto Volvidon
+Scarto Volvidon+
+Scarto Gypceros+
+Scarto Congalala+
+Scarto Tigrex
+Scarto Tigrex+
+Scarto G.Baggi
+Scarto Gran Baggi+
+Scarto Nibelsnarf
+Scarto Nibelsnarf+
+Scarto Seltas r.
+Scarto Seltas regina+
+Scarto Uragaan
+Scarto Uragaan+
+Scarto G.Wroggi
+Scarto Gran Wroggi+
+Scarto Basarios+
+Scarto Gravios+
+Scarto Diablos
+Scarto Diablos+
+Scarto Monoblos+
+Scarto Hermitaur+
+Scarto Rathian
+Scarto Rathian+
+Scarto Khezu
+Scarto Khezu+
+Scarto Duramboros
+Scarto Duramboros+
+Scarto Zinogre
+Scarto Zinogre+
+Scarto Nargacuga
+Scarto Nargacuga+
+Scarto Rathalos
+Scarto Rathalos+
+Scarto Agnaktor
+Scarto Agnaktor+
+Scarto Najarala
+Scarto Najarala+
+Scarto Seregios+
+Scarto G.Magala
+Scarto G.Magala+
+Scarto S.Magala
+Scarto S.Magala+
+Scarto Teostra
+Scarto Teostra+
+Scarto Deviljho
+Scarto Deviljho+
+Scarto Akantor
+Scarto Akantor+
+Scarto Alatreon
+Scarto Alatreon+
+Scarto K.Daora
+Scarto K.Daora +
+Scarto Chameleos+
+Scarto Ukanlos
+Scarto Ukanlos+
+Scarto Kirin
+Scarto Kirin+
+Scarto Gigginox
+Scarto Gigginox+
+Scarto Rajang
+Scarto Rajang+
+Scarto Brachydios
+Scarto Brachydios+
+Scarto Barioth
+Scarto Barioth+
+Scarto Amatsu
+Scarto Amatsu+
+Scarto D.Mohran
+Scarto D.Mohran+
+Scarto J.Mohran
+Scarto J.Mohran+
+Scarto Dalamadur
+Scarto Dalamadur+
+Scarto Gogmazios+
+Scarto Ludroth r.
+Scarto Ludroth reale+
+Scarto Plesioth
+Scarto Plesioth+
+Scarto Lagiacrus
+Scarto Lagiacrus+
+Gemma aqualux
+Gemma lucedisol
+Gemma scorrisangue
+Gemma lapislazzuli
+Gemma armatura
+Sfera sovrana
+Abbraccio della dea

@@ -1,0 +1,256 @@
+﻿#  MH4UASS Primary String Table 
+#  
+#  Documentation Notes
+#
+#  - Lines beginning with # are comments and are ignored.
+#  - Empty lines are also ignored.
+#  - The name of this language as it appears in the drop-down menu is the name of the folder inside the Languages folder.
+#  - Menus and buttons may use an ampersand (&) symbol to denote a hotkey.
+#  - Tokens (%1, %2 etc.) are replaced by numbers; they can be rearranged into any order.
+#    Refer to the specific documentation below to see what the numbers are.
+#
+#  If you have any questions or require more strings/options/UI changes, please message AthenaADP on the Minegarde forums.
+#
+
+#The first line is for translator credit. This appears in the About dialog when this language is selected. A single hyphen means nothing is shown.
+Traducido por: J. Anthony Aragón
+
+&Archivo
+&Opciones
+&Idioma
+&Ayuda
+&Abrir
+
+#This string is used in the File menu to save application settings.
+&Guardar
+
+#This string is used for saving custom charm/excavated gear lists.
+&Guardar
+
+&Salir
+
+#This options resets all settings to default
+&Borrar ajustes
+
+#"Bad" skills are ones activated at -10 points or less.
+Permitir &Habilidades Negativas
+
+#This specifically refers to Arena reward helmets, such as the Barrage Piercing
+#and Sword Saint Piercing, which are difficult to obtain.
+Permitir &Armadura de Arena
+
+#Event armor (and Decorations) from DLC quests
+Permitir &Armadura de Evento
+
+#Japanese only armor/decorations
+Permitir &DLC Japoneses
+
+#This setting will ignore gear of a lower tier than you
+Permitir &Armadura Rango Bajo
+
+Mostrar puntos &requeridos por las Habilidades
+
+Ordenar habilidades &Alfabeticamente
+Permitir &Armadura de Excavación
+Permitir &Armas de Excavación
+Permitir &Yelmos Artillero
+&Donar
+&Usar espacios libres en habilidades extra
+&¿Qué hacen las habilidades?
+
+#This option opens a browser to my main thread on forums.minegarde.com
+Buscar &actualizaciones
+
+&Acerca de
+&Talismanes
+&Importar
+&Búsqueda Rápida
+&Búsqueda Avanzada
+&Cancelar
+&Predeterminado
+
+#This string is used in the Advanced Search dialog to deselect all armors in a list.
+&Ninguno
+
+#This string is used in the combobox that filters solutions by charm
+Sin talismán
+
+#This string is used in the combobox that sorts solutions by various criteria
+No ordenar
+
+&Buscar
+Seleccionar &Ninguno
+Seleccionar &El Mejor
+&Agregar Nuevo
+&Reset.
+&Eliminar
+Eliminar &Todos
+Mover &Arriba
+Mover &Abajo
+&Ajustar
+&Cerrar
+&Encontrar Siguiente
+
+Mis. de Gremio
+Mis. de Caravana
+Espacios en el arma
+Hombre
+Mujer
+No filtrar habilidad extra
+Ordenar/Filtrar Resultados
+
+#This string is used in the combobox that filters solutions by charm
+Cualquier Talismán
+
+Res. draco 
+Res. fuego
+Res. hielo
+Res. rayo
+Res. agua
+Defensa Base
+Máxima Defensa
+
+#When sorting solutions, "Difficulty" refers to the number of rare items required, e.g. plates/rubies/dragongems/etc.
+Dificultad
+
+Rareza
+Espacios libres
+
+#When sorting solutions, "Family" refers to how similar the armor pieces are:
+# Rathalos X + Rathalos X (great!)
+# Rathalos X + Rathalos S (good)
+# Rathalos X + Rathalos U (ok...)
+# Rathalos X + Basarios S (bad)
+Familia
+
+#Extra Skills are skills that a solution may have that the user did not search for
+Habilidades Extra
+
+Talismanes
+No usar talismanes
+Usar mis talismanes
+
+#When searching using charms that have no skills, but 1-3 slots.
+Usar talismanes con espacios
+
+#When searching using charms with at most one skill and possibly some slots
+Usar talismanes con una habilidad
+
+#When searching using charms with at most two skills and possible some slots (i.e. all possible charms)
+Usar talismanes con dos habilidades
+
+#This string is used in the Manage Relics dialog when selecting a skill
+Habilidad
+
+Habilidad
+Filtros de Habilidad
+Espadachín
+Artillero
+
+#Used in the Advanced Search dialog
+Seleccionar Armadura
+
+#For importing charms from a savefile (unsupported atm)
+Importar
+
+#For importing charms from a savefile (unsupported atm)
+Caracteres
+
+Eliminar talismanes existentes
+¿Estas seguro(a)?
+&Ordenar
+&Ordenar por Hab. 1
+&Ordenar por Hab. 2
+Espacios
+(Ninguna)
+
+#When a solution has exactly one slot spare
+1 Espacio libre
+
+#When a solution has multiple slots spare, %1 is that number.
+%1 Espacios libres
+
+#These following three strings deliberately begin with a space in English
+ (o cualquiera con 1 espacio)
+
+#%1 is the number of slots in the armor
+ (o cualquiera con %1 espacios)
+
+ (o cualquiera con Torso+)
+Soluciones encontradas:
+
+#When there are too many solutions to display all of them, %1 is the limit (default 1000)
+Mostrando solo las primeras %1 soluciones:
+
+Datos save
+El archivo está dañado.
+Version
+Encontrar
+
+#This string is shown if a charm or excavated item is loaded that is impossible to obtain legitimately
+&Tú, tramposo.
+
+#Used in some error popups
+Error
+
+#For showing min (%1) and max (%2) defence, e.g. 10 to 100
+%1 a %2
+
+Defensa
+Tabla
+Resultados
+Talismán desconocido
+Eliminar todos
+Ajustes ASS
+&Máximo de resultados
+Mostrar &nombres de joyas
+
+#Showing min/max defence and elemental resists
+%1-%2 Def, %3 Fue, %4 Agu, %5 Hie, %6 Ray, %7 Dra
+
+#This string is used to show decorations as skills, e.g. "+5 Expert Jewel". %1 is the numeric value %2 is the skill name
+%1 %2 Joya
+
+#Strings for the Manage Relics dialog
+&Reliquias
+Administrar Reliquias
+Reliquias
+&Guardar
+&Agregar nueva
+&Eliminar
+&Ajustar
+
+#Item Type refers to weapon/helm/body armor/etc.
+Pieza
+
+#Hunter Type means Blademaster or Gunner
+Tipo Cazador
+
+#Both Blademaster and Gunner (for helmets)
+Ambos
+
+Arma
+Cabeza
+Pecho
+Brazos
+Cintura
+Piernas
+
+#This string is for displaying potential extra skills
+(%1 posible)
+
+#Strings for the skill description dialog
+Mostrar
+Descripción
+Habilidades
+Ptos. de Habilidad
+Piezas con puntos en esta habilidad:
+
+#Strings for displaying hunter rank, village quest progress etc.
+%1☆
+RC%1
+G%1
+Todo
+
+#Format string for showing a skill with the number of skill points required
+%1 (+%2)

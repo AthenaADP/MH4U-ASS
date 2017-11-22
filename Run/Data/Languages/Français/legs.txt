@@ -1,0 +1,617 @@
+Pantalon en cuir
+Pantalon de bravoure
+Pantalon en maille
+Grèves de chasseur
+Cuissard de chasseur
+Grèves d'os
+Cuissard d'os
+Grèves en alliage
+Cuissard en alliage
+Bottes de Loc Lac
+Bottes Bnahabra
+Pieds Bnahabra
+Grèves Rhenoplos
+Cuissard Rhenoplos
+Pieds Remobra
+Collant Remobra
+Grèves Jaggi
+Cuissard Jaggi
+Grèves Genprey
+Cuissard Genprey
+Grèves Ioprey
+Cuissard Ioprey
+Grèves Lagombi
+Cuissard Lagombi
+Grèves Kecha
+Cuissard Kecha
+Grèves Conga
+Cuissard Conga
+Grèves Gypceros
+Cuissard Gypceros
+Grèves Tetsucabra
+Cuissard Tetsucabra
+Grèves Nerscylla
+Cuissard Nerscylla
+Grèves Zamtrios
+Cuissard Zamtrios
+Grèves Najarala
+Cuissard Najarala
+Grèves Khezu
+Cuissard Khezu
+Grèves Rathian
+Cuissard Rathian
+Grèves Velociprey
+Cuissard Velociprey
+Grèves Kut-Ku
+Cuissard Kut-Ku
+Grèves Basarios
+Cuissard Basarios
+Grèves Arzuros
+Cuissard Arzuros
+Grèves Ludroth
+Cuissard Ludroth
+Grèves Barroth
+Cuissard Barroth
+Grèves Nibelsnarf
+Cuissard Nibelsnarf
+Grèves Ceanataur
+Cuissard Ceanataur
+Grèves haut-métal
+Cuissard haut-métal
+Grèves de combat
+Cuissard de combat
+Grèves Gore
+Cuissard Gore
+Grèves Rathalos
+Cuissard Rathalos
+Grèves Tigrex
+Cuissard Tigrex
+Grèves Zinogre
+Cuissard Zinogre
+Grèves Seltas
+Cuissard Seltas
+Grèves Gravios
+Cuissard Gravios
+Grèves Brachydios
+Cuissard Brachydios
+Gusoku Crépuscule
+Hakama Aurore
+Gusoku Mithril
+Hakama ancestral
+Grèves Archange
+Cuissard Archange
+Grèves Philia
+Cuissard Philia
+Grèves Garuga
+Cuissard Garuga
+Jambières Kirin
+Bottes Kirin
+Grèves Nargacuga
+Cuissard Nargacuga
+Grèves Uragaan
+Cuissard Uragaan
+Grèves Duramboros
+Cuissard Duramboros
+Grèves Lava
+Cuissard Lava
+Grèves Diablos
+Cuissard Diablos
+Gusoku Auroros
+Gusoku Genesis
+Hakama Borealis
+Hakama Glyphe
+Grèves Artian
+Cuissard Artian
+Grèves en lingot
+Cuissard en lingot
+Bottes Bnahabra S
+Pieds Bnahabra S
+Grèves Rhenoplos S
+Cuissard Rhenoplos S
+Pieds Remobra S
+Collant Remobra S
+Grèves Jaggi S
+Cuissard Jaggi S
+Grèves Genprey S
+Cuissard Genprey S
+Grèves Ioprey S
+Cuissard Ioprey S
+Grèves Lagombi S
+Cuissard Lagombi S
+Grèves Kecha S
+Cuissard Kecha S
+Grèves Conga S
+Cuissard Conga S
+Grèves Velociprey S
+Cuissard Velociprey S
+Grèves Kut-Ku S
+Cuissard Kut-Ku S
+Grèves Vespoid
+Cuissard Vespoid
+Grèves Cephalos
+Cuissard Cephalos
+Grèves Volvidon
+Cuissard Volvidon
+Grèves Hermitaur
+Cuissard Hermitaur
+Grèves Qurupeco
+Cuissard Qurupeco
+Grèves Plesioth
+Cuissard Plesioth
+Grèves en cuir S
+Cuissard en cuir S
+Grèves de bravoure S
+Cuissard bravoure S
+Grèves en maille S
+Cuissard en maille S
+Grèves de chasseur S
+Cuissard chasseur S
+Grèves d'os S
+Cuissard d'os S
+Grèves en alliage S
+Cuissard alliage S
+Bottes Chrome
+Chaussures Chrome
+Racines Mosgharl
+Radicule Mosgharl
+Jambes Aelucanth
+Pattes Aelucanth
+Jambes Rhopessa
+Pattes Rhopessa
+Grèves Homard
+Cuissard Homard
+Bottes Gardien
+Chaussures Gardien
+Chaussettes servante
+Collant de servante
+Bottes de barde
+Guêtres de barde
+Chaussettes de clerc
+Sandales de clerc
+Grèves Conga U
+Cuissard Conga U
+Grèves Gypceros S
+Cuissard Gypceros S
+Grèves Tetsucabra S
+Cuissard Tetsucabra S
+Grèves Nerscylla S
+Cuissard Nerscylla S
+Grèves Zamtrios S
+Cuissard Zamtrios S
+Grèves Najarala S
+Cuissard Najarala S
+Grèves Khezu S
+Cuissard Khezu S
+Grèves Rathian S
+Cuissard Rathian S
+Grèves Rathalos S
+Cuissard Rathalos S
+Grèves Tigrex S
+Cuissard Tigrex S
+Grèves Zinogre S
+Cuissard Zinogre S
+Grèves Seltas S
+Cuissard Seltas S
+Grèves Gravios S
+Cuissard Gravios S
+Grèves Kut-Ku U
+Cuissard Kut-Ku U
+Grèves Basarios S
+Cuissard Basarios S
+Grèves Garuga S
+Cuissard Garuga S
+Grèves Mono S
+Cuissard Mono S
+Grèves Blango
+Cuissard Blango
+Grèves Gobul
+Cuissard Gobul
+Grèves Barioth
+Cuissard Barioth
+Grèves haut-métal S
+Cuissard haut-métal S
+Pieds Ioprey
+Collant Ioprey
+Crura Nécrologie
+Tarsi Nécrologie
+Crura papillon
+Tarsi papillon
+Grèves Artian S
+Cuissard Artian S
+Chaîne cheville Chakra
+Grèves Gore S
+Cuissard Gore S
+Grèves Regios S
+Cuissard Regios S
+Grèves Gypceros U
+Cuissard Gypceros U
+Grèves Khezu U
+Cuissard Khezu U
+Grèves Cœur Rathian
+Cuissard Cœur Rathian
+Grèves Âme Rathalos
+Cuissard Âme Rathalos
+Grèves Tigrex U
+Cuissard Tigrex U
+Grèves Zinogre U
+Cuissard Zinogre U
+Grèves Gravios U
+Cuissard Gravios U
+Grèves Brachydios S
+Cuissard Brachydios S
+Grèves Vangis
+Cuissard Vangis
+Grèves Basarios U
+Cuissard Basarios U
+Jambières Kirin S
+Bottes Kirin S
+Grèves Lagiacrus
+Cuissard Lagiacrus
+Grèves Agnaktor
+Cuissard Agnaktor
+Grèves Dober
+Cuissard Dober
+Bottes Faucon
+Pieds Faucon
+Bottes d'érudite
+Chaussures d'érudite
+Bottes Chevalier
+Collant Chevalier
+Chaussettes soubrette
+Collant de soubrette
+Hakama Yukumo Ciel
+Hakama Yukumo Terre
+Tabi de ranger
+Tabi d'archer
+Grèves obi noir
+Cuissard obi noir
+Chaussettes de marin
+Sandales de marin
+Grèves Archange S
+Cuissard Archange S
+Grèves Philia S
+Cuissard Philia S
+Hakama d'or
+Tabi Kuroko
+Hakama Ire divine
+Tabi Brise-esprit
+Mollet Kushala
+Jarret Kushala
+Grèves Kaiser
+Cuissard Kaiser
+Gusoku Crépuscule H
+Hakama Aurore H
+Gusoku Mithril H
+Hakama ancestral H
+Grèves Rébellion
+Cuissard Anarchie
+Jute Akantor
+Bottes Akantor
+Grèves Solargent
+Cuissard Solargent
+Grèves Lunedor
+Cuissard Lunedor
+Grèves Voracité
+Cuissard Voracité
+Grèves Excello
+Cuissard Excello
+Pieds-de-dragon
+Jambes-de-dragon
+Pieds Fatalis rouge
+Jambes Fatalis rouge
+Jambières Kirin U
+Bottes Kirin U
+Jute Ukanlos
+Bottes Ukanlos
+Gusoku Indra
+Gusoku inflexible X
+O-miashi Spectre
+O-miashi Carnage
+Grèves impériales
+Cuissard impérial
+Gusoku Mizuha
+Gusoku fantasque
+Grèves Helios
+Cuissard Helios
+Grèves Selene
+Cuissard Selene
+Gaine Escadora
+Écaille Escadora
+Grèves Rathian EX
+Cuissard Rathian EX
+Grèves Rathalos EX
+Cuissard Rathalos EX
+Mollet Kushala EX
+Jarret Kushala EX
+Grèves Kaiser EX
+Cuissard Kaiser EX
+Grèves Tigrex EX
+Cuissard Tigrex EX
+Gusoku Yamato
+Gusoku Mutsu
+Hakama Hyuga
+Hakama Amagi
+Tabi Shinobi Cieux
+Tabi Shinobi Terre
+Jambes cuir noir
+Pantalon cuir noir
+Bottes Étoile bleue
+Chaussures Étoile bl
+Bottes Pirate J
+Pantalon Pirate J
+Bottes Légende J
+Pantalon Légende J
+Jean Bouya
+Pantalon Bouya
+Pantalon Uniqlo
+Collant Uniqlo
+Grèves Star Rook
+Cuissard Star Rook
+Grèves Zodias
+Cuissard Zodias
+Bottes du Héros
+Jambières du Héros
+Hakama d'Ogre
+Robe d'Ogre
+Jambières Kirin U EX
+Bottes Kirin U EX
+Grèves en lingot EX
+Cuissard en lingot EX
+Grèves Artian EX
+Cuissard Artian EX
+Grèves Gore EX
+Cuissard Gore EX
+Grèves Rébellion EX
+Cuissard Anarchie EX
+Bottes de pâtissier
+Pieds de pâtissier
+Bottes Bnahabra X
+Pieds Bnahabra X
+Grèves Rhenoplos X
+Cuissard Rhenoplos X
+Grèves Ioprey X
+Cuissard Ioprey X
+Grèves Cephalos X
+Cuissard Cephalos X
+Grèves Lagombi X
+Cuissard Lagombi X
+Grèves Kecha X
+Cuissard Kecha X
+Grèves Kecha Z
+Cuissard Kecha Z
+Grèves Conga X
+Cuissard Conga X
+Grèves Conga Z
+Cuissard Conga Z
+Grèves Gypceros X
+Cuissard Gypceros X
+Grèves Gypceros Z
+Cuissard Gypceros Z
+Grèves Hermitaur X
+Cuissard Hermitaur X
+Grèves Hermitaur Z
+Cuissard Hermitaur Z
+Grèves Tetsucabra X
+Cuissard Tetsucabra X
+Grèves Tetsucabra Z
+Cuissard Tetsucabra Z
+Grèves Nerscylla X
+Cuissard Nerscylla X
+Grèves Zamtrios X
+Cuissard Zamtrios X
+Grèves Zamtrios Z
+Cuissard Zamtrios Z
+Grèves Najarala X
+Cuissard Najarala X
+Grèves Najarala Z
+Cuissard Najarala Z
+Grèves Khezu X
+Cuissard Khezu X
+Grèves Khezu Z
+Cuissard Khezu Z
+Grèves Rathian X
+Cuissard Rathian X
+Grèves Cœur Rathian Z
+Cuissard Cœur Rath Z
+Grèves Velociprey X
+Cuissard Velociprey X
+Grèves Kut-Ku X
+Cuissard Kut-Ku X
+Grèves Kut-Ku Z
+Cuissard Kut-Ku Z
+Grèves Basarios X
+Cuissard Basarios X
+Grèves Basarios Z
+Cuissard Basarios Z
+Grèves Qurupeco X
+Cuissard Qurupeco X
+Grèves Barroth X
+Cuissard Barroth X
+Grèves Gobul X
+Cuissard Gobul X
+Grèves Nibelsnarf X
+Cuissard Nibelsnarf X
+Grèves Barioth X
+Cuissard Barioth X
+Grèves Agnaktor X
+Cuissard Agnaktor X
+Grèves Plesioth Z
+Cuissard Plesioth Z
+Hakama Hokushin
+Hakama Océan
+Crura Nécrologie X
+Tarsi Nécrologie X
+Crura papillon X
+Tarsi papillon X
+Jambes Aelucanth X
+Pattes Aelucanth X
+Jambes Rhopessa X
+Pattes Rhopessa X
+Bottes Gardien X
+Chaussures Gardien X
+Chaussettes servante X
+Chaussettes guériss X
+Grèves Regios X
+Cuissard Regios X
+Grèves Nerscylla Z
+Cuissard Nerscylla Z
+Grèves Rathalos X
+Cuissard Rathalos X
+Grèves Âme Rathalos Z
+Cuissard Âme Rath Z
+Grèves Tigrex X
+Cuissard Tigrex X
+Grèves Tigrex Z
+Cuissard Tigrex Z
+Grèves Zinogre X
+Cuissard Zinogre X
+Grèves Zinogre Z
+Cuissard Zinogre Z
+Grèves Seltas X
+Cuissard Seltas X
+Grèves Seltas Z
+Cuissard Seltas Z
+Grèves Gravios X
+Cuissard Gravios X
+Grèves Gravios Z
+Cuissard Gravios Z
+Grèves Diablos X
+Cuissard Diablos X
+Grèves Diablos Z
+Cuissard Diablos Z
+Grèves Brachydios X
+Cuissard Brachydios X
+Grèves Vangis X
+Cuissard Vangis X
+Grèves du chaos
+Cuissard du chaos
+Grèves Nephilim
+Cuissard Nephilim
+Grèves Garuga X
+Cuissard Garuga X
+Grèves Mono X
+Cuissard Mono X
+Grèves Monodevil
+Cuissard Monodevil
+Grèves Gore X
+Cuissard Gore X
+Grèves Nargacuga X
+Cuissard Nargacuga X
+Grèves Lagiacrus X
+Cuissard Lagiacrus X
+Grèves Duramboros X
+Cuissard Duramboros X
+Grèves Lava X
+Cuissard Lava X
+Grèves Artian X
+Cuissard Artian X
+Bottes Faucon X
+Pieds Faucon X
+Bottes d'érudite X
+Chaussures d'érudite X
+Grèves As de chasse
+Cuissard As de chasse
+Grèves Amazone
+Cuissard Amazone
+Bottes Gardien Z
+Chaussures Gardien Z
+Chaussettes servante Z
+Chaussures guériss Z
+Bottes Chevalier X
+Collant Chevalier X
+Chauss. de soubrette X
+Collant personel X
+Grèves Archange X
+Cuissard Archange X
+Grèves Philia X
+Cuissard Philia X
+Gusoku du prophète X
+Gusoku de l'hermite X
+Gusoku Ire divine X
+Gusoku Brise-esprit X
+Mollet Kushala X
+Jarret Kushala X
+Mollet Kujula
+Jarret Kujula
+Grèves Kaiser X
+Cuissard Kaiser X
+Gusoku Mizuha X
+Gusoku fantasque X
+Gusoku Crépuscule X
+Gusoku Aurore X
+Gusoku Mithril X
+Gusoku ancestral X
+Grèves Gogma
+Cuissard Gogma
+Grèves Rébellion Z
+Cuissard Anarchie Z
+Jute Akantor X
+Bottes Akantor X
+Jute Ukanlos X
+Bottes Ukanlos X
+Grèves Voracité Z
+Cuissard Voracité Z
+Grèves Excello Z
+Cuissard Excello Z
+Grèves Brachydium
+Cuissard Brachydium
+Pieds Wroth
+Jambes Wroth
+Jambières Kirin X
+Bottes Kirin X
+Jambières Kirin Z
+Bottes Kirin Z
+O-miashi Spectre X
+O-miashi Carnage X
+Gusoku Yamato X
+Gusoku Mutsu X
+Hakama Hyuga X
+Hakama Amagi X
+Grèves impériales X
+Cuissard impérial X
+Grèves Helios X
+Cuissard Helios X
+Grèves Selene X
+Cuissard Selene X
+Gusoku Auroros EX
+Gusoku Genesis EX
+Hakama Borealis EX
+Hakama Glyphe EX
+Hakama Tempête
+Hakama céleste
+Pieds Miralis
+Jambes Miralis
+Gaine Escadora EX
+Écaille Escadora EX
+Grèves Star Knight
+Cuissard Star Knight
+Bottes Roi Pirate J
+Pantalon Roi Pirate J
+Jambes du Champion
+Jambe du Surhomme
+Jambières Varia
+Coquille Varia
+Bottes Zéro
+Collant Zéro
+Grèves Lunedor Z
+Cuissard Lunedor Z
+Grèves Solargent Z
+Cuissard Solargent Z
+Grèves Rébellion X
+Cuissard Anarchie X
+Pieds-de-dragon X
+Jambes-de-dragon X
+Pieds Fatalis blanc
+Jambes Fatalis blanc
+Cuisses chasseur GX
+Chausses chasseur GX
+Cuisses Voracité GX
+Chausses Voracité GX
+Hahakama Tempête GX
+Hahakama céleste GX
+Cuisses Fatalis rg GX
+Chausses Fatalis rg GX
+Grèves hérétiques
+Cuissard hérétique
+Grèves Anat
+Cuissard Anat

@@ -1,0 +1,277 @@
+﻿Increases the skill points on your torso armor. Equivalent to copying its skill points.
+Immunity to Poison.
+Double Poison duration.
+Immunity to Paralysis.
+Doubles Paralysis duration.
+Immunity to Sleep.
+Doubles Sleep duration.
+Half Stun duration.
+Immunity to Stun.
+Doubles Stun duration.
+Immunity to Mud and Snow.
+Immunity to Defense Down.
+Immunity to Stink and Slime. 100% Dung Bomb combination.
+Immunity to Stink and Slime. 100% Dung Bomb combination. Slows Frenzy.
+Small increase in raw damage.
+Moderate increase in raw damage.
+Large increase in raw damage.
+Extra large increase in raw damage.
+Small decreased raw damage.
+Moderate decrease in raw damage.
+Large decrease in raw damage.
+Small increase in defense.
+Moderate increase in defense.
+Large increase in defense.
+Extra large increase in defense.
+Small decrease in defense.
+Moderate decrease in defense.
+Large decrease in defense.
+Health increases from 100 to 120.
+Health increases from 100 to 150.
+Health decreases from 100 to 90.
+Health decreases from 100 to 70.
+Red health recovery at double speed.
+Red health recovery at quadruple speed.
+Red health recovery at half speed.
+Red health recovery at quarter speed.
+25% chance to take 30% less damage when hit.
+25% chance to take 30% more damage when hit.
+Faster sheathing of weapons.
+20% faster charging of Bow, SA, GS, CA, LS, DS, Hammer.
+20% slower charging of Bow, SA, GS, CA, LS, DS, Hammer.
++10% Affinity
++15% Affinity
++20% Affinity
++30% Affinity
+-5% Affinity
+-10% Affinity
+-15% Affinity
++15% Affinity. +5% raw damage against weakpoints.
+30% easier to break parts, cut tails, etc.
+10% more KO applied to impact damage.
+20% more Stamina drained from monsters by attacks.
+25% less Stamina used when evading.
+50% less Stamina used when evading.
+20% more Stamina used when evading.
+35% more Stamina used when evading.
+Immunity to some monster roars.
+Immunity to all monster roars.
+Immunity to some wind pressure.
+Immunity to all wind pressure.
+Immunity to tremors.
+Immunity to heat and lava.
+Double damage from heat and lava.
+Immunity to cold.
+Double Stamina loss from cold.
+Half continuous Stamina drain.
+Double continuous Stamina drain.
+Double Stamina recovery speed.
+Half Stamina recovery speed.
+More invincibility time while evading.
+Much more invincibility time while evading.
+Even more invincibility time while evading.
+Less invincibility time while evading.
+50% increased evade distance.
+Monsters less likely to target you.
+Monsters more likely to target you.
+Decreased knockback and Stamina loss when blocking.
+Further decreased knockback and Stamina loss when blocking.
+Increased knockback and Stamina loss when blocking.
+Can block unblockable attacks.
+Increased status effects of weapons.
+Greatly increased status effects of weapons.
+Decreased status effects of weapons and Tranq Bombs.
++10% to all elements on weapons and elemental ammo.
+Weakens elements on weapons and elemental ammo.
++20% Fire Element on weapons and Fire S.
++40% Fire Element on weapons and Fire S.
++55% Fire Element on weapons and Fire S.
+-30% Fire Element on weapons and Fire S.
++20% Water Element on weapons and Water S.
++40% Water Element on weapons and Water S.
++55% Water Element on weapons and Water S.
+-30% Water Element on weapons and Water S.
++20% Thunder Element on weapons and Thunder S.
++40% Thunder Element on weapons and Thunder S.
++55% Thunder Element on weapons and Thunder S.
+-30% Thunder Element on weapons and Thunder S.
++20% Ice Element on weapons and Ice S.
++40% Ice Element on weapons and Ice S.
++55% Ice Element on weapons and Ice S.
+-30% Ice Element on weapons and Ice S.
++20% Dragon Element on weapons and Dragon S.
++40% Dragon Element on weapons and Dragon S.
++55% Dragon Element on weapons and Dragon S.
+-30% Dragon Element on weapons and Dragon S.
++15 Fire Res.
++20 Fire Res.
+-20 Fire Res.
++15 Water Res.
++20 Water Res.
+-20 Water Res.
++15 Thunder Res.
++20 Thunder Res.
+-20 Thunder Res.
++15 Ice Res.
++20 Ice Res.
+-20 Ice Res.
++15 Dragon Res.
++20 Dragon Res.
+-20 Dragon Res.
+Half Sharpness depletion.
+Doubled Sharpness depletion.
+Increased weapon sharpness level.
+Faster sharpening of weapons.
+Slower sharpening of weapons.
+Unsheathe attacks inflict KO.
+Unsheathe attacks have +100% Affinity.
+Attacks never bounce.
+Attacks that would not normally bounce will bounce 1/3 of the time.
+Faster to reload Bowguns and change bow coatings.
+Even faster to reload Bowguns and change bow coatings.
+Faster yet to reload Bowguns and change bow coatings.
+Slower to reload Bowguns and change bow coatings.
+Even slower to reload Bowguns and change bow coatings.
+Slower still to reload Bowguns and change bow coatings.
++1 capacity for Bowgun and Gunlance clips. Extra charge level for Bows.
+Adds another shots to Rapid-Fire salvoes (LBG-only).
+Reduces recoil on Bowguns by 1 level.
+Reduces recoil on Bowguns by 2 levels.
+Reduces recoil on Bowguns by 3 levels.
+Increases recoil on Bowguns by 1 level.
+Increases recoil on Bowguns by 2 levels.
+Increases recoil on Bowguns by 3 levels.
+Reduces Bowgun shot deviation by 1 level.
+Reduces Bowgun shot deviation by 2 levels.
+Increases Bowgun shot deviation by 1 level.
+Increases Bowgun shot deviation by 2 levels.
++10% raw damage for Normal S and Rapid Arrows.
++10% raw damage for Pierce S and Pierce Arrows.
++20% raw damage for Pellet S, +30% for Spread Arrows.
+All Normal S may be used with any Bowgun.
+Lv1 Pierce S may be used with any Bowgun.
+All Pierce S may be used with any Bowgun.
+Lv1 Pellet S may be used with any Bowgun.
+All Pellet S may be used with any Bowgun.
+Lv1 Crag S may be used with any Bowgun.
+All Crag S may be used with any Bowgun.
+Lv1 Clust S may be used with any Bowgun.
+All Clust S may be used with any Bowgun.
+Slicing S may be used with any Bowgun.
+Slime S may be used with any Bowgun.
+Poison Coating may be used with any Bow.
+Paralysis Coating may be used with any Bow.
+Sleep Coating may be used with any Bow.
+Power Coating may be used with any Bow.
+C.Range Coating may be used with any Bow.
+Exhaust Coating may be used with any Bow.
+Slime Coating may be used with any Bow.
+Hunting Horn melodies last 1 minute longer. Field Horns less likely to break.
+Small increased to damage from Ballista, Cannon, Crag S, Gunlance shells and Wyvernfire.
+Moderate increase to damage from Ballista, Cannon, Crag S, Gunlance shells and Wyvernfire. Reduced Wyvernfire cooldown.
+Large increase to damage from Ballista, Cannon, Crag S, Gunlance shells and Wyvernfire. Reduced Wyvernfire cooldown.
++30% Bomb damage and Slime attribute. 100% Bomb combination rate.
++25 Health recovered from items.
+-25 Health recovered from items.
+Certain items also affect allies in same area at 50% effect.
+Certain items also affect allies in same area.
+50% increased duration of item effects.
+33% decreased duration of item effects.
+Stamina loss from hunger is halved.
+Stamina loss from hunger is negated.
+Stamina loss from hunger is 50% more.
+Stamina loss from hunger is doubled.
+25% chance of extra effect from increase-Stamina items.
+33% chance of extra effect from increase-Stamina items. Health recovery items sometimes increase Stamina.
+Increased speed at consuming items and meat.
+Greatly increased speed at consuming items and meat.
+Decreased speed at consuming items and meat.
+Raw meat gives +50 Stamina. Other meats will also halt Stamina depletion for 1 minute.
+Combination success rate +20%.
+Combination success rate +45%.
+Combination success rate -10%.
+Combination success rate -20%.
+Always get maximum amount of items from combinations.
+Increased chance to get more items from gathering points.
+Greatly increased chance to get more items from gathering points.
+Always get maximum items from gathering points.
+Decreased chance to get more items from gathering points.
+Increased speed at gathering and carving.
+Breakable items 25% less likely to break when used.
+Breakable items 50% less likely to break when used.
+Breakable items 25% more likely to break when used.
+Breakable items 50% more likely to break when used.
+Double Honey from gathering points.
+Chance to receive extra charms when mining.
+Increased chance to receive extra charms when mining.
+Greatly increased chance to receive extra charms when mining.
+Increased chance for standard quest rewards.
+Greatly increased chance for standard quest rewards.
+Always get maximum standard quest rewards.
+Decreased chance for quest rewards.
+Greatly decreased chance for quest rewards.
+Minor attacks do not interrupt carving.
+Minor attacks do not interrupt carving. One extra carve.
+Minor attacks do not interrupt carving. One (22%) or two (78%) extra carves.
+Increased chance for capture rewards.
+Greatly increased chance for capture rewards.
+Always get maximum capture rewards.
+Monster icon on map blinks when ready for capture.
+66% chance to show monsters on map every 5 minutes. More info is given when Paintballs are used.
+Monster location and info is always shown on map.
+Increased speed when carrying heavy items.
+Always shows the map. Easier to fish and BBQ meat.
+Immune to Melynxes stealing items.
+Faster to set up Traps and Bombs. Improves Trap combination rate.
+Torch effect is always applied.
++40 defense when health below 40%.
++45 defense and +30% raw damage when health below 40%.
+-21 defense and -30% raw damage when health below 40%.
+Increases Attack and Defense after fainting.
++30% Affinity and 50% less Stamina consumption after 5 mins of fighting or taking 180 damage.
++50% Affinity and 75% less Stamina consumption after 5 mins of fighting or taking 180 damage.
+Attack +10 and Affinity +10% when in area with enraged monster.
+Attack +25 and Affinity +20% when in area with enraged monster.
+Greatly increased Attack while on full Health.
+Weapons without element gain one.
+If Health is 64 or higher, survive one attack that would cause death per hunt.
+Increased attack, defense, and stamina recovery for Palicoes.
+Palicoes can be revived by signaling them.
+Automatically block attacks if possible.
+Immune to elemental blights.
+Immunity to Poison, Paralysis, Sleep, and Stun.
+Guts and Adrenaline +2.
+Attack Up (L) and Sharpness +1.
+Normal/Rapid Up, Pierce/Pierce Up, and Pellet/Scatter Up.
+Reduced knockdown, Windproof (Lo), and Earplugs.
+Focus and Meat Lover.
+Defense Up (L) and Iron Skin.
+Great Luck and Capture Expert.
+Much easier to overcome Frenzy.
+Weakness Exploit and Critical Eye +2.
+Palico Rally and Palico Cheer.
+Easier to ride monsters.
+Even easier to ride monsters.
+Harder to ride monsters.
+Punishing Draw and Quick Sheath.
+Evasion +1 and Constitution +1
+Guard Boost and Stamina Recovery Up
+Evade Extender and Peak Performance
+Gathering +1 and Charm Chaser
+Element Attack Up and Item Use Up
+Immunity to Bleeding
+Double Bleeding.
+Using potions and drinks sometimes does not consume the item.
+Eating mushrooms gives special effects, similar to various potions.
+Fast Eating +2, Meat Lover, and Mushromancer
+Immunity to webs and tar.
+Extends the range at which you deal max shot/arrow damage.
+Load Up, Combination +20%, and Sneak
+Mind's Eye and Razor Sharp
+Inflict extra status damage when you land a critical.
+Inflict extra elemental damage when you land a critical.
+Iron Skin, Marathon Runner, and Stamina Thief
+Awaken, Element Atk Up, and Status Atk +1
+Trap Expert and Bombardier
+Knockout King and Stamina Thief
+Recovery Items Up and Divine Blessing

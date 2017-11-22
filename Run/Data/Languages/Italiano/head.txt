@@ -1,0 +1,643 @@
+﻿Copricapo di cuoio
+Copricapo ardito
+Copricapo di cotta
+Elmo cacciatore
+Cappello cacciatore
+Elmo d'osso
+Cappello d'osso
+Elmo in lega
+Cappello in lega
+Copricapo Bnahabra
+Tiara Bnahabra
+Cappuccio Slagtoth
+Bautta Slagtoth
+Elmo Rhenoplos
+Cappello Rhenoplos
+Copricapo Remobra
+Maschera Remobra
+Elmo Jaggi
+Cappello Jaggi
+Elmo Genprey
+Cappello Genprey
+Elmo Ioprey
+Cappello Ioprey
+Elmo Lagombi
+Cappello Lagombi
+Elmo Kecha Wacha
+Cappello Kecha Wacha
+Elmo Conga
+Cappello Conga
+Elmo Gypceros
+Cappello Gypceros
+Elmo Tetsucabra
+Cappello Tetsucabra
+Elmo Nerscylla
+Cappello Nerscylla
+Elmo Zamtrios
+Cappello Zamtrios
+Elmo Najarala
+Cappello Najarala
+Elmo Khezu
+Cappello Khezu
+Elmo Rathian
+Cappello Rathian
+Elmo Velociprey
+Cappello Velociprey
+Elmo Kut-Ku
+Cappello Kut-Ku
+Elmo Basarios
+Cappello Basarios
+Elmo Arzuros
+Cappello Arzuros
+Elmo Ludroth
+Cappello Ludroth
+Elmo Barroth
+Cappello Barroth
+Elmo Nibelsnarf
+Cappello Nibelsnarf
+Elmo Ceanataur
+Cappello Ceanataur
+Elmo Hi-Metal
+Cappello Hi-Metal
+Elmo da battaglia
+Capp. da battaglia
+Elmo Gore Magala
+Cappello Gore Magala
+Elmo Rathalos
+Cappello Rathalos
+Elmo Tigrex
+Cappello Tigrex
+Elmo Zinogre
+Cappello Zinogre
+Elmo Seltas
+Cappello Seltas
+Elmo Gravios
+Cappello Gravios
+Elmo Brachydios
+Cappello Brachydios
+Elmo crepuscolo
+Cappello aurora
+Elmo caparbio
+Corona epocale
+Elmo dell'arco
+Cappello dell'arco
+Elmo storge
+Cappello storge
+Elmo Garuga
+Cappello Garuga
+Corno Kirin
+Cresta Kirin
+Elmo Nargacuga
+Cappello Nargacuga
+Elmo Uragaan
+Cappello Uragaan
+Elmo Duramboros
+Cappello Duramboros
+Elmo Lavasioth
+Cappello Lavasioth
+Elmo Diablos
+Cappello Diablos
+Elmo Auroros
+Copricapo Genesis
+Corona Borealis
+Corona Glifo
+Elmo lingotto
+Cappello lingotto
+Maschera Gargwa
+Maschera Jaggi
+Sguardo di drago
+Piuma dell'amicizia
+Copricapo Bnahabra S
+Tiara Bnahabra S
+Cappuccio Slagtoth S
+Bautta Slagtoth S
+Elmo Rhenoplos S
+Cappello Rhenoplos S
+Copricapo Remobra S
+Maschera Remobra S
+Elmo Jaggi S
+Cappello Jaggi S
+Elmo Genprey S
+Cappello Genprey S
+Elmo Ioprey S
+Cappello Ioprey S
+Elmo Lagombi S
+Cappello Lagombi S
+Elmo Kecha Wacha S
+Capp. Kecha Wacha S
+Elmo Conga S
+Cappello Conga S
+Elmo Velociprey S
+Capp. Velociprey S
+Elmo Kut-Ku S
+Cappello Kut-Ku S
+Elmo Vespoid
+Cappello Vespoid
+Elmo Cephalos
+Cappello Cephalos
+Elmo Volvidon
+Cappello Volvidon
+Elmo Hermitaur
+Cappello Hermitaur
+Elmo Qurupeco
+Cappello Qurupeco
+Elmo Plesioth
+Cappello Plesioth
+Elmo di cuoio S
+Cappello di cuoio S
+Elmo ardito S
+Cappello ardito S
+Elmo di cotta S
+Cappello di cotta S
+Elmo cacciatore S
+Capp. cacciatore S
+Elmo d'osso S
+Cappello d'osso S
+Elmo in lega S
+Cappello in lega S
+Visiera Mosgharl
+Tesa Mosgharl
+Zenith Aelucanth
+Clipeo Aelucanth
+Zenith Rhopessa
+Clipeo Rhopessa
+Elmo aragosta
+Cappello aragosta
+Elmo guardiano
+Maschera guardiano
+Cappuccio aiutante
+Cappello aiutante
+Feluca bardo
+Copricapo bardo
+Berretto Gilda
+Cappello Gilda
+Elmo Conga U
+Cappello Conga U
+Elmo Gypceros S
+Cappello Gypceros S
+Elmo Tetsucabra S
+Capp. Tetsucabra S
+Elmo Nerscylla S
+Cappello Nerscylla S
+Elmo Zamtrios S
+Cappello Zamtrios S
+Elmo Najarala S
+Cappello Najarala S
+Elmo Khezu S
+Cappello Khezu S
+Elmo Rathian S
+Cappello Rathian S
+Elmo Rathalos S
+Cappello Rathalos S
+Elmo Tigrex S
+Cappello Tigrex S
+Elmo Zinogre S
+Cappello Zinogre S
+Elmo Seltas S
+Cappello Seltas S
+Elmo Gravios S
+Cappello Gravios S
+Elmo Kut-Ku U
+Cappello Kut-Ku U
+Elmo Basarios S
+Cappello Basarios S
+Elmo Garuga S
+Cappello Garuga S
+Elmo Mono S
+Cappello Mono S
+Elmo Blango
+Cappello Blango
+Elmo Gobul
+Cappello Gobul
+Elmo Barioth
+Cappello Barioth
+Viso di teschio
+Faccia di teschio
+Elmo Hi-Metal S
+Cappello Hi-Metal S
+Testa Ioprey
+Faccia Ioprey
+Testa Necrologio
+Caput Necrologio
+Testa farfalla
+Caput farfalla
+Elmo Artian S
+Cappello Artian S
+Orecchino Chakra
+Elmo Gore Magala S
+Capp. Gore Magala S
+Elmo Regios S
+Cappello Regios S
+Elmo Gypceros U
+Cappello Gypceros U
+Elmo Khezu U
+Cappello Khezu U
+Elmo cuore Rath
+Cappello cuore Rath
+Elmo anima Rath
+Cappello anima Rath
+Elmo Tigrex U
+Cappello Tigrex U
+Elmo Zinogre U
+Cappello Zinogre U
+Elmo Gravios U
+Cappello Gravios U
+Elmo Brachydios S
+Capp. Brachydios S
+Elmo Vangis
+Cappello Vangis
+Elmo Basarios U
+Cappello Basarios U
+Corno Kirin S
+Cresta Kirin S
+Elmo Lagiacrus
+Cappello Lagiacrus
+Elmo Agnaktor
+Cappello Agnaktor
+Elmo Dober
+Cappello Dober
+Cappello falco
+Copricapo falco
+Cappuccio sapienza
+Cappello sapienza
+Piuma cav. Gilda
+Maschera cav. Gilda
+Copricapo damigella
+Cappello damigella
+Capp. Yukumo cielo
+Capp. Yukumo terra
+Copricapo ranger
+Turbante arciere
+Elmo cintura nera
+Capp. cintura nera
+Copric. marinaretta
+Cappello marinaretta
+Elmo dell'arco S
+Cappello dell'arco S
+Elmo storge S
+Cappello storge S
+Copricapo d'oro
+Maschera burattinaio
+Copricapo ira divina
+Maschera psichica
+Riverbero Kushala
+Ringhio Kushala
+Corona Kaiser
+Maschera Kaiser
+Arcielmo crepuscolo
+Arcicappello aurora
+Arcielmo caparbio
+Arcicorona epocale
+Elmo ribelle
+Cappello rivolta
+Maschera Akantor
+Zanne Akantor
+Elmo sole argentato
+Capp. sole argentato
+Elmo luna dorata
+Cappello luna dorata
+Elmo vorace
+Cappello vorace
+Elmo Excello
+Cappello Excello
+Testa di drago
+Faccia di drago
+Testa Fatalis crem.
+Faccia Fatalis crem.
+Corno Kirin U
+Cresta Kirin U
+Maschera Ukanlos
+Zanne Ukanlos
+Elmo Indra
+Elmo risoluto
+Maschera Yaksha
+Maschera strage
+Corona Imperatrice
+Maschera Imperatrice
+Cappello Mizuha
+Cappello stravagante
+Elmo Helios
+Cappello Helios
+Elmo Selene
+Cappello Selene
+Elmo Escadora
+Cappello Escadora
+Elmo Rathian EX
+Cappello Rathian EX
+Elmo Rathalos EX
+Cappello Rathalos EX
+Riverbero Kushala EX
+Ringhio Kushala EX
+Corona Kaiser EX
+Maschera Kaiser EX
+Elmo Tigrex EX
+Cappello Tigrex EX
+Kabuto Yamato
+Eboshi Mutsu
+Hachigane Hyuga
+Hachigane Amagi
+Masc. Shinobi cielo
+Masc. Shinobi terra
+Occhiali arguti
+Fascia Felyne
+Occhiali del buio
+Maschera Sgt. Rana 
+Feluca Blue Star
+Cappello Blue Star
+Cappello Capitano J
+Roger Capitano J
+Cappello Leggendario J
+Roger Leggendario J
+Cappuccio Uniqlo
+Cappello Uniqlo
+Elmo delle stelle
+Capp. delle stelle
+Elmo Zodiaco
+Cappello Zodiaco
+Copricapo dell'eroe
+Cappuccio dell'eroe
+Spuntoni Infuriati
+Muggine Minacciosa
+Corno Kirin U EX
+Cresta Kirin U EX
+Elmo lingotto EX
+Cappello lingotto EX
+Elmo Artian EX
+Cappello Artian EX
+Elmo Gore Magala EX
+Capp. Gore Magala EX
+Elmo ribelle EX
+Cappello rivolta EX
+Piuma della vittoria
+Piuma del campione
+Piuma del signore
+Toque pasticciere
+Cappello pasticciere
+Copricapo Bnahabra X
+Tiara Bnahabra X
+Cappuccio Slagtoth X
+Bautta Slagtoth X
+Elmo Rhenoplos X
+Cappello Rhenoplos X
+Elmo Ioprey X
+Cappello Ioprey X
+Elmo Cephalos X
+Cappello Cephalos X
+Elmo Lagombi X
+Cappello Lagombi X
+Elmo Kecha Wacha X
+Capp. Kecha Wacha X
+Elmo Kecha Wacha Z
+Capp. Kecha Wacha Z
+Elmo Conga X
+Cappello Conga X
+Elmo Conga Z
+Cappello Conga Z
+Elmo Gypceros X
+Cappello Gypceros X
+Elmo Gypceros Z
+Cappello Gypceros Z
+Elmo Hermitaur X
+Cappello Hermitaur X
+Elmo Hermitaur Z
+Cappello Hermitaur Z
+Elmo Tetsucabra X
+Cappello Tetsucabra X
+Elmo Tetsucabra Z
+Cappello Tetsucabra Z
+Elmo Nerscylla X
+Cappello Nerscylla X
+Elmo Zamtrios X
+Cappello Zamtrios X
+Elmo Zamtrios Z
+Cappello Zamtrios Z
+Elmo Najarala X
+Cappello Najarala X
+Elmo Najarala Z
+Cappello Najarala Z
+Elmo Khezu X
+Cappello Khezu X
+Elmo Khezu Z
+Cappello Khezu Z
+Elmo Rathian X
+Cappello Rathian X
+Elmo cuore Rath Z
+Capp. cuore Rath Z
+Elmo Velociprey X
+Cappello Velociprey X
+Elmo Kut-Ku X
+Cappello Kut-Ku X
+Elmo Kut-Ku Z
+Cappello Kut-Ku Z
+Elmo Basarios X
+Cappello Basarios X
+Elmo Basarios Z
+Cappello Basarios Z
+Elmo Qurupeco X
+Cappello Qurupeco X
+Elmo Barroth X
+Cappello Barroth X
+Elmo Gobul X
+Cappello Gobul X
+Elmo Nibelsnarf X
+Capp. Nibelsnarf X
+Elmo Barioth X
+Cappello Barioth X
+Elmo Agnaktor X
+Cappello Agnaktor X
+Elmo Plesioth Z
+Cappello Plesioth Z
+Copricapo stella Kita
+Copricapo oceano Umi
+Testa Necrologio X
+Caput Necrologio X
+Testa farfalla X
+Caput farfalla X
+Zenith Aelucanth X
+Clipeo Aelucanth X
+Zenith Rhopessa X
+Clipeo Rhopessa X
+Elmo guardiano X
+Maschera guardiano X
+Cappuccio aiutante X
+Occhiali guaritrice X
+Elmo Regios X
+Cappello Regios X
+Elmo Nerscylla Z
+Cappello Nerscylla Z
+Elmo Rathalos X
+Cappello Rathalos X
+Elmo anima Rath Z
+Capp. anima Rath Z
+Elmo Tigrex X
+Cappello Tigrex X
+Elmo Tigrex Z
+Cappello Tigrex Z
+Elmo Zinogre X
+Cappello Zinogre X
+Elmo Zinogre Z
+Cappello Zinogre Z
+Elmo Seltas X
+Cappello Seltas X
+Elmo Seltas Z
+Cappello Seltas Z
+Elmo Gravios X
+Cappello Gravios X
+Elmo Gravios Z
+Cappello Gravios Z
+Elmo Diablos X
+Cappello Diablos X
+Elmo Diablos Z
+Cappello Diablos Z
+Elmo Brachydios X
+Capp. Brachydios X
+Elmo Vangis X
+Cappello Vangis X
+Elmo del caos
+Cappello del caos
+Elmo nefilim
+Cappello nefilim
+Elmo Garuga X
+Cappello Garuga X
+Elmo Mono X
+Cappello Mono X
+Elmo Monodevil
+Cappello Monodevil
+Elmo Gore Magala X
+Capp. Gore Magala X
+Elmo Nargacuga X
+Cappello Nargacuga X
+Elmo Lagiacrus X
+Cappello Lagiacrus X
+Elmo Duramboros X
+Capp. Duramboros X
+Elmo Lavasioth X
+Cappello Lavasioth X
+Elmo Artian X
+Cappello Artian X
+Cappello falco X
+Copricapo falco X
+Cappuccio sapienza X
+Cappello sapienza X
+Copricapo Grancaccia
+Maschera Grancaccia
+Copricapo sorellanza
+Maschera sorellanza
+Elmo guardiano Z
+Maschera guardiano Z
+Cappuccio aiutante Z
+Berretto guaritrice Z
+Piuma cav. Gilda X
+Maschera cav. Gilda X
+Copricapo damigella X
+Occhiali firmati X
+Fascia Felyne X
+Elmo dell'arco X
+Cappello dell'arco X
+Elmo storge X
+Cappello storge X
+Maschera divina sup.
+Maschera eremita sup.
+Masc. ira divina sup.
+Maschera psichica sup.
+Riverbero Kushala X
+Ringhio Kushala X
+Riverbero Kujula
+Ringhio Kujula
+Corona Kaiser X
+Maschera Kaiser X
+Maschera Gran Mizuha
+Cap. Stravagan. Shin
+Elmo crepuscolo sup.
+Elmo aurora superbo
+Elmo caparbio superbo
+Corona epocale sup.
+Elmo Gogma
+Cappello Gogma
+Elmo ribelle Z
+Cappello rivolta Z
+Maschera Akantor X
+Zanne Akantor X
+Maschera Ukanlos X
+Zanne Ukanlos X
+Elmo vorace Z
+Cappello vorace Z
+Elmo Excello Z
+Cappello Excello Z
+Elmo Brachydium
+Cappello Brachydium
+Testa furente
+Faccia furente
+Corno Kirin X
+Cresta Kirin X
+Corno Kirin Z
+Cresta Kirin Z
+Maschera Gran Yaksha
+Maschera mega strage
+Kabuto Y. superbo
+Jingasa Mutsu superbo
+Hachigane H. superbo
+Jingasa Amagi superbo
+Corona Imperatrice X
+Masch. Imperatrice X
+Elmo Helios X
+Cappello Helios X
+Elmo Selene X
+Cappello Selene X
+Elmo Auroros EX
+Copricapo Genesis EX
+Corona Borealis EX
+Corona Glifo EX
+Corona tempesta
+Corona celeste
+Diadema Miralis
+Corona Miralis
+Elmo Escadora EX
+Cappello Escadora EX
+Feluca notte di stelle
+Capp. notte di stelle
+Cappello Re Pirata J
+Roger Re Pirata J
+Casco del Campione
+Casco del Culturista
+Visore Termotuta
+Mirino Termotuta
+Coda Tuta Zero
+Parrucca Tuta Zero
+Fungocaos
+Maschera Velociprey
+Maschera Giaprey
+Maschera Genprey
+Maschera Mosswine
+Maschera Bullfango
+Maschera Garuga
+Falso Felyne
+Elmo ghianda
+Compagno fraterno
+Elmo luna dorata Z
+Capp. luna dorata Z
+Elmo sole argent. Z
+Capp. sole argent. Z
+Elmo ribelle X
+Cappello rivolta X
+Testa di drago X
+Faccia di drago X
+Testa Fatalis bianco
+Faccia Fatalis bian.
+Casco cacciatore GX
+Calotta cacciatore GX
+Casco vorace GX
+Calotta vorace GX
+Diadema tempesta GX
+Diadema celeste GX
+Casco Fatalis crem. GX
+Cal. Fatalis crem. GX
+Elmo rabbia
+Cappello rabbia
+Elmo Anat
+Cappello Anat
+Occhiali artigiano
+Amplipiume
+Orecch. occhiofalco
+Orecch. santo spada
+Orecch. sbarramento

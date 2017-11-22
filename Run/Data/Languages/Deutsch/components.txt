@@ -1,0 +1,1861 @@
+﻿Kombi-Buch 1
+Kombi-Buch 2
+Kombi-Buch 3
+Kombi-Buch 4
+Kombi-Buch 5
+Organisierführer
+Packführer
+Trank
+Megatrank
+Nährstoffe
+Mega-Nährstoffe
+Gegengift
+Impfstoff
+Sprintsaft
+Mega-Sprintsaft
+Dämonenmittel
+Mega-Dämonenmittel
+Machtpille
+Panzerhaut
+Mega-Panzerhaut
+Diamantpille
+Kaltgetränk
+Heißgetränk
+Reiniger
+Deodorant
+Psychoserum
+Kräutermedizin
+Maxi-Trank
+Uralter Trank
+Katalysator
+Energy-Drink
+Schießpulver
+Lebenskristalle
+Lebenspulver
+Lebensstaub
+Einweg-Ohrstöpsel
+Betäubungsmittel
+Rätselamulett
+Glänzendes Amulett
+Altes Amulett
+Beständiges Amulett
+Zerr-Amulett
+Geschnitztes Amulett
+Kraftamulett
+Kraftkralle
+Panzeramulett
+Panzerkralle
+Rohes Fleisch
+Giftfleisch
+Faules Fleisch
+Rauschfleisch
+Blutiges Steak
+Gebratenes Steak
+Verkohltes Fleisch
+Gekühltes Fleisch
+Warmes Fleisch
+Mosswine-Dörrfleisch
+Bumerang
+Wurfmesser
+Giftmesser
+Schlafmesser
+Lähmungsmesser
+Beruhigungsmesser
+Bombengehäuse
+Farbball
+Blitzbombe
+Schallbombe
+Dung
+Dungbombe
+Rauchbombe
+Giftrauchbombe
+Teleporter
+Tragbare Dampfbombe
+Beruhigungsbombe
+Spinnennetz
+Netz
+Fallengerät
+Fallgrube
+Schockfalle
+Kleines Fass
+Großes Fass
+Fassbombe S
+Fassbombe S+
+Fassbombe L
+Fassbombe L+
+Abprallbombe
+Abprallbombe+
+Felvine-Bombe
+JUMP-Bombe
+Hülsenbeere
+Knochenhülse
+Normal S Stufe 1
+Normal S Stufe 2
+Normal S Stufe 3
+PerforierSSt1
+PerforierSSt2
+PerforierSSt3
+Schrot S Stufe 1
+Schrot S Stufe 2
+Schrot S Stufe 3
+Explosiv S Stufe 1
+Explosiv S Stufe 2
+Explosiv S Stufe 3
+Streu S Stufe 1
+Streu S Stufe 2
+Streu S Stufe 3
+Flamme S
+Wasser S
+Donner S
+Frost S
+Drachen S
+Gift S Stufe 1
+Gift S Stufe 2
+Lähmung S Stufe 1
+Lähmung S Stufe 2
+Schlaf S Stufe 1
+Schlaf S Stufe 2
+Ermüdung S St. 1
+Ermüdung S St. 2
+Schnitt S
+Wyvernfeuer
+Spreng S
+Genesung S St. 1
+Genesung S St. 2
+Dämon S
+Rüstung S
+Farbe S
+Beruhigung S
+Leere Phiole
+Kraft-Phiole
+Nahkampf-Phiole
+Gift-Phiole
+Lähm-Phiole
+Schlaf-Phiole
+Ermüdung-Phiole
+Spreng-Phiole
+Farb-Phiole
+Wurm
+Megafliegenköder
+Frosch
+Sushifischköder
+Berstköder
+Goldenfischköder
+Alte Spitzhacke
+Eisenspitzhacke
+Mega-Spitzhacke
+Altes Käfernetz
+Käfernetz
+Mega-Käfernetz
+Grillspieß
+Wetzstein
+Fernglas
+Abfall
+Feldhorn
+Gesundheitshorn
+Gegengifthorn
+Dämonenhorn
+Rüstungshorn
+WysteinSt1: Stärkung
+WysteinSt2: Stärkung
+Wystein St1: Element
+Wystein St2: Element
+Wystein St1: Wucht
+Wystein St2: Wucht
+Wystein St1: Antrieb
+Wystein St2: Antrieb
+ProtoWystein:Antrieb
+GarnisonBallistnmuni
+Dichte Markohle
+Honig
+Kraut
+Gegengiftkraut
+Feuerkraut
+Efeu
+Schlafkraut
+Harzpflanze
+Felvine
+Dämmergraswurzel
+Dämmergrasknospe
+Pfefferschote
+Gefrorene Beere
+Cathangea-Samen
+Cathangea
+Cathangea-Elixier
+Blaupilz
+Nitropilz
+Lähmpilz
+Giftpilz
+Reizpilz
+Trauerpilz
+Drachengiftpilz
+Farbbeere
+Machtsamen
+Diamantsamen
+Nullbeere
+Drachentod-Beere
+Splitternuss
+Nadelbeere
+Schnallenbeere
+Bombeere
+Hummelkürbis
+Stein
+Eisenerz
+Erdkristall
+Machalit-Erz
+Drachenit-Erz
+Lichtkristall
+Eiskristall
+Feuerstein
+Gossamit-Erz
+Himmlischer Kristall
+Meteorkristall
+Karbalit-Erz
+Novakristall
+Fusium-Erz
+Eltalit-Erz
+Mischspat-Erz
+Feuerzellenstein
+Allfeuerstein
+Yoldspar-Erz
+Kosmoserz
+Reiner Kristall
+Schleifmittel
+Qualitätschleifmittl
+1A-Schleifmittel
+Ultima-Schleifmittel
+Rüststein
+Rüstkugel
+Rüstkugel+
+Erweiterte Rüstkugel
+Harte Rüstkugel
+Schwere Rüstkugel
+Echte Rüstkugel
+Starke Rüstkugel
+Göttliche Rüstkugel
+Wetzfisch
+Sushifisch
+Schlaffisch
+Nadelthunfisch
+Speerthunfisch
+Platzfisch
+Splitterfisch
+Berst-Arowana
+Bomben-Arowana
+Schlemmthunfisch
+Gourmet-Thunfisch
+Kleiner Goldenfisch
+Mattchovis
+Uralter Fisch
+Blauer Schlitzer
+Münzbeutler K
+Münzbeutler M
+Münzbeutler G
+Dundorma-Thunfisch
+Cathangeafischbaby
+Cathangeafisch
+Insektenhülse
+Stinkhüpfer
+Wurmbienenlarve
+Götterkäfer
+Bitterkäfer
+Blitzkäfer
+Donnerkäfer
+Klebschmierer
+Killerkäfer
+Herkudrome
+Fulgurkäfer
+Seltener Skarabäus
+Kaiser-Hüpfer
+Flatterling
+Große Hornfliege
+ÄltrSchmttrlingskäfr
+Schmetterlingskäfer
+GroßÄltereHornfliege
+Kraftnektar: Feuer
+KraftNktrFeuer+
+Kraft+-Nektar
+Kraft+NektarFeuer
+Kraft++-Nektar
+AusdaurNktrWasser
+AusdaurNktrDrache
+AusdrNktrDrache+
+Ausdauer+-Nektar
+Ausdau+NktrWassr
+Ausdauer++-Nektar
+GeschwNktrWassr+
+GeschwinNktrDnnr
+GeschwNktrDnnr+
+GeschwindgNktrEis
+GeschwndNktrEis+
+Geschwndgkt+Nktr
+Geschw+NktrDonnr
+Geschwndgkt++Nktr
+Nektar: Feuer+
+Nektar: Feuer++
+Nektar: Wasser+
+Nektar: Wasser++
+Nektar: Donner+
+Nektar: Donner++
+Nektar: Eis+
+Nektar: Eis++
+Nektar: Drache+
+Nektar: Drache++
+Monsterknochen S
+Monsterknochen M
+Monsterknochen L
+Rätselknochen
+Anonymer Schädel
+Monsterknochen+
+Monster-Spitzknochen
+Monster-Hartknochen
+MonsterPrügelknochen
+DrachenältestrKnochn
+GroßDrachenältstKnch
+Flug-Feinknochen
+Flug-Starkknochen
+Wilder Knochen
+Jumboknochen
+Starkknochen
+Massiver Knochen
+DrachenknochenRelikt
+DrchnknochenArtefakt
+Wyvern-Reißzahn
+Wyvern-Klaue
+Vogelwyvern-Stein
+Seltener Wyvernstein
+Wyvern-Stein
+Großer Wyvern-Stein
+Drachenältester-Blut
+GroßDrachenältStein
+Kreischsack
+Giftbeutel
+Toxinbeutel
+Tödlicher Giftbeutel
+Lähmbeutel
+Omniplegia-Beutel
+Schlafbeutel
+Komabeutel
+Flammenbeutel
+Höllenbeutel
+Loderbeutel
+Strombeutel
+Donnerbeutel
+Blitzbeutel
+Frostbeutel
+Frierbeutel
+Kryo-Beutel
+Aqua-Beutel
+Sturzflutbeutel
+Flutbeutel
+Sprint-Extrakt
+Helles Extrakt
+Gargwa-Feder
+Kelbi-Horn
+Blaues Kelbi-Horn
+Warmer Pelz
+Hochwertiger Pelz
+Feiner Pelz
+Rhenoplos-Panzer
+RhenoplosRückenpanzr
+Rhenoplos-Skalp
+Rhenoplos-Knochen
+Slagtoth-Lederhaut
+Slagtoth-Lederhaut+
+Bnahabra-Panzer
+BnahabraRückenpanzer
+Bnahabra-Flügel
+Bnahabra-Dolchflügel
+Altaroth-Kiefer
+Altaroth-Magen
+Qualitätsmagen
+Scharfer Reißzahn
+Schmetter-Reißzahn
+Superscharfe Klaue
+Konchu-Panzer
+Konchu-Rückenpanzer
+Konchu-Kortex
+Remobra-Lederhaut
+Remobra-Lederhaut+
+Zartes Remobra-Leder
+Gestreifte Haut
+Remobra-Kopf
+Jaggi-Schuppe
+Jaggi-Schuppe+
+Jaggi-Lederhaut
+Vogelwyvern-Reißzahn
+ZäheVogelwyvernLdrht
+Großjaggi-Lederhaut
+Großjaggi-Lederhaut+
+Großjaggi-Klaue
+Großjaggi-Klaue+
+Königsrüsche
+Großjaggi-Kopf
+Velociprey-Schuppe
+Velociprey-Schuppe+
+Velociprey-Lederhaut
+VelocipreyLederhaut+
+VelocidromeLederhaut
+Velocidrome-Klaue
+Velocidrome-Klaue+
+VelocidromeHartklaue
+Velocidrome-Kopf
+Genprey-Reißzahn
+Genprey-Schuppe
+Genprey-Schuppe+
+Genprey-Lederhaut
+Genprey-Lederhaut+
+Gendrome-Lederhaut
+Gendrome-Schwanz
+Gendrome-Kopf
+Ioprey-Reißzahn
+Ioprey-Schuppe
+Ioprey-Schuppe+
+Ioprey-Lederhaut
+Ioprey-Lederhaut+
+Ioprey-Balg
+Iodrome-Lederhaut
+Iodrome-Kopf
+Lagombi-Pelz
+Lagombi-Pelz+
+Lagombi-Fell
+Lagombi-Ohr
+Lagombi-Ohr+
+Lagombi-Ohrmuschel
+Lagombi-Plastron
+Lagombi-Plastron+
+Lagombi-Eisklaue
+Lagombi-Frostklaue
+Kut-Ku-Schuppe
+Kut-Ku-Schuppe+
+Kut-Ku-Scherbe
+Kut-Ku-Panzer
+Kut-Ku-Rückenpanzer
+Kut-Ku-Kortex
+Kut-Ku-Ohr
+Kut-Ku-Ohrmuschel
+Glücks-Kut-Ku-Ohr
+Riesenschnabel
+Prachtschnabel
+Kut-Ku-Gewebe
+Kut-Ku-Balgflügel
+BlauerKutKuSchuppe+
+BlauerKut-Ku-Schuppe
+BlauKutKuRückenpanzr
+Blauer-Kut-Ku-Kortex
+Gummihaut
+Gummihaut+
+Spezielle Gummihaut
+Gypceros-Kopf
+Harter Gypceros-Kopf
+Lila Gummihaut
+Lila Gummihaut+
+Lila Gypceros-Flügel
+LilaGypcerBalgflügel
+Garuga-Schuppe
+Garuga-Schuppe+
+Dicke Garuga-Schuppe
+Garuga-Panzer
+Garuga-Rückenpanzer
+Garuga-Kortex
+Garuga-Ohr
+Garuga-Ohrmuschel
+GeschliffenerSchnabl
+Verjüngter Schnabel
+Garuga-Flügel
+Garuga-Balgflügel
+Garuga-Schwanz
+Garuga-Peitsche
+Garuga-Mähne
+SilbernerGaruga-Pelz
+Kecha-Wacha-Pelz
+Kecha-Wacha-Pelz+
+Kecha-Wacha-Fell
+KechaWachaLangknochn
+KechaWachaGroßknochn
+KechaWachaHartknochn
+Kecha-Wacha-Kralle
+Kecha-Wacha-Reißer
+Kecha-Wacha-Ohr
+Kecha-Wacha-Ohr+
+KechaWachaOhrmuschel
+Kecha-Wacha-Schwanz
+Kecha-Wacha-Peitsche
+GrauerKechaWachaFell
+GrauerKechaHartknchn
+GrauerKechaWachaRßer
+GrauerKechaOhrmuschl
+GraurKechaWachaPtsch
+Conga-Pelz
+Conga-Pelz+
+Scharfe Klaue
+Congalala-Pelz
+Congalala-Pelz+
+Congalala-Fell
+Leuchtender Pelz
+Congalala-Klaue
+Congalala-Klaue+
+Congalala-Hartklaue
+Congalala-Reißzahn
+Ungeheuer-Reißzahn
+SmaragdCongalalaPlz+
+SmaragdCongalalaFell
+SmaragdCongalaRßzhn+
+SmaragdCongalaKlaue+
+SmaraCongaHartklaue
+Leuchtender Kamm
+Rajang-Horn+
+Rajang-Harthorn
+Rajang-Reißzahn+
+Rajang-Hartreißzahn
+Rajang-Schwarzpelz
+Rajang-Wildpelz
+Rajang-Klaue+
+Rajang-Hartklaue
+Rajang-Schwanz
+Rajang-Goldpelz
+Rajang-Goldpelz+
+Rajang-Wuthaar
+Rajang-Apoplexie
+Rajang-Nerv
+Rajang-Herz
+UnheimlichesGoldhorn
+UnheimGoldschlitzer
+Tetsucabra-Schuppe
+Tetsucabra-Schuppe+
+Tetsucabra-Scherbe
+Tetsucabra-Panzer
+TetsucabraRücknpanzr
+Tetsucabra-Kortex
+Tetsucabra-Klaue
+Tetsucabra-Klaue+
+Tetsucabra-Hartklaue
+Tetsucabra-Hauer
+Tetsucabra-Hauer+
+Tetsucabra-Nager
+Würdiger Schädel
+Wildes Antlitz
+BrsrkrTtscbrScherbe
+BrsrkrTestscbrKortex
+BrsrkrTtscbrHartklaue
+BrsrkrTetsucabraNagr
+Krötenöl
+Krötenöl+
+Krötencreme
+Haihautschuppe
+Fleischige Lederhaut
+FleischigeLederhaut+
+Fleischiger Balg
+Zamtrios-Lederhaut
+Zamtrios-Lederhaut+
+Zamtrios-Scherbe
+Zamtrios-Schuppe
+Zamtrios-Schuppe+
+Zamtrios-Balg
+Zamtrios-Flosse
+Zamtrios-Flosse+
+Zamtrios-Großflosse
+Zamtrios-Sägezahn
+Zamtrios-Sägezahn+
+ZamtriSchwanzschneid
+Zamtrios-Schwanzmal
+GestrZamtriosBalg
+GestrZamtriosScherbe
+GestrZamtrGroßflosse
+GestrZamtSägezahn+
+GestrZamtSchwanzmal
+Najarala-Panzer
+NajaralaRückenpanzer
+Najarala-Kortex
+Najarala-Lederhaut
+Najarala-Lederhaut+
+Najarala-Balg
+Najarala-Mark
+Najarala-Rückenmark
+Najarala-Klopfer
+Najarala-Klopfer+
+Najarala-Verstärker
+Najarala-Reißzahn
+Schreckschnabel
+Gräuelschnabel
+GestrNajaralaKortex
+GestrNajaralaBalg
+GestrNajaralaSpritzer
+Nerscylla-Panzer
+NerscyllaRückenpanzr
+Nerscylla-Kortex
+NerscyllaKieferklaue
+Nerscylla-Schere
+Nerscylla-Zangenhorn
+Nerscylla-Klaue
+Nerscylla-Klaue+
+Nerscylla-Hartklaue
+Nerscylla-Dorn
+Nerscylla-Dorn+
+NerscyllaÜberstachel
+GtrntrNerscyllaKortx
+GtrntrNrscyllZngnhrn
+GtrtrNrscyllHartklaue
+GtrntrNrscylÜbrstchl
+Monsterfluid
+Monsterbrühe
+Monsteressenz
+Seltas-Panzer
+Seltas-Rückenpanzer
+Seltas-Kortex
+Seltas-Flügel
+Seltas-Innenflügel
+Seltas-Dolchflügel
+Seltas-Horn
+Seltas-Horn+
+Seltas-Harthorn
+Wüsten-Seltas-Kortex
+WüstenSeltasDlchflgl
+WüstenSeltasHarthorn
+SeltasKönigin-Panzer
+SeltasKöniginRknpnzr
+SeltasKöniginKortex
+SeltasKönigin-Pectus
+SeltKöniginHartPectus
+SeltasKönigin-Pectus+
+Seltas-Königin-Klaue
+SeltasKönigin-Klaue+
+SltsKöniginHartklaue
+SeltasKönigin-Kiefer
+SeltasKöniginRachen
+SeltasKöniginHlbmond
+SltsKöniginMndptsch
+SeltasKöniginExtrakt
+SeltasKöniginKnzntrt
+WstnSltsKöngnKnzntrt
+WstnSltsKönignKortex
+WstnSltsKönignPects+
+WstnSltsKngnHartklau
+WstnSltsKöngnRachen
+WstnSltsKngnMndptsch
+KleinHermitaurPanzer
+Hermitaur-Kortex
+Hermitaur-Hartklaue
+Wyvernschädel-Panzer
+Schwarze Perle
+RiesigeSchwarzePerle
+PflDaimyoHermitPanzr
+PflDaimyoHermitKlaue
+Cephalos-Scherbe
+KoralCeph-Schupp
+Cephalos-Reißzahn+
+Cephalos-Hartreißzhn
+Cephalos-Großflosse
+Cephalos-Pinkflosse
+Schwabbelhaut
+Perlhaut
+Khezu-Glanzhaut
+Bleicher Knochen
+Bleiches Steak
+Khezu-Spezialstück
+Lockende Lederhaut
+Reizende Glanzhaut
+Lockendes Gewebe
+Lockender Balgflügel
+Rathian-Schuppe
+Rathian-Schuppe+
+Rathian-Scherbe
+Rathian-Panzer
+Rathian-Rückenpanzer
+Rathian-Kortex
+Rathian-Gewebe
+Rathian-Stachel
+Rathian-Stachel+
+Rathian-Überstachel
+Rathian-Platte
+Rathian-Rubin
+Rathian-Hülle
+RosaRathian-Schuppe+
+Rosa-Rathian-Scherbe
+RosaRathianRücknpnzr
+Rosa-Rathian-Kortex
+GoldnRathianSchuppe+
+GoldenRathianScherbe
+GoldRathianRücknpnzr
+GoldeneRathianKortex
+GoldenRathianStachl+
+GoldRathianÜbrstachl
+Rathalos-Schuppe
+Rathalos-Schuppe+
+Rathalos-Scherbe
+Rathalos-Panzer
+RathalosRückenpanzer
+Rathalos-Kortex
+Rathalos-Gewebe
+Rathalos-Flügel
+Rathalos-Balgflügel
+Rathalos-Schwanz
+Rathalos-Peitsche
+Rathalos-Platte
+Rathalos-Rubin
+Rathalos-Hülle
+AzurRathalosSchuppe+
+AzrnRathalosScherbe
+AzurRathalosRückpnzr
+AzurnRathalosKortex
+AzurnRathalosSchwanz
+AzurRathalosPeitsche
+AzurnerRathalosFlügl
+SilbRathalosSchuppe+
+SilbRathalosScherbe
+SilbRthlosRücknPanzr
+SilberRathalosKortex
+SilbRathalosSchwanz
+SilbRathalosPeitsche
+Rath-Flügelkralle
+RathalosFlüglkralle+
+Rath-Mark
+Rath-Rückenmark
+Rath-Glimm
+Feuerglanzklecks
+MonoblosRückenpanzer
+Monoblos-Kortex
+Monoblos-Thorax
+Monoblos-Rückenkamm
+Puterrotes Feinhorn
+Puterrotes Starkhorn
+Monoblos-Herz
+WeißerMonoblosKortex
+WeißrMonoblosRcknkmm
+Silbernes Starkhorn
+Diablos-Kortex
+Diablos-Rückenkamm
+Diablos-Hartschwanz
+Gedrehtes Starkhorn
+Diablos-Harthorn
+Blos-Rückenmark
+SchwarzDiablosKortex
+SchwarzDiablRückkamm
+SchwarzdrehStarkhorn
+Zinogre-Panzer
+Zinogre-Rückenpanzer
+Zinogre-Kortex
+Zinogre-Schockfell
+Zinogre-Elektrofell
+Zinogre-Elektrofell+
+Zinogre-Horn
+Zinogre-Horn+
+Zinogre-Harthorn
+Zinogre-Klaue
+Zinogre-Klaue+
+Zinogre-Hartklaue
+Zinogre-Schwanz
+Zinogre-Peitsche
+Zinogre-Schocker
+Zinogre-Schocker+
+ZinogreTodesschocker
+Zinogre-Platte
+Zinogre-Jaspis
+Zinogre-Himmelsjuwel
+HöllZinogreRücknpnzr
+HöllenZinogre-Kortex
+Höllen-Zinogre-Horn+
+HöllnZinogreHarthorn
+HöllenZinogre-Klaue+
+HöllnZinogreHrtklaue
+HöllenZinogreSchwanz
+HöllnZinogrePeitsche
+HöllZinogreDrchnpnzr
+HöllZinogreDrchnhlle
+Dracophag-Käfer
+HöllZinogreDrchnhaar
+HöllZinogreDrchnlckn
+HöllZinoSchattnstein
+HöllnZinogreHmmlsjuw
+Brachydios-Panzer
+BrachydiosRückenpnzr
+Brachydios-Kortex
+BrachydiosSchwrzpnzr
+BrachydiosSchwrzpnz+
+FeinBrachySchwrzpnzr
+Brachydios-Skalp
+Brachydios-Skalp+
+Brachydios-Krone
+Rätselschleim
+Glanzschleim
+Brachydios-Hammer
+Brachydios-Stampfer
+Brachydios-Stampfer+
+Brachydios-Schwanz
+Brachydios-Peitsche
+Brachydios-Mark
+Brachydios-Edelstein
+Brachydios-Pallium
+BrachydiosSprengkopf
+Flammpunkt-Schleim
+BrachydiosAuslöscher
+UnsterblicherReaktor
+Basarios-Panzer
+BasariosRückenpanzer
+Basarios-Kortex
+Basarios-Flügel
+Basarios-Balgflügel
+Basarios-Tränen
+RubinBasarios-Flügel
+RubnBasriosBalgflügel
+RubinBasariosRcknpnz
+RubinBasariosKortex
+Gravios-Panzer
+Gravios-Rückenpanzer
+Gravios-Kortex
+GraviosSchädelpanzer
+Gravios-Krone
+Gravios-Hirnstamm
+Gravios-Flügel
+Gravios-Balgflügel
+Gravios-Pallium
+SchwaGraviosRcknpnzr
+SchwarzGraviosKortex
+SchwarzGraviosSchädl
+SchwarzGraviosKrone
+SchwrzGraviosPallium
+Tigrex-Schuppe
+Tigrex-Schuppe+
+Tigrex-Scherbe
+Tigrex-Panzer
+Tigrex-Rückenpanzer
+Tigrex-Kortex
+Tigrex-Schwanz
+Tigrex-Peitsche
+Tigrex-Klaue
+Tigrex-Klaue+
+Tigrex-Hartklaue
+Tigrex-Reißzahn
+Tigrex-Reißzahn+
+Tigrex-Hartreißzahn
+Tigrex-Schädelpanzer
+Tigrex-Rachen
+Tigrex-Hülle
+BrachialTigrexSchpp+
+BrachialTgrxScherbe
+BrachiTigrexRcknpnzr
+BrachialTigrexKortex
+BrachialTigrexKlaue+
+BrachTigrexHartklaue
+BrachialTigrexRßzhn+
+BrachiTgrxHartreißzn
+MagmaTigrex-Schuppe+
+Magma-Tigrex-Scherbe
+MagmaTigrexRücknpnzr
+Magma-Tigrex-Kortex
+MagmaTigrexSchlitzer
+MagmaTigrexAuslöser
+MagmaTgrex-Reißzahn+
+MagmTgrxHartreißzhn
+Magma-Tigrex-Schwanz
+MagmaTigrexPeitsche
+Pulsierendes Herz
+Schreckliches Herz
+Gore-Magala-Schuppe
+Gore-Magala-Schuppe+
+Gore-Magala-Scherbe
+Gore-Magala-Panzer
+GoreMagalaRückenpnzr
+Gore-Magala-Kortex
+Gore-Magala-Flügel
+Gore-Magala-Flügel+
+Gore-Magala-Finsternis
+Gore-Magala-Kralle
+Gore-Magala-Reißer
+GoreMagala-Schredder
+Gore-Magala-Schwanz
+Gore-Magala-Peitsche
+Gore-Magala-Platte
+Gore-Magala-Nyxstein
+Gore-Magala-Hülle
+Gore-Magala-Fühler
+Gore-Magala-Fühler+
+Gore-Magala-Sensor
+Entweihte Schuppe
+Chaos-Schuppe
+Diametrales Horn
+Antinomischer Flügel
+Gegensatzschuppe
+ShagaruMagalaSchuppe
+ShagaruMagalaSchupp+
+ShagaruMagalaScherbe
+ShagaruMagala-Panzer
+ShagaruMagalaRcknpnz
+ShagaruMagalaKortex
+ShagMagPrismaflügel
+ShagMagPrismaflügel+
+ShgruMgalaLeichtflgl
+ShagaruMagala-Kralle
+ShagaruMagalaUmarmng
+ShagaruMagalaReinigr
+ShagaruMagalaSchwanz
+ShagaruMagalaPtsche
+ShagaruMagala-Platte
+ShagaruMagaPhosstein
+Shagaru-Magala-Hülle
+Shagaru-Magala-Horn
+Shagaru-Magala-Horn+
+ShagaruMagalaHarthrn
+Reine Schuppe
+SeregiosSklavnschppe
+SeregiosSklavnschpp+
+Seregios-Luftklinge
+Seregios-Luftklinge+
+Seregios-Zerleger
+Seregios-Zerleger+
+SeregiosDurchbrecher
+SeregiosDurchbrechr+
+Seregios-Kratzer
+Seregios-Kratzer+
+Seregios-Pfähler
+Seregios-Pfähler+
+Seregios-Querulant
+Seregios-Linse
+Dämonjho-Schuppe
+Dämonjho-Scherbe
+Dämonjho-Lederhaut
+Dämonjho-Schwarzbalg
+Dämonjho-Reißzahn
+Dämonjho-Hartreißzhn
+Dämonjho-Kralle
+Dämonjho-Reißer
+Dämonjho-Skalp
+Dämonjho-Schwanz
+Dämonjho-Flegel
+Dämonjho-Spucke
+Schwarzes Blut
+Böser Reißzahn
+Befleckte Lederhaut
+BlutigesSchwarzleder
+Dämonjho-Edelstein
+Dämonjho-Haken
+Kirin-Horn
+Kirin-Lederhaut
+Kirin-Lederhaut+
+Zartes Kirin-Leder
+Kirin-Mähne
+Platinum-Mähne
+Kirin-Donnerschwanz
+Kirin-Donnerpeitsche
+Azurnes Kirin-Horn
+Azurne Kirin-Spitze
+Kirin-Eishorn
+Kirin-Eisspitze
+Kirin-Frostschwanz
+Kirin-Frostpeitsche
+Daora-Drachenschuppe
+Daora-Scherbe
+Daora-Rückenpanzer
+Daora-Kortex
+Scharfe Daora-Klaue
+Daora-Hartklaue
+Daora-Schwanz
+Daora-Peitsche
+Daora-Gewebe
+Daora-Balgflügel
+Daora-Horn+
+Daroa-Harthorn
+Daora-Edelstein
+Stahlrost-Schuppe
+StahlrostDrachenpnzr
+Stahlrost-Klaue
+Mahlstürmer-Flügel
+Silberspitze-Korona
+Teostra-Rückenpanzer
+Teostra-Kortex
+Teostra-Mähne
+Teostra-Schwanz
+Teostra-Peitsche
+Teostra-Horn+
+Teostra-Harthorn
+Flammen-Schuppe
+Flammen-Scherbe
+Teostra-Klaue+
+Teostra-Hartklaue
+Teostra-Gewebe
+Teostra-Pulver
+Teostra-Edelstein
+ZartesChameleosLeder
+Chameleos-Balgflügel
+Chameleos-Harthorn
+Chameleos-Peitsche
+Dah'renMohran-Panzer
+Dah'renMohranRcknpnz
+Dah'renMohranSteinht
+DahrnMohrnBlutschupp
+DahrnMohrnBlutschpp+
+SchweDhrnMhrnBltschp
+Dah'renMohranSchiene
+Dah'renMohranSchine+
+Dah'renMohranVllschn
+Brutales Horn
+Brutales Horn+
+Brutaler Beißer
+Dah'ren-Stein
+Erddrachenstein
+Erddrachensaphir
+Akantor-Schuppe+
+Akantor-Scherbe
+Akantor-Rückenpanzer
+Akantor-Kortex
+Akantor-Schwanz
+Akantor-Flegel
+Akantor-Hartklaue
+AkantorSchreddkralle
+Akantor-Reißzahn
+Akantor-Großreißzahn
+Akantor-Stachel
+Akantor-Dickstachel
+Akantor-Edelstein
+Eroberungskugel
+Ukanlos-Kortex
+Ukanlos-Unterschuppe
+UkanlosUnterschuppe+
+Ukanlos-Grabklaue
+Ukanlos-Grabklaue+
+Ukanlos-Flosse+
+Ukanlos-Starkflosse
+Ukanlos-Schwanz
+Ukanlos-Flegel
+UkanlosSchauflkiefr+
+Ukanlos-Stein
+Fatalis-Horn
+Fatalis-Harthorn
+Fatalis-Schuppe
+Fatalis-Scherbe
+Fatalis-Panzer
+Fatalis-Kortex
+Fatalis-Auge
+Fatalis-Bösauge
+Fatalis-Gewebe
+Fatalis-Balgflügel
+Fatalis-Bluthorn
+Fatalis-Blutschuppe
+Fatalis-Blutpanzer
+Fatalis-Teufelsauge
+Fatalis-Blutflügel
+Fatalis-Flammenhorn
+FatalisFlammnschuppe
+FatalisFlammenpanzer
+Fatalis-Teufelsauge+
+FatalisFlammenflügel
+AlterFatalisHarthorn
+AlterFatalis-Scherbe
+Alter-Fatalis-Kortex
+AltFatalisSeelnauge
+AltFatalisBalgflügel
+Dalamadur-Stahl
+Dalamadur-Stahl+
+DalamadSchwanzschupp
+DalamadurSchwfschpp+
+Dalamadur-Gaffer
+Dalamadur-Pectus
+Dalamadur-Pectus+
+Dalamadur-Glefe
+Dalamadur-Glefe+
+Dalamadur-Kralle
+Dalamadur-Reißer
+DalamadurSchwanzpnzr
+DalamadurSchwfpnzr+
+Dalamadur-Klinge
+Dalamadur-Klinge+
+Vortex-Knochen
+Himmelsklingenstein
+HimmelsklDrchnsaphir
+Geborstenes Omen
+ShahDalamadur-Stahl+
+ShahDalamSchwfschpp+
+ShahDalamadur-Glefe+
+ShahDalamadur-Gaffer
+ShahDalamadurPectus+
+ShahDalamadur-Reißer
+ShahDalmdrSchwpnzr+
+ShahDalamdurKlinge+
+Gogmazios-Zinne
+Gogmazios-Festung
+Gogmazios-Spalter
+Gogmazios-Angreifer
+GogmaziosFaserflügel
+GogmaziosDornenschw
+Kriegsdrachensaphir
+SchwerDrachenknchnöl
+Raserei-Scherbe
+Raserei-Kristall
+BöserRasereiKristall
+ReinrRasereiKristall
+Zenit-Wyvernstein
+Zenit-Wyvernstein L
+Kleiner Hummerpanzer
+Hummerschwanzfächer
+Plesioth-Schuppe
+Plesioth-Flosse
+GrünerPlesiothSchrbe
+SchönGrünPlesioFlsse
+Arzuros-Panzer
+Arzuros-Pelz
+Königs-Ludroth-Klaue
+Schwammige Lederhaut
+Lebhafte Feder
+Seltsamer Schnabel
+Barroth-Panzer
+Barroth-Skalp
+Nibelsnarf-Lederhaut
+Lebensfluid
+Ceanataur-Panzer
+Ceanataur-Zange
+Uragaan-Mark
+Uragaan-Schild
+NargacugaSchwarzfell
+Nargacuga-Mark
+NargacugaSchnittflgl
+DuramborosMoosplatte
+Duramboros-Horn
+Lavasioth-Schuppe
+Lavasioth-Flosse
+Diablos-Panzer
+Erhabenes Horn
+Lao-Shan-Panzer
+Lao-Shan-Klaue
+Lao-Shan-Horn
+Vespoid-Innenflügel
+Cephalos-Flosse+
+Cephalos-Schuppe+
+HermitaurRückenpanzr
+Hermitaur-Klaue+
+Gobul-Lederhaut+
+Gobul-Stachel+
+VolvidonRückenpanzer
+Bernsteinhauer+
+Barioth-Pelz+
+Blangonga-Pelz+
+Blangonga-Bart
+Blangonga-Reißzahn+
+Panzerschocker+
+Lagiacrus-Saphir
+AgnaktorRückenpanzer
+Agnaktor-Flosse+
+LunastraRückenpanzer
+Lunastra-Mähne
+Chameleos-Lederhaut+
+Chameleos-Edelstein
+Chameleos-Schwanz
+Yama-Tsukami-Fluid
+Drachenholz+
+Drachenmoos+
+UkanlosSchaufelkiefr
+Ukanlos-Rückenpanzer
+Ukanlos-Edelstein
+Gaoren-Zange
+Gaoren-Thorax
+Gaoren-Klaue+
+Ceadeus-Lederhaut
+Schiefes Horn
+Leuchtorgan
+Alatreon-Platte
+Alatreon-Gewebe
+Himmelsdorn
+SandBarioScharfklaue
+Jade-Barroth-Thorax
+Qurupeco-Scherbe
+Glänzende Feder
+KarmQurupeBalgflügel
+Gobul-Balg
+Gobul-Überstachel
+Vespoid-Dolchflügel
+Arzuros-Kortex
+Nibelsnarf-Kortex
+Sprudelfluid
+Ceanataur-Erdklaue
+SchwerBernsteinhauer
+Barioth-Fell
+Barroth-Kortex
+Barroth-Krone
+SandBariothHartklaue
+Volvidon-Kortex
+Agnaktor-Kortex
+SchöneAgnaktorFlosse
+Jade-Barroth-Kortex
+Duramboros-Kortex
+Duramboros-Harthorn
+Durambolit
+Uragaan-Kortex
+Uragaan-Pallium
+NargacugaSchwarzfell+
+NargacugaSchnittfgl+
+Nargacuga-Hülle
+Lagiacrus-Scherbe
+Todes-Schocker
+Lagiacrus-Hülle
+ElfnbnLagiaTodSchckr
+ElfenbnLagiaHarthorn
+Lavasioth-Scherbe
+FeineLavasiothFlosse
+StahlUragaan-Schild+
+Ceadeus-Schuppe
+Ceadeus-Starkfell
+Tiefdrachenstein
+Yama-Tsukami-Filet
+Uraltes Drachenmoos
+Uraltes Drachenholz
+Mohran-Steinhaut
+Mohran-Vollschiene
+Göttlicher Reißzahn
+Lunastra-Kortex
+Lunastra-Schwanz
+Azurne LaoShan-Klaue
+MondliNargaRasirmssr
+Trübe Mondscherbe
+Amatsu-Rückenpanzer
+Amatsu-Gewebe
+HimmlDrachenstein
+Alatreon-Hülle
+Alatreon-Reißer
+AzurDrachengottstein
+TiefseeLagiaTdSchckr
+TiefseeLagiacrDynamo
+Lao-Shan-Kortex
+Lao-Shan-Scherbe
+Himml.LaoShanSchuppe
+Miralis-Schuppe
+Miralis-Schmelzer
+Schrecknsdrachnstein
+Rostscherbe
+Uralte Scherbe
+Rostiges Fragment
+Uraltes Fragment
+Zerr-Fragment
+Abgenutzte Waffe
+Abgenutzte Rüstung
+Bewährte Waffe
+Bewährte Rüstung
+Ehrwürdige Waffe
+Ehrwürdige Rüstung
+Streiterwaffe
+Streiterrüstung
+Gefesselte Waffe
+Gefesselte Rüstung
+Karte
+Erste-Hilfe-Arznei
+Erste-Hilfe-Arznei+
+Ration
+Tragbarer Spieß
+Mini-Wetzstein
+Simple Schockfalle
+Simple Blitzbombe
+Simple Schallbombe
+Simpler Teleporter
+Simpler Maxi-Trank
+Simples Lebenspulver
+Simpler Lebensstaub
+Simple Fallgrube
+Simple Fassbombe L
+Ballistenmunition
+Ballistenbinder
+Ein-Schuss-Binder
+Kanonenmunition
+Antidrachenbombe
+DichteMarkohleProto
+Simple Markohle
+Fackel
+Tatzenpass
+Einmaliger Pilz
+Erlesener Pilz
+Reifer Pilz
+Goldenfisch
+Silberfisch
+Lebender Bombenfisch
+Marlin
+Makrele
+Teleskopauge
+Königlicher Kabuto
+Göttlicher Kaputo
+Riesen-Hirschkäfer
+Königslibelle
+Kohlweißling
+Floh
+Schwefelkristall
+Auristein-Brocken
+Kristallknochen
+Blutstein
+Kohle
+Versteinerter Knochen
+Nebelzweig
+Tropische Beere
+Verrottende Schuppe
+Kleiner Splitter
+Glückssplitter
+Wundersplitter
+Poogie-Perle
+Weiße Leber
+Slagtoth-Öl
+Geheimbeutel
+Runde Eichel
+Schöner Magen
+Leuchtmagen
+Monsterinnereien
+Pisces-Leber
+Pepe-Zunge
+Carapaceon-Hirn
+Carapaceon-Hirn+
+Ferndrachen-Auge
+Gargwa-Ei
+Gargwa-Goldei
+Wyvern-Ei
+Pflanzenfresser-Ei
+Rußsteinerz
+Pulverstein
+Meteoriten-Brocken
+Gargwa-Guano
+Territorial-Dung
+Territorial-Dung+
+Drohnen-Substanz
+Königin-Substanz
+Krötenträne
+Große Krötenträne
+Wyvern-Träne
+Große Wyvern-Träne
+Bestienträne
+Große Bestienträne
+Krabbenperle
+Krabbenperle+
+Drachenschatz
+UralterDrachenschatz
+Spitzenmünze
+Jägerkönig-Münze
+Jägerass-Münze
+SchwarzgürtelMünze G
+Expertenmünze G
+Legendenmünze G
+Bestienmünze
+Flugwyvernmünze
+Flugwyvernmünze G
+Vogelmünze
+Reißzahnmünze
+Kampfwyvernmünze
+Kampfwyvernmünze G
+Ungeziefermünze
+Ungeziefermünze G
+Krötenmünze
+Krötenmünze G
+Schlangenmünze G
+Daimyo-Münze
+Gutschein
+Gourmet-Gutschein
+Studiopass
+Treasure J Ticket
+Chopper Wanted Poster
+Sgt. Frog Star
+Magazine Ticket
+Armament Invitation
+Famitsu Ticket
+Great Mystic Fang
+Fanclub-Einladung
+Monqlo-Schein
+Gold-Studiopass
+Platinpass
+Pirate J Ticket
+Andenken-Amulett
+Legend J Pirate Hat
+Usopp Wanted Poster
+Interpol-Abzeichen
+Val-Habar-Schein
+Black Heaven Stardust
+Melodie der Göttin
+World Champion Title
+Chivalrous Spirit
+Uniqlo-Schein
+Emblem Ticket
+Sunday Ticket
+Ezono Ticket
+Andenken-Fußring
+Dengeki Ticket
+Dengeki G Ticket
+Cub Special Edition
+Fanclub-Zertifikat
+Triforce
+Göttinnenfeuer
+Superpilz
+Jägerschein
+Dämonjho-Schein
+Amatsu-Schein
+KarmesinFatalsSchein
+Wunderbarer Schein
+Spezial-Schein
+Conviction Ticket J
+Rebellion Ticket J
+Famitsu Coupon
+Balbadd Sword
+Uhrwerk-Blaupause
+Dengeki Coupon
+Fanclub-Newsletter
+Fanclub-Anfeuerung
+E-Tank
+BestesFleischSchein
+Gefälschter Katalog
+Rekrutierungsposter
+Heldensiegel
+Design-Muster
+Waffendaten
+Verteidigungsmodul
+Das Poogie-Märchen
+Anmut der Göttin
+Goldener Ring
+FestivalTrommelmusik
+Sinner Sketch
+Dah'renMohran-Schein
+Dalamadur-Schein
+Rajang-Schein
+Gore-Magala-Schein
+ViperundKröteSchein
+Oroshi-Kirin-Schein
+Empfehlung
+Belobigung G
+Lob
+Lob G
+Eroberersiegel
+Eroberersiegel G
+Karawanen-Schein
+Karawanen-Schein G
+Ass-Schein
+Kameradenschein
+Miaunster-Schein
+Quester-Schein
+Argosy-Schein
+Yukumo-Schein
+Felcote-Schein
+Shakalaka-Schein
+Ausbilder-Schein
+GildnAngestllrSchein
+Jumbo-Schein
+Kushala-Daora-Schein
+Teostra-Schein
+Tatzenabdruckmarke
+GÄ-Schein
+GÄ-Luxusschein
+GÄ-Bronzeschein
+GÄ-Silberschein
+GÄ-Goldschein
+GÄ-Kosmoschein
+Bronze-Gildenschein
+Silber-Gildenschein
+Gold-Gildenschein
+Winzhäuptling-Schein
+Winzhäuptling-ScheinS
+Stahlei
+Silberei
+Goldei
+Glatthacke
+Einfacher Rest
+Einfacher Rest+
+Schöner Rest
+Schöner Rest+
+Gargwa-Rest
+Gargwa-Rest+
+Arzuros-Rest
+Arzuros-Rest+
+Kecha-Wacha-Rest
+Kecha-Wacha-Rest+
+Yuan-Kut-Ku-Rest
+Yian-Kut-Ku-Rest+
+Bnahabra-Rest
+Bnahabra-Rest+
+Konchu-Rest+
+Bulldrome-Rest
+Bulldrome-Rest+
+Rhenoplos-Rest
+Rhenoplos-Rest+
+Großjaggi-Rest
+Großjaggi-Rest+
+Yian-Garuga-Rest+
+Cephalos-Rest+
+Nerscylla-Rest
+Nerscylla-Rest+
+Qurupeco-Rest
+Qurupeco-Rest+
+Zamtrios-Rest
+Zamtrios-Rest+
+Lagombi-Rest
+Lagombi-Rest+
+Tetsucabra-Rest
+Tetsucabra-Rest+
+Barroth-Rest
+Barroth-Rest+
+Slagtoth-Rest
+Slagtoth-Rest+
+Volvidon-Rest
+Volvidon-Rest+
+Gypceros-Rest+
+Congalala-Rest+
+Tigrex-Rest
+Tigrex-Rest+
+Großbaggi-Rest
+Großbaggi-Rest+
+Nibelsnarf-Rest
+Nibelsnarf-Rest+
+Seltas-Königin-Rest
+Seltas-Königin-Rest+
+Uragaan-Rest
+Uragaan-Rest+
+Großwroggi-Rest
+Großwroggi-Rest+
+Basarios-Rest+
+Gravios-Rest+
+Diablos-Rest
+Diablos-Rest+
+Monoblos-Rest+
+Hermitaur-Rest+
+Rathian-Rest
+Rathian-Rest+
+Khezu-Rest
+Khezu-Rest+
+Duramboros-Rest
+Duramboros-Rest+
+Zinogre-Rest
+Zinogre-Rest+
+Nargacuga-Rest
+Nargacuga-Rest+
+Rathalos-Rest
+Rathalos-Rest+
+Agnaktor-Rest
+Agnaktor-Rest+
+Najarala-Rest
+Najarala-Rest+
+Seregios-Rest+
+Gore-Magala-Rest
+Gore-Magala-Rest+
+Shagaru-Magala-Rest
+Shagaru-Magala-Rest+
+Teostra-Rest
+Teostra-Rest+
+Dämonjho-Rest
+Dämonjho-Rest+
+Akantor-Rest
+Akantor-Rest+
+Alatreon-Rest
+Alatreon-Rest+
+Kushala-Daora-Rest
+Kushala-Daora-Rest+
+Chameleos-Rest+
+Ukanlos-Rest
+Ukanlos-Rest+
+Kirin-Rest
+Kirin-Rest+
+Gigginox-Rest
+Gigginox-Rest+
+Rajang-Rest
+Rajang-Rest+
+Brachydios-Rest
+Brachydios-Rest+
+Barioth-Rest
+Barioth-Rest+
+Amatsu-Rest
+Amatsu-Rest+
+Dah'ren-Mohran-Rest
+Dah'ren-Mohran-Rest+
+Jhen-Mohran-Rest
+Jhen-Mohran-Rest+
+Dalamadur-Rest
+Dalamadur-Rest+
+Gogmazios-Rest+
+Königs-Ludroth-Rest
+Königs-Ludroth-Rest+
+Plesioth-Rest
+Plesioth-Rest+
+Lagiacrus-Rest
+Lagiacrus-Rest+
+Wasserglanz-Juwel
+Sonnenspitze-Juwel
+Blutlauf-Juwel
+Lasurit-Juwel
+Diamantkugel
+Souveränitätskugel
+GegengiftJwl1
+GegengiftJwl2
+Lähm-Juwel 1
+Lähm-Juwel 2
+Pepp-Juwel 1
+Pepp-Juwel 2
+FelsenfestJwl1
+StandfestJwl1
+AufspürJuwel1
+TrekkerJwl1
+Reinigung-Juwel 1
+Rodeo-Juwel 1
+Stillung-Juwel 1
+Vernunft-Juwel 1
+Vernunft-Juwel 3
+Ninja-Juwel 1
+LebenskraftJwl1
+ErholungJuwel1
+ErholungJuwel2
+Klingen-Juwel 1
+Klingen-Juwel 3
+HandwerkJuwel2
+HandwerkJuwel3
+HandwerkerJwl3
+Fecht-Juwel 1
+Fecht-Juwel 3
+ExpertenJuwel1
+ExpertenJuwel2
+ExpertenJuwel3
+Schleif-Juwel 1
+EisenmauerJwl1
+EisenmauerJwl2
+Schild-Juwel 1
+Schild-Juwel 2
+NachladeJuwel1
+NachladeJuwel2
+AbsorberJuwel1
+AbsorberJuwel3
+Präzises Juwel 1
+Präzises Juwel 2
+StarkschusJwl1
+StarkschusJwl3
+PerforierenJwl1
+PerforierenJwl3
+Schrot-Juwel 1
+Schrot-Juwel 3
+BonuschusJwl1
+BonuschusJwl2
+PerfBonusJwl1
+SchrotBnsJwl1
+ExplosBnsJwl1
+StreuBonusJwl1
+AbschaltJuwel1
+AbschaltJuwel2
+Element-Juwel 1
+Element-Juwel 3
+BombardierJwl1
+HungerfreiJwl1
+StoffwechslJwl1
+Angriff-Juwel 1
+Angriff-Juwel 2
+Angriff-Juwel 3
+VerteidigngJwl1
+VerteidigngJwl2
+Verteidigung-Jwl3
+Schutz-Juwel 1
+ZufluchtJuwel1
+OhrstöpselJwl1
+OhrstöpselJwl3
+Alarm-Juwel 1
+FreundschftJwl1
+FreundschftJwl2
+RucksackJwl1
+FeuerabwrJwl1
+WasserabwJwl1
+EisabwehrJwl1
+DonnerabwJwl1
+DrachenabwJwl1
+HitzeabwehrJwl1
+KälteabwehrJwl1
+WindabwehrJwl1
+WindabwehrJwl2
+Sammel-Juwel 1
+SammelspaßJwl1
+Segen-Juwel 1
+SchicksalJuwel1
+SchicksalJuwel3
+Vision-Juwel 1
+Medizin-Juwel 1
+Medizin-Juwel 2
+ProfessorJwl1
+FertigungJuwel1
+AusweichJuwel1
+AusweichJuwel2
+PotenzialJwl1
+PotenzialJwl2
+Dauer-Juwel 1
+SprinterJuwel1
+SprinterJuwel3
+KapazitätJuwel2
+KapazitätJuwel3
+BeladenesJuwel3
+HcknschützJwl1
+VerschlingJwl1
+VerschlingJwl3
+Pilzform-Juwel 1
+Gesättigtes Jwl1
+SchneideJuwel1
+SchneideJuwel3
+FundamentJwl1
+TektonikJuwel1
+Sprung-Juwel 1
+Sprung-Juwel 2
+Hieb-Juwel 1
+Hieb-Juwel 2
+FallenmstrJwl1
+Figur-Juwel 1
+Figur-Juwel 2
+Fang-Juwel 1
+Fang-Juwel 3
+WahrnehmJwl1
+SchnellladJwl1
+SchnellladJwl3
+Gambit-Juwel 1
+Gambit-Juwel 3
+WiderstandJwl1
+BefreiungJwl2
+AuslöserJuwel3
+WhrsKatalysJwl 3
+Krit.ElementJwl1
+Krit.ElementJwl2
+Krit.Status-Jwl1
+Krit.Status-Jwl2
+Kraft-Juwel 1
+Kraft-Juwel 2
+Salven-Juwel 1
+Salven-Juwel 3
+Fackel-Juwel 1
+AbwhrsperJwl1
+Lohe-Juwel 1
+Lohe-Juwel 2
+Fluss-Juwel 1
+Fluss-Juwel 2
+Blitz-Juwel 1
+Blitz-Juwel 2
+Frost-Juwel 1
+Frost-Juwel 2
+DrachenJuwel1
+DrachenJuwel2
+Klopfer-Juwel 1
+Klopfer-Juwel 3
+ZerstörerJwl1
+ZerstörerJwl3
+Vollgas-Juwel 1
+Vollgas-Juwel 2
+KnockOutJuwel1
+Entzug-Juwel 1
+Entzug-Juwel 2
+Klang-Juwel 1
+ArtillerieJwl1
+WiderstandJwl3
+0-Feuer-Jwl1
+0-WasserJwl1
+0-DonnerJwl1
+0-Eis-Juwel 1
+0-DrachenJwl1
+WegsteckJwl1
+WegsteckJwl2
+ErfrischngJwl1
+ErfrischngJwl2
+Ranger-Juwel 1
+SchnittbonJwl1
+LähmbeschJwl1
+LähmbeschJwl2
+SchlafbeschJwl1
+GiftbeschJwl1
+KraftbeschJwl1
+KraftbeschJwl2
+NhkmpfbschJwl1
+EntzugbschJwl1
+Mut-Juwel 1
+Mut-Juwel 2
+FleischfresJwl1
+FleischfanJwl1
+Bienen-Juwel 1
+BienenkönJwl1
+BiologieJwl1
+MikrobioJwl1
+Elan-Juwel 1
+Elan-Juwel 2
+MakellosJwl1
+MakellosJwl2
+Stabil-Juwel 1
+Stabil-Juwel 3
+Spieler-Juwel 1
+Moral-Juwel 1
+AnführerJwl1
+AnführerJwl2
+KnockOutJuwel2
+AmulettfindJwl1
+SprengbonJwl1
+SprengbschJwl1
+Feinschlffjwl1
+Feinschlffjwl2
+Feinschlffjwl3
+WhrsFeinschlJwl 2
+WhrsFnschlfjwl3
+UltimFeinschlJwl3
+Schnitt-Juwel 1
+Schnitt-Juwel 2
+Schnitt-Juwel 3
+WahresSchnittJwl3
+RuhigesJuwel1
+RuhigesJuwel2
+RuhigesJuwel3
+WahresRuhigesJwl2
+WhrsRhgsJwl3
+UltimRuhigesJwl3
+GesundesJwl1
+GesundesJwl2
+GesundesJwl3
+WahresGesundJwl2
+WhrsGsndsJwl3
+UltimGesundesJwl3
+Zornjuwel 1
+Zornjuwel 2
+Zornjuwel 3
+Wahres Zornjuwel2
+WahresZornjwl3
+UltimZornjuwel 3
+Ausweichjuwel1
+WhrsGwndheitjwl1
+Gewandheitjuwel2
+Gewandheitjuwel3
+WhrsGwndheitjwl3
+Zähes Juwel 1
+WhrsZähesJwl1
+Zähes Juwel 2
+Zähes Juwel 3
+WhrsZähesJwl3
+Verstohlenes Jwl1
+Verstohlenes Jwl2
+Verstohlenes Jwl3
+WhrsVerstohleJwl3
+RückzugJuwel1
+Rückzug-Juwel 2
+RückzugJuwel3
+WahresRückzugJwl3
+Arkanes Juwel 1
+Arkanes Juwel 2
+Arkanes Juwel 3
+WahresArkanesJwl3
+Muskel-Juwel 1
+Muskel-Juwel 2
+Muskel-Juwel 3
+Whrs Muskel-Jwl3
+EinschlagJwl1
+Einschlag-Juwel 2
+EinschlagJwl3
+WhrsEinschlagJwl3
+IntensivesJwl2
+IntensivesJwl3
+WhrsIntensivJwl2
+WhrsIntensivJwl3
+Aegis-Juwel 2
+Aegis-Juwel 3
+WahresAegisJwl2
+WahresAegisJwl3
+TaktvollesJwl2
+TaktvollesJwl3
+WhrsTaktvollJwl2
+WhrsTaktvollJwl3
+Weites Juwel 2
+Weites Juwel 3
+WahresWeitesJwl2
+WahresWeitesJwl3
+Beter-Juwel 1
+Beter-Juwel 2
+Beter-Juwel 3
+Fundjuwel 1
+WahresFundjwl1
+Fundjuwel 2
+WahresFundjwl2
+Fundjuwel 3
+EifrigesJuwel1
+EifrigesJuwel2
+EifrigesJuwel3
+WhrsEifrigJwl1
+WhrsEifrigJwl2
+Umarmung der Göttin

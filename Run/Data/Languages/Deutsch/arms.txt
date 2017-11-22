@@ -1,0 +1,615 @@
+Leder-Handschuhe
+Wagemut-Handschuhe
+Ketten-Handschuhe
+Jäger-Armschienen
+Jäger-Armschutz
+Knochen-Armschienen
+Knochen-Armschutz
+LegierungsArmschinen
+Legierungs-Armschutz
+Konchu-Armschienen
+Konchu-Armschutz
+Bnahabra-Handschuhe
+Bnahabra-Ärmel
+RhenoplosArmschienen
+Rhenoplos-Armschutz
+Remobra-Handschuhe
+Remobra-Hände
+Jaggi-Armschienen
+Jaggi-Armschutz
+Genprey-Armschienen
+Genprey-Armschutz
+Ioprey-Armschienen
+Ioprey-Armschutz
+Lagombi-Armschienen
+Lagombi-Armschutz
+KechaWachaArmschinen
+KechaWachaArmschutz
+Conga-Armschienen
+Conga-Armschutz
+Gypceros-Armschienen
+Gypceros-Armschutz
+TetsucabraArmschinen
+Tetsucabra-Armschutz
+NerscyllaArmschienen
+Nerscylla-Armschutz
+Zamtrios-Armschienen
+Zamtrios-Armschutz
+Najarala-Armschienen
+Najarala-Armschutz
+Khezu-Armschienen
+Khezu-Armschutz
+Rathian-Armschienen
+Rathian-Armschutz
+VelocipreyArmschinen
+Velociprey-Armschutz
+Kut-Ku-Armschienen
+Kut-Ku-Armschutz
+Basarios-Armschienen
+Basarios-Armschutz
+Arzuros-Armschienen
+Arzuros-Armschutz
+Ludroth-Armschienen
+Ludroth-Armschutz
+Barroth-Armschienen
+Barroth-Armschutz
+NibelsnarfArmschinen
+Nibelsnarf-Armschutz
+CeanataurArmschienen
+Ceanataur-Armschutz
+HochmetallArmschinen
+Hochmetall-Armschutz
+Kampf-Armschienen
+Kampf-Armschutz
+GoreMagalaArmschinen
+GoreMagala-Armschutz
+Rathalos-Armschienen
+Rathalos-Armschutz
+Tigrex-Armschienen
+Tigrex-Armschutz
+Zinogre-Armschienen
+Zinogre-Armschutz
+Seltas-Armschienen
+Seltas-Armschutz
+Gravios-Armschienen
+Gravios-Armschutz
+BrachydiosArmschiene
+Brachydios-Armschutz
+Zwielicht-Kote
+Morgenlicht-Kote
+Adamantium-Kote
+Epochen-Kote
+Erz-Armschienen
+Erz-Armschutz
+Philia-Armschienen
+Philia-Armschutz
+Garuga-Armschienen
+Garuga-Armschutz
+Kirin-Armstulpen
+Kirin-Handschuhe
+NargacugaArmschienen
+Nargacuga-Armschutz
+Uragaan-Armschienen
+Uragaan-Armschutz
+DuramborosArmschinen
+Duramboros-Armschutz
+Lava-Armschienen
+Lava-Armschutz
+Diablos-Armschienen
+Diablos-Armschutz
+Auroros-Kote
+Genesis-Kote
+Borealis-Kote
+Glyphen-Kote
+Artian-Armschienen
+Artian-Armschutz
+Guss-Armschienen
+Guss-Armschutz
+Konchu-Armschienen S 
+Konchu-Armschutz S 
+BnahabraHandschuhe S
+Bnahabra-Ärmel S
+RhenoplosArmschieneS
+RhenoplosArmschutz S
+Remobra-Handschuhe S
+Remobra-Hände S
+Jaggi-Armschienen S
+Jaggi-Armschutz S
+GenpreyArmschienen S
+Genprey-Armschutz S
+Ioprey-Armschienen S
+Ioprey-Armschutz S
+LagombiArmschienen S
+Lagombi-Armschutz S
+KechaWachaArmschineS
+KechaWachaArmschutzS
+Conga-Armschienen S
+Conga-Armschutz S
+VelocipreyArmschienS
+VelocipreyArmschutzS
+Kut-Ku-Armschienen S
+Kut-Ku-Armschutz S
+Vespoid-Armschienen
+Vespoid-Armschutz
+Cephalos-Armschienen
+Cephalos-Armschutz
+Volvidon-Armschienen
+Volvidon-Armschutz
+HermitaurArmschienen
+Hermitaur-Armschutz
+Qurupeco-Armschienen
+Qurupeco-Armschutz
+Plesioth-Armschienen
+Plesioth-Armschutz
+Leder-Armschienen S
+Leder-Armschutz S
+WagemutArmschienen S
+Wagemut-Armschutz S
+Ketten-Armschienen S
+Ketten-Armschutz S
+Jäger-Armschienen S
+Jäger-Armschutz S
+KnochenArmschienen S
+Knochen-Armschutz S
+LegierungsArmschienS
+LegierungsArmschutzS
+Mosgharl-Rankgewächs
+Mosgharl-Ranke
+Aelucanth-Brachia
+Aelucanth-Manus
+Rhopessa-Brachia
+Rhopessa-Manus
+Hummer-Armschienen
+Hummer-Armschutz
+Wächter-Armschienen
+Wächter-Armschutz
+Helfer-Handschuhe
+Helfer-Ärmel
+GildenbardenArmschin
+Gildenbarden-Ärmel
+Gelehrten-Handschuhe
+Gelehrten-Ärmel
+Conga-Armschienen U
+Conga-Armschutz U
+GypcerosArmschienenS
+Gypceros-Armschutz S
+TetsucabraArmschienS
+TetsucabraArmschutzS
+NerscyllaArmschinenS
+NerscyllaArmschutz S
+ZamtriosArmschienenS
+Zamtrios-Armschutz S
+NajaralaArmschienenS
+Najarala-Armschutz S
+Khezu-Armschienen S
+Khezu-Armschutz S
+RathianArmschienen S
+Rathian-Armschutz S
+RathalosArmschienenS
+Rathalos-Armschutz S
+Tigrex-Armschienen S
+Tigrex-Armschutz S
+ZinogreArmschienen S
+Zinogre-Armschutz S
+Seltas-Armschienen S
+Seltas-Armschutz S
+GraviosArmschienen S
+Gravios-Armschutz S
+Kut-Ku-Armschienen U
+Kut-Ku-Armschutz U
+BasariosArmschienenS
+Basarios-Armschutz S
+Garuga-Armschienen S
+Garuga-Armschutz S
+Mono-Armschienen S
+Mono-Armschutz S
+Blango-Armschienen
+Blango-Armschutz
+Gobul-Armschienen
+Gobul-Armschutz
+Barioth-Armschienen
+Barioth-Armschutz
+HochmetallArmschienS
+HochmetallArmschutzS
+Ioprey-Klauen
+Ioprey-Handschuhe
+Todes-Brachia
+Todes-Manus
+SchmetterlingBrachia
+Schmetterling-Manus
+Artian-Armschienen S
+Artian-Armschutz S
+Chakra-Armband
+GoreMagalaArmschienS
+GoreMagalaArmschutzS
+Regios-Armschienen S
+Regios-Armschutz S
+GypcerosArmschienenU
+Gypceros-Armschutz U
+Khezu-Armschienen U
+Khezu-Armschutz U
+RathianherzArmschien
+RathianherzArmschutz
+RathalosselnArmschin
+RathalosselnArmschtz
+Tigrex-Armschienen U
+Tigrex-Armschutz U
+ZinogreArmschienen U
+Zinogre-Armschutz U
+GraviosArmschienen U
+Gravios-Armschutz U
+BrachydiosArmschienS
+BrachydiosArmschutzS
+Vangis-Armschienen
+Vangis-Armschutz
+BasariosArmschienenU
+Basarios-Armschutz U
+Kirin-Armstulpen S
+Kirin-Handschuhe S
+LagiacrusArmschienen
+Lagiacrus-Armschutz
+Agnaktor-Armschienen
+Agnaktor-Armschutz
+Dober-Armschienen
+Dober-Armschutz
+Adlerarmschienen
+Adlerarmschutz
+Dozentenarmschienen
+Dozentenarmschutz
+GildenritterHndschuh
+Gildenritter-Ärmel
+Magd-Handschuhe
+Magd-Ärmel
+Yukumo-Kote Himmel
+Yukumo-Kote Land
+Ranger-Tekko
+Bogenschützen-Tekko
+SchwarzgurtArmschien
+SchwarzgurtArmschutz
+Matrosen-Handschuhe
+Matrosen-Ärmel
+Erz-Armschienen S
+Erz-Armschutz S
+Philia-Armschienen S
+Philia-Armschutz S
+Goldene Kote
+Puppenspieler-Kote
+Gotteszorn-Kote
+Geistmalmer-Kote
+Kushala-Griff
+Kushala-Umarmung
+Kaiser-Armschienen
+Kaiser-Armschutz
+ZwielichtHegemonKote
+ÜberMorgenlichtKote
+ÜberragendAdamanKote
+ÜberragndEpochenKote
+Rebellionsarmschienen
+Aufruhr-Armschutz
+Akantor-Klauen
+Akantor-Armpanzer
+SilberSonnenarmschin
+SilbernerSonnenschtz
+GoldMondarmschienen
+GoldenerMondarmschtz
+Gier-Armschienen
+Gier-Armschutz
+Excello-Armschienen
+Excello-Armschutz
+Drachenklauen
+Drachenfaust
+KarmesinFatalisKlaue
+KarmesinFatalisFaust
+Kirin-Armstulpen U
+Kirin-Handschuhe U
+Ukanlos-Klauen
+Ukanlos-Armpanzer
+Indra-Kote
+Standhafte Kote
+Yaksha-Armschienen
+Gemetzel-Armschienen
+Kaiserin-Armschienen
+Kaiserin-Armschutz
+Mizuha-Osode
+Fantasie-Osode
+Helios-Armschienen
+Helios-Armschutz
+Selene-Armschienen
+Selene-Armschutz
+Escadora-Arme
+Escadora-Arma
+RathianArmschienenEX
+Rathian-Armschutz EX
+RathalosArmschieneEX
+RathalosArmschutz EX
+Kushala-Griff EX
+Kushala-Umarmung EX
+KaiserArmschienen EX
+Kaiser-Armschutz EX
+TigrexArmschienen EX
+Tigrex-Armschutz EX
+Yamato-Kote
+Mutsu-Kote
+Hyuga-Kote
+Amagi-Kote
+Shinobi-Kote Himmel
+Shinobi-Kote Land
+BlauerSternArmschien
+Blauer-Stern-Ärmel
+Captain Gloves J
+Captain Cuffs J
+Legend Gloves J
+Legend Cuffs J
+Uniqlo-Uhr
+Uniqlo-Zeitmesser
+SternlichtArmschinen
+Sternlicht-Armschutz
+Zodias Vambraces
+Zodias Guards
+Heroen-Armschienen
+Heroenhandschuhe
+KirinArmstulpen U EX
+KirinHandschuhe U EX
+Guss-Armschienen EX
+Guss-Armschutz EX
+ArtianArmschienen EX
+Artian-Armschutz EX
+GoreMagalaArmschinEX
+GoreMagalaArmschtzEX
+RebellionsarmschinEX
+Aufruhr-Armschutz EX
+Chefarmreif
+Konditor-Handschuhe
+Konditor-Fäustlinge
+Konchu-Armschienen X
+Konchu-Armschutz X
+BnahabraHandschuhe X
+Bnahabra-Ärmel X
+RhenoplosArmschieneX
+RhenoplosArmschutz X
+Ioprey-Armschienen X
+Ioprey-Armschutz X
+CephalosArmschienenX
+Cephalos-Armschutz X
+LagombiArmschienen X
+Lagombi-Armschutz X
+KechaWachaArmschineX
+KechaWachaArmschutzX
+KechaWachaArmschineZ
+KechaWachaArmschutzZ
+Conga-Armschienen X
+Conga-Armschutz X
+Conga-Armschienen Z
+Conga-Armschutz Z
+GypcerosArmschienenX
+Gypceros-Armschutz X
+GypcerosArmschienenZ
+Gypceros-Armschutz Z
+HermitaurArmschinenX
+HermitaurArmschutz X
+HermitaurArmschinenZ
+HermitaurArmschutz Z
+TetsucabraArmschienX
+TetsucabraArmschutzX
+TetsucabraArmschienZ
+TetsucabraArmschutzZ
+NerscyllaArmschinenX
+NerscyllaArmschutz X
+ZamtriosArmschienenX
+Zamtrios-Armschutz X
+ZamtriosArmschienenZ
+Zamtrios-Armschutz Z
+NajaralaArmschienenX
+Najarala-Armschutz X
+NajaralaArmschienenZ
+Najarala-Armschutz Z
+Khezu-Armschienen X
+Khezu-Armschutz X
+Khezu-Armschienen Z
+Khezu-Armschutz Z
+RathianArmschienen X
+Rathian-Armschutz X
+RathianherzArmschinZ
+RathianherzArmschtzZ
+VelocipreyArmschienX
+VelocipreyArmschutzX
+Kut-Ku-Armschienen X
+Kut-Ku-Armschutz X
+Kut-Ku-Armschienen Z
+Kut-Ku-Armschutz Z
+BasariosArmschienenX
+Basarios-Armschutz X
+Basarios-ArmschienenZ
+Basarios-Armschutz Z
+QurupecoArmschienenX
+Qurupeco-Armschutz X
+BarrothArmschienen X
+Barroth-Armschutz X
+Gobul-Armschienen X
+Gobul-Armschutz X
+NibelsnarfArmschienX
+NibelsnarfArmschutzX
+BariothArmschienen X
+Barioth-Armschutz X
+AgnaktorArmschienenX
+Agnaktor-Armschutz X
+PlesiothArmschienenZ
+Plesioth-Armschutz Z
+Hokushin-Ärmel
+Umi-Ozean-Ärmel
+Todes-Brachia X
+Todes-Manus X
+SchmettrlingBrachiaX
+SchmetterlingManus X
+Aelucanth-Brachia X
+Aelucanth-Manus X
+Rhopessa-Brachia X
+Rhopessa-Manus X
+WächterArmschienen X
+Wächter-Armschutz X
+Helfer-Ärmel X
+Heiler-Ärmel X
+Regios-Armschienen X
+Regios-Armschutz X
+NerscyllaArmschinenZ
+NerscyllaArmschutz Z
+RathalosArmschienenX
+Rathalos-Armschutz X
+RathalosslnArmschinZ
+RathalosslnArmschtzZ
+Tigrex-Armschienen X
+Tigrex-Armschutz X
+Tigrex-Armschienen Z
+Tigrex-Armschutz Z
+ZinogreArmschienen X
+Zinogre-Armschutz X
+ZinogreArmschienen Z
+Zinogre-Armschutz Z
+Seltas-Armschienen X
+Seltas-Armschutz X
+Seltas-Armschienen Z
+Seltas-Armschutz Z
+GraviosArmschienen X
+Gravios-Armschutz X
+GraviosArmschienen Z
+Gravios-Armschutz Z
+DiablosArmschienen X
+Diablos-Armschutz X
+DiablosArmschienen Z
+Diablos-Armschutz Z
+BrachydiosArmschienX
+BrachydiosArmschutzX
+Vangis-Armschienen X
+Vangis-Armschutz X
+Chaos-Armschienen
+Chaos-Armschutz
+Nephilim-Armschienen
+Nephilim-Armschutz
+Garuga-Armschienen X
+Garuga-Armschutz X
+Mono-Armschienen X
+Mono-Armschutz X
+MonodevilArmschienen
+Monodevil-Armschutz
+GoreMagalaArmschienX
+GoreMagalaArmschutzX
+NargacugaArmschinenX
+NargacugaArmschutz X
+LagiacrusArmschinenX
+LagiacrusArmschutz X
+DuramborosArmschienX
+DuramborosArmschutzX
+Lava-Armschienen X
+Lava-Armschutz X
+Artian-Armschienen X
+Artian-Armschutz X
+Adlerarmschienen X
+Adlerarmschutz X
+DozentenarmschienenX
+Dozentenarmschutz X
+Ass-Armschienen
+Ass-Armschutz
+Amazonen-Armschienen
+Amazonen-Armschutz
+WächterArmschienen Z
+Wächter-Armschutz Z
+Helfer-Ärmel Z
+Heiler-Ärmel Z
+GildenritterHndschuhX
+Gildenritter-Ärmel X
+Magd-Handschuhe X
+Exklusive Ärmel X
+Erz-Armschienen X
+Erz-Armschutz X
+Philia-Armschienen X
+Philia-Armschutz X
+GroßartPrphtnarmschnr
+GroßartEinsidlrmschnr
+GroßartGottszornKote
+GroßartigMalmer-Kote
+Kushala-Griff X
+Kushala-Umarmung X
+Kujula-Griff
+Kujula-Umarmung
+Kaiser-Armschienen X
+Kaiser-Armschutz X
+GroßartMizuhaOsode
+GroßartFantasieOsode
+GroßartZwielichtKote
+GroßMorgenlichtKote
+GroßarAdamantiumKote
+GroßartigEpochenKote
+Gogma-Armschienen
+Gogma-Armschutz
+RebellionsarmschienZ
+Aufruhr-Armschutz Z
+Akantor-Klauen X
+Akantor-Armpanzer X
+Ukanlos-Klauen X
+Ukanlos-Armpanzer X
+Gier-Armschienen Z
+Gier-Armschutz Z
+Excello-ArmschienenZ
+Excello-Armschutz Z
+BrachydiumArmschienen
+Brachydium-Armschutz
+Wroth-Klauen
+Wroth-Fäuste
+Kirin-Armstulpen X
+Kirin-Handschuhe X
+Kirin-Armstulpen Z
+Kirin-Handschuhe Z
+GroßartYakshaArmschi
+GroßartGmtzlArmschin
+GroßartigeYamatoKote
+GroßartigeMutsu-Kote
+Großartige HyugaKote
+Großartige AmagiKote
+KaiserinArmschienenX
+Kaiserin-Armschutz X
+Helios-Armschienen X
+Helios-Armschutz X
+Selene-Armschienen X
+Selene-Armschutz X
+Auroros-Kote EX
+Genesis-Kote EX
+Borealis-Kote EX
+Glyphen-Kote EX
+Sturm-Ärmel
+Firmament-Ärmel
+Miralis-Trauer
+Miralis-Schläge
+Escadora-Arme EX
+Escadora-Arma EX
+SternenrtterArmschnen
+SternenritterArmschtz
+Pirate King Gloves J
+Pirate King Cuffs J
+Champion Vantage
+Strongman Vantage
+Varia-Suit-Armschutz
+Varia-Suit-Schild
+Zero-Suit-Handschuhe
+Zero-Suit-Hände
+GoldMondarmschienenZ
+GoldnerMondarmschtzZ
+SilberSonnenarmschnZ
+SilbernrSonnenschtzZ
+RebellionsarmschienX
+Aufruhr-Armschutz X
+Drachenklauen X
+Drachenfaust X
+WeißerFatalis-Klauen
+Weißer-Fatalis-Faust
+Jäger-Armschoner GX
+Jäger-Bänder GX
+Gier-Armschoner GX
+Gier-Bänder GX
+Sturm-Hatamoto GX
+Firmament-Hatamoto GX
+KarmFatalisArmschnrGX
+KarmesFatalisBänderGX
+Armschienen der Wut
+Armschutz der Wut
+Armschienen der Anat
+Armschutz der Anat

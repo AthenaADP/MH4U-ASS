@@ -1,0 +1,256 @@
+﻿#  MH4UASS Primary String Table 
+#  
+#  Documentation Notes
+#
+#  - Lines beginning with # are comments and are ignored.
+#  - Empty lines are also ignored.
+#  - The name of this language as it appears in the drop-down menu is the name of the folder inside the Languages folder.
+#  - Menus and buttons may use an ampersand (&) symbol to denote a hotkey.
+#  - Tokens (%1, %2 etc.) are replaced by numbers; they can be rearranged into any order.
+#    Refer to the specific documentation below to see what the numbers are.
+#
+#  If you have any questions or require more strings/options/UI changes, please message AthenaADP on the Minegarde forums.
+#
+
+#The first line is for translator credit. This appears in the About dialog when this language is selected. A single hyphen means nothing is shown.
+Traduction française par Shyx
+
+&Fichier
+&Options
+&Langage
+&Aide
+&Charger
+
+#This string is used in the File menu to save application settings.
+&Sauvegarder
+
+#This string is used for saving custom charm/excavated gear lists.
+&Save
+
+Q&uitter
+
+#This options resets all settings to default
+&Réinitialiser
+
+#"Bad" skills are ones activated at -10 points or less.
+Autoriser les &talents négatifs
+
+#This specifically refers to Arena reward helmets, such as the Barrage Piercing
+#and Sword Saint Piercing, which are difficult to obtain.
+Autoriser les &armures d'arène
+
+#Event armor (and Decorations) from DLC quests
+Autoriser les &armures de DLC
+
+#Japanese only armor/decorations
+Autoriser les &DLC japonais
+
+#This setting will ignore gear of a lower tier than you
+Autoriser les &Armure de bas niveau
+
+Afficher les points de talent &requis
+
+Trier les talents par ordre &Alphabétique
+Autoriser les a&rmure excavation
+Autoriser les armes &excavation
+Autoriser &Helms mitrailleur
+Faire un &don
+&Outrepasser fentes libre sur les talents supplémentaires
+&Que font les talents ?
+
+#This option opens a browser to my main thread on forums.minegarde.com
+Vérifier les &mises a jour
+
+&A propos
+Mes &Talismans
+&Importer
+&Recherche rapide
+&Recherche avancée
+&Annuler
+&Defaut
+
+#This string is used in the Advanced Search dialog to deselect all armors in a list.
+&Aucun
+
+#This string is used in the combobox that filters solutions by charm
+Aucun
+
+#This string is used in the combobox that sorts solutions by various criteria
+Aucun
+
+&Recherche
+Selectionner &aucun
+Selectionner &meilleur
+&Ajouter nouveau
+&Remettre
+Su&pprimer
+Tout &supprimer
+Déplacer &haut
+Déplacer &Bas
+&Rogner
+&Fermer
+&Trouver suivant
+
+Niv. Guilde
+Niv. Village
+Fentes maxi (arme)
+Homme
+Femme
+Pas de filtrg. talent supplémentaire
+Ordre des résultats
+
+#This string is used in the combobox that filters solutions by charm
+Tout (avec ou sans talisman)
+
+Résistance dragon
+Résistance feu
+Résistance glace
+Résistance foudre
+Résistance eau
+Défense de base
+Défense maximum
+
+#When sorting solutions, "Difficulty" refers to the number of rare items required, e.g. plates/rubies/dragongems/etc.
+Difficulté
+
+Rare
+Nombre de fentes libres
+
+#When sorting solutions, "Family" refers to how similar the armor pieces are:
+# Rathalos X + Rathalos X (great!)
+# Rathalos X + Rathalos S (good)
+# Rathalos X + Rathalos U (ok...)
+# Rathalos X + Basarios S (bad)
+Avec le plus de parties du même set
+
+#Extra Skills are skills that a solution may have that the user did not search for
+Talents supplémentaire
+
+Type talisman (param. de recherche)
+Ne pas utiliser de talisman
+Utiliser mes talismans
+
+#When searching using charms that have no skills, but 1-3 slots.
+Tali. avec 1 à 3 fentes (sans talent)
+
+#When searching using charms with at most one skill and possibly some slots
+Talismans avec 0 ou 1 talent
+
+#When searching using charms with at most two skills and possible some slots (i.e. all possible charms)
+Tali. avec 0 à 2 talent(s)
+
+#This string is used in the Manage Equipment dialog when selecting a skill
+Talent
+
+Talents
+Catégorie
+Epéiste
+Artilleur
+
+#Used in the Advanced Search dialog
+Selectionner armure
+
+#For importing charms from a savefile (unsupported atm)
+Importer talismans
+
+#For importing charms from a savefile (unsupported atm)
+Personnage
+
+Supprimer les tali. existant
+Etes vous sure ?
+&Trier
+&Trier 1er tal.
+Trier 2e tal.
+Fentes
+(aucun)
+
+#When a solution has exactly one slot spare
+1 fente libre
+
+#When a solution has multiple slots spare, %1 is that number.
+%1 fentes libres
+
+#These following three strings deliberately begin with a space in English
+ (ou toute autre pièce ayant 1 fente)
+
+#%1 is the number of slots in the armor
+ (ou toute autre pièce ayant %1 fentes)
+
+ (ou toute autre piece ayant Torse +)
+Solutions trouvées:
+
+#When there are too many solutions to display all of them, %1 is the limit (default 1000)
+Afficher les %1 première solution:
+
+Vidage de données
+Fichier corrompu
+Version
+Trouver
+
+#This string is shown if a charm or excavated item is loaded that is impossible to obtain legitimately
+Tu es un tricheur.
+
+#Used in some error popups
+Erreur
+
+#For showing min (%1) and max (%2) defence, e.g. 10 to 100
+%1 à %2
+
+Defense
+Table
+Resultas
+Tali. inconnu
+Supprimer tous les tali.
+Paramètre ASS
+&Résultats max.
+Print &Decoration Names
+
+#Showing min/mac defence and elemental resists
+%1-%2 Def, %3 Feu, %4 Eau, %5 Glc, %6 Fdr, %7 Drg
+
+#This string is used to show decorations as skills, e.g. "+5 Expert Jewel"
+%1 %2 Joyau
+
+#Strings for the Manage Equipment dialog
+Equipments&
+Gérer Equipments
+Equipments
+&Savegarder
+&Ajouter nouveau
+&Effacer
+&Eff. doublons
+
+#Item Type refers to weapon/helm/body armor/etc.
+Type d'item
+
+#Hunter Type means Blademaster or Gunner
+Type de hunter
+
+#Both Blademaster and Gunner (for helmets)
+Les deux
+
+Arme
+Tête
+Torse
+Bras
+Taille
+Jambe
+
+#This string is for displaying potential extra skills
+(%1 possible)
+
+#Strings for the skill description dialog
+Afficher
+Description
+Talent
+Arbe de talents
+Les armures avec des points du talent:
+
+#Strings for displaying hunter rank, village quest progress etc.
+%1☆
+HR%1
+G%1
+Tout
+
+#Format string for showing a skill with the number of skill points required
+%1 (+%2)

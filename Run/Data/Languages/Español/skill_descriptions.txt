@@ -1,0 +1,277 @@
+﻿Duplica los puntos de habilidad en el equipo del torso.
+Inmunidad al veneno.
+Duplica el daño recibido por el veneno.
+Inmunidad a la parálisis.
+Duplica la duración de la parálisis.
+Inmunidad al sueño.
+Duplica la duración del sueño.
+Reduce la probabilidad de ser aturdido un 50%.
+Inmunidad al aturdimiento.
+Duplica la duración del aturdimiento.
+Evita quedar atrapado en la nieve o el barro.
+Anula los efectos de defensa reducida.
+La bomba boñiga es más eficaz. Evita bloqueo de uso de objetos y la plaga nitro.
+La bomba boñiga es más eficaz. Evita bloqueo de uso de objetos y plaga nitro. Retarda la cólera.
+Aumenta algo el ataque.
+Aumenta algo el ataque.
+Aumenta mucho el ataque.
+Aumenta muchísimo el ataque.
+Reduce algo el ataque.
+Reduce el ataque.
+Reduce mucho el ataque.
+Aumenta algo la defensa.
+Aumenta la defensa.
+Aumenta mucho la defensa.
+Aumenta muchísimo la defensa.
+Reduce algo la defensa.
+Reduce la defensa.
+Reduce mucho la defensa.
+Aumenta la salud máxima en 20..
+Aumenta la salud máxima en 50.
+Reduce la salud máxima en 10.
+Reduce la salud máxima en 30.
+Acelera la recuperación del daño temporal (parte roja del indicador de salud).
+Acelera mucho la recuperación del daño temporal (parte roja del indicador de salud).
+Frena la recuperación del daño temporal (parte roja del indicador de salud).
+Frena mucho la recuperación del daño temporal (parte roja del indicador de salud).
+A veces reduce el daño recibido.
+A veces aumenta el daño recibido.
+Aumenta la velocidad de desenfundadura de las armas.
+Acelera la carga del indicador de espada larga/ hacha espada/espadas dobles/ frascos hacha cargada y ataque cargado de arco/gran espada/martillo
+Ralentiza la carga del indicador de espada larga/ hacha espada/espadas dobles/ frascos hacha cargada y ataque cargado de arco/gran espada/martillo
++10% Afinidad
++15% Afinidad
++20% Afinidad
++30% Afinidad
+-5% Afinidad
+-10% Afinidad
+-15% Afinidad
+Aumenta el daño al golpear partes del cuerpo en las que tus ataques son muy efectivos.
+Hace más fácil romper o cortar partes de monstruos grandes.
+Facilita aturdir monstruos.
+Aumenta la capacidad de ciertos ataques de agotar a monstruos.
+Reduce 25% el gasto de resistencia al evadir/bloquear. Puedes evadir en carrera en cualquier dirección.
+Reduce 50% el gasto de resistencia al evadir/bloquear. Puedes evadir en carrera en cualquier dirección.
+Aumenta 20% el gasto de resistencia al evadir/bloquear.
+Aumenta 35% el gasto de resistencia al evadir/bloquear.
+Anula el efecto del rugido de algunos monstruos grandes.
+Anula el efecto de todos los rugidos de monstruos grandes.
+Reduce casi toda la presión del viento.
+Anula la presión del viento causada por los monstruos.
+Evita trastabillar por los temblores causados por monstruos grandes.
+Anula el daño provocado por el calor y la lava.
+Duplica el daño provocado por el calor y la lava.
+Anula todo el frío.
+Aumenta la velocidad a la que se agota la resistencia en clima frío.
+Ralentiza el uso de resistencia de acciones que requieren un consumo continuo (como correr).
+Acelera el uso de resistencia de acciones que requieren un consumo continuo (como correr).
+Aumenta la velocidad de recuperación de resistencia.
+Disminuye la velocidad de recuperación de resistencia.
+Extiende algo el periodo de invulnerabilidad al evadir.
+Extiende el periodo de invulnerabilidad al evadir..
+Extiende mucho el periodo de invulnerabilidad al evadir.
+Reduce el periodo de invulnerabilidad durante la evasión.
+Aumenta 50% la distancia de evasión.
+Reduce la probabilidad de ser atacado por monstruos.
+Aumenta la probabilidad de ser atacado por monstruos.
+Disminuye el retroceso y la pérdida de resistencia al bloquear un ataque.
+Disminuye mucho el retroceso y la pérdida de resistencia al bloquear un ataque.
+Aumenta el retroceso y la pérdida de resistencia al bloquear un ataque.
+Hace que ataques que no eran bloqueables se hagan bloqueables.
+Aumenta ligeramente la potencia de ataques de estados anormales.
+Aumenta la potencia de ataques de estados anormales.
+Reduce la potencia de ataques de estados anormales y bpmbas tranquilizantes.
+Aumenta la potencia de ataques elementales.
+Reduce la potencia de ataques elementales.
+Aumenta 20% la potencia de ataques de fuego y disparos de llama.
+Aumenta 40% la potencia de ataques de fuego y disparos de llama.
+Aumenta 55% la potencia de ataques de fuego y disparos de llama.
+Disminuye 30% la potencia de ataques de fuego y disparos de llama.
+Aumenta 20% la potencia de ataques de agua y disparos de agua.
+Aumenta 40% la potencia de ataques de agua y disparos de agua.
+Aumenta 55% la potencia de ataques de agua y disparos de agua.
+Disminuye 30% la potencia de ataques de agua y disparos de agua.
+Aumenta 20% la potencia de ataques de rayo y disparos de rayo.
+Aumenta 40% la potencia de ataques de rayo y disparos de rayo.
+Aumenta 55% la potencia de ataques de rayo y disparos de rayo.
+Disminuye 30% la potencia de ataques de rayo y disparos de rayo.
+Aumenta 20% la potencia de ataques de hielo y disparos congelantes.
+Aumenta 40% la potencia de ataques de hielo y disparos congelantes.
+Aumenta 55% la potencia de ataques de hielo y disparos congelantes.
+Disminuye 30% la potencia de ataques de hielo y disparos congelantes.
+Aumenta 20% la potencia de ataques de draco y disparos de draco.
+Aumenta 40% la potencia de ataques de draco y disparos de draco.
+Aumenta 55% la potencia de ataques de draco y disparos de draco.
+Disminuye 30% la potencia de ataques de draco y disparos de draco.
+Aumenta la resistencia al fuego en 15.
+Aumenta la resistencia al fuego en 20.
+Reduce la resistencia al fuego en 20.
+Aumenta la resistencia al agua en 20.
+Aumenta la resistencia al agua en 20.
+Reduce la resistencia al agua en 20.
+Aumenta la resistencia al rayo en 15.
+Aumenta la resistencia al rayo en 20.
+Reduce la resistencia al rayo en 20.
+Aumenta la resistencia al hielo en 15.
+Aumenta la resistencia al hielo en 20.
+Reduce la resistencia al hielo en 20.
+Aumenta la resistencia al draco en 15.
+Aumenta la resistencia al draco en 20.
+Reduce la resistencia al draco en 20.
+Divide por 2 la velocidad de pérdida de afilado del arma.
+Dobla la velocidad de pérdida de afilado del arma.
+Aumenta el afilado de tu arma.
+El afilado de armas se realiza más rápido.
+El afilado de armas se realiza más lento.
+Permite aturdir a monstruos con desenfundadura de armas cortantes y aumenta algo el ataque.
+Aumenta la afinidad con todos los ataques de desenfundadura en un 100%.
+Evita que tus ataques sean rechazados.
+Tus ataques son rechazados más fácilmente.
+Acelera ligeramente la recarga de ballesta y la carga de revestimientos de arco.
+Acelera la recarga de ballesta y carga automáticamente los revestimientos de arco.
+Acelera mucho la recarga de ballesta y carga automáticamente los revestimientos de arco.
+Ralentiza ligeramente la recarga de ballesta y la carga de revestimientos de arco.
+Ralentiza la recarga de ballesta y la carga de revestimientos de arco.
+Ralentiza mucho la recarga de ballesta y la carga de revestimientos de arco.
+Aumenta capacidad de munición de ballesta y lanza pistola, frascos hacha cargada y capacidad de ataque cargado de arco.
+Permite disparar un tiro más con el disparo rápido (Sólo ballesta ligera).
+Aumenta 1 nivel la cadencia de la ballesta.
+Aumenta 2 niveles la cadencia de la ballesta.
+Aumenta 3 niveles la cadencia de la ballesta.
+Disminuye 1 nivel la cadencia de la ballesta.
+Disminuye 2 niveles la cadencia de la ballesta.
+Disminuye 3 niveles la cadencia de la balles
+Reduce 1 nivel la desviación al disparar.
+Reduce 2 niveles la desviación al disparar.
+Aumenta 1 nivel la desviación al disparar.
+Aumenta 2 niveles la desviación al disparar.
+Aumenta 10% la potencia de disparos normales y flechas en salva.
+Aumenta la potencia de disparos perforadores y flechas perforantes.
+Aumenta la potencia de disparos de perdigón y flechas en abanico.
+Permite que se carguen todos los niveles de disparos normales.
+Permite que se carguen los disparos perforadores Nv1.
+Permite que se carguen todos los niveles de disparos perforadores.
+Permite que se carguen los disparos de perdigón Nv1.
+Permite que se carguen todos los niveles de disparos de perdigón.
+Permite que se carguen los disparos explosivos Nv1.
+Permite que se carguen todos los niveles de disparos explosivos.
+Permite que se carguen los disparos de grupo Nv1.
+Permite que se carguen los disparos de grupo Nv1.
+Permite que se carguen los disparos cortadores.
+Permite que se carguen los disparos de nitro.
+Permite usar revestimientos de veneno cuando llevas un arco.
+Permite usar revestimientos paralizantes cuando llevas un arco.
+Permite usar revestimientos de sueño cuando llevas un arco.
+Permite usar revestimientos de energía cuando llevas un arco.
+Permite usar revestimientos de alcance cuando llevas un arco.
+Permite usar revestimientos de fatiga cuando llevas un arco.
+Permite usar revestimientos de nitro cuando llevas un arco.
+Reduce la probabilidad de rotura de cuernos y aumenta 1 minuto el tiempo de efecto de melodías de cornamusa.
+Algo más de potencia de balista, cañón, lanza pistola, fuego de wyvern, disparo explosivo y frascos de hacha cargada de impacto.
+Más potencia de balista, cañón, lanza pistola, fuego de wyvern, disparo explosivo y frascos de hacha cargada de impacto. Reduce el tiempo para reutilizar el fuego wyvern.
+Gran aumento de potencia de balista, cañón, lanza pistola, fuego de wyvern, disparo explosivo y frascos de hacha cargada de impacto. Reduce el tiempo para reutilizar el fuego wyvern.
+Aumenta 30% la potencia de bombas y nitro. La probabilidad de combinación de todas las bombas es del 100%.
+Aumenta la eficacia de los objetos que otorgan salud.
+Reduce la eficacia de los objetos que otorgan salud.
+Transfiere parte de los efectos de ciertos objetos a los camaradas en la zona.
+Transfiere los efectos de ciertos objetos a los camaradas en la zona.
+Aumenta el tiempo de efecto de ciertos objetos.
+Reduce el tiempo de efecto de ciertos objetos.
+Disminuye a la mitad la pérdida de resistencia provocada por el hambre.
+Evita la pérdida de resistencia provocada por el hambre.
+Aumenta un 50% la pérdida de resistencia provocada por el hambre.
+Duplica la pérdida de resistencia provocada por el hambre.
+Aumenta la eficacia de la carne, que sube la resistencia máxima.
+Dota cualquier objeto que comas o bebas de potencia para subir tu resistencia máxima.
+Aumenta la velocidad de consumo de carne y objetos.
+Aumenta mucho la velocidad de consumo de carne y objetos.
+Reduce la velocidad de consumo de carne y objetos.
+Comes carne cruda, y los filetes poco hechos y al punto dan resistencia ilimitada temporal.
+Mejora las opciones de éxito de combinación en un 20%.
+Aumenta la probabilidad de combinación un 45%.
+Reduce la probabilidad de combinación un 10%.
+Reduce las opciones de éxito de combinación en un 20%.
+Garantiza los mejores resultados con combinaciones que producen más de un objeto a la vez.
+A veces aumenta las ocasiones en que pueden recogerse objetos en zonas de recogida.
+A menudo aumenta las ocasiones en que pueden recogerse objetos en zonas de recogida.
+Muy a menudo aumenta las veces en que pueden recogerse objetos en zonas de recogida.
+A veces reduce las ocasiones en que pueden recogerse objetos en zonas de recogida.
+Aumenta la velocidad de cortar, recoger, coger insectos y extraer.
+Reduce la probabilidad de rotura de picos, redes de bichos, bumeranes y cuernos.
+Reduce mucho la probabilidad de rotura de picos, redes de bichos, bumeranes y cuernos.
+Aumenta la probabilidad de rotura de picos, redes de bichos, bumeranes y cuernos.
+Aumenta mucho la probabilidad de rotura de picos, redes de bichos, bumeranes y cuernos.
+Aumenta mucho la probabilidad de rotura de picos, redes de bichos, bumeranes y cuernos.
+Aumenta la probabilidad de extraer dos amuletos a la vez.
+Aumenta más la probabilidad de extraer dos amuletos a la vez.
+Aumenta muchísimo la probabilidad de extraer dos amuletos a la vez.
+A veces aumenta el número de objetos de recompensa por acabar una misión.
+Suele aumentar el número de objetos de recompensa recibidos al final de una misión.
+Muy a menudo aumenta el número de objetos de recompensa por acabar una misión.
+A veces reduce el número de objetos de recompensa por acabar una misión.
+A menudo reduce el número de objetos de recompensa por acabar una misión.
+Previene empujones mientras se está cortando.
+Aumenta las posibilidades de corte y previene empujones mientras se corta.
+Aumenta en una (puede que más) las posibilidades de corte y evita empujones mientras se corta.
+Aumenta la probabilidad de obtener más objetos de recompensa por capturas.
+Aumenta mucho la probabilidad de obtener más objetos de recompensa por capturas.
+Aumenta muchísimo la probabilidad de obtener más objetos de recompensa por capturas.
+Te permite conocer cuándo se puede capturar a un monstruo grande que hayas marcado.
+Probabilidad del 66% de mostrar monstruos grandes en el mapa cada 5 minutos. Aumenta la información en el mapa cuando hay monstruos grandes marcados.
+Siempre muestra monstruos grandes en el mapa, como si estuvieran marcados.
+Aumenta la velocidad al transportar objetos y reduce la probabilidad de soltarlos.
+Mejora éxito de pesca y cocina en misiones y muestra el mapa siempre, aun sin el objeto "mapa".
+Previene el robo de objetos.
+Hace que las combinaciones de trampa funcionen y acelera la colocación de trampas y bombas.
+Los monstruos actúan como si portaras una antorcha, aunque no sea así.
+Aumenta mucho la defensa cuando el nivel de salud está por debajo del 40%.
+Aumenta mucho el ataque y la defensa cuando el nivel de salud esta por debajo del 40%.
+Reduce la defensa y el ataque cuando el nivel de salud está por debajo del 40%.
+Aumenta tu ataque y defensa cada vez que caes en la batalla.
+Aumenta la afinidad un 30% y el consumo de resistencia disminuye a la mitad después de 5 minutos en batalla o de recibir 180 de daño.
+Aumenta la afinidad un 50% y el consumo de resistencia disminuye un 75% después de 5 minutos en batalla o de recibir 180 de daño.
+Aumenta el ataque (+10) y la afinidad (+10%) cuando un monstruo grande se enfada en la misma área.
+Aumenta mucho ataque (+25) y afinidad (+20%) cuando un monstruo grande se enfada en la misma área.
+Aumenta el ataque cuando el indicador de salud está al máximo.
+Libera propiedades elementales latentes en ciertas armas que carecen de ellas.
+Evita desmayarte una vez al recibir un golpe mortal si tienes cierta cantidad de salud.
+Aumenta el ataque y la defensa de los camaradas.
+Permite "ovación" con camaradas cuando se desmayan/recuperan. No se puede usar repetidamente.
+Permite bloquear ataques automáticamente (si es posible bloquear y el arma está desenfundada).
+Anula todas las plagas elementales (fuego, agua, rayo, hielo y draco).
+Previene el envenenamiento, la parálisis, el sueño y el aturdimiento.
+Con un nivel alto de salud evita desmayarte una vez al recibir un golpe mortal; con nivel bajo, potencia ataque y defensa.
+Aumenta mucho el ataque y sube el afilado de tu arma.
+Aumenta la potencia de disparo normal, perforador y perdigón, y flechas salva, abanico y perforantes.
+Te permite recuperarte de los ataques que recibas con mayor rapidez.
+Acelera indicadores/atq. carga. Permite comer carne cruda. Filetes dan resistencia ilimitada temporal.
+Aumenta la defensa y anula los efectos de defensa reducida.
+Aumenta la probabilidad de obtener más recompensas de misión y objetos de recompensa por captura.
+Es más difícil que te afecte la cólera y mejora los beneficios cuando la superas.
+Aumenta el daño al atacar puntos débiles del enemigo y aumenta la afinidad un 15%.
+Mejores estadísticas de camaradas y permite gesto de "ovación" cuando se desmayan/recuperan.
+Facilita permanecer montado en un monstruo hasta derribarlo.
+Facilita mucho permanecer montado en un monstruo hasta derribarlo.
+Dificulta permanecer montado en un monstruo hasta derribarlo.
+Aumenta la velocidad de desenfundadura de las armas y permite aturdir a monstruos con desenfundadura de armas cortantes
+Reduce el gasto de resistencia un 25% al bloquear, evadir o evadir en carrera. Más invulnerabilidad al evadir.
+Ataques que no eran bloqueables se hacen bloqueables y aumenta la velocidad de recuperación de resistencia.
+Aumenta la distancia de evasión y aumenta el ataque cuando el indicador de salud está al máximo.
+Aumenta el número de objetos para recoger en zonas de recogida. Aumenta probabilidad de extraer 2 amuletos a la vez.
+Aumenta la potencia de ataques elementales y alarga el tiempo de efecto de ciertos objetos.
+Evita el sangrado.
+Duplica el daño recibido por el sangrado.
+Te permite reutilizar algunos objetos tras haberlos comido o bebido.
+Permite consumir setas para obtener ciertos beneficios de ellas.
+Permite consumir setas y carne cruda con más beneficios. Comes más rápido.
+Evita quedar atrapado en telaraña o brea.
+Aumenta el tiempo durante el cual ciertas flechas y munición impactan a plena potencia.
+Permite llevar más munición, más combinaciones exitosas, es menos probable recibir ataques.
+Evita que rechacen tus ataques y reduce a la mitad la velocidad a la que disminuye el afilado.
+Ataques de estados anormales (nitro, veneno, parál., sueño) más potentes en golpes críticos.
+Aumenta el daño elemental (fuego, agua, rayo, hielo, draco) de los golpes críticos.
+Más poder tras desmayarte. Hay acciones que consumen menos resistencia. Mejora al agotarte.
+esbloquea elementos latentes en las armas y potencia ataques elementales y de estados anormales.
+Más daño por bombas/ráfaga, pones bombas/trampas más rápido y más combinaciones exitosas.
+Aumentan la efectividad de los ataques que fatigan y aturden a los monstruos.
+Aumenta la eficacia de los objetos que otorgan salud y a veces reduce el daño recibido.

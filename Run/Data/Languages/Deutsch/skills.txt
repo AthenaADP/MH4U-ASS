@@ -1,0 +1,421 @@
+﻿Gift
+Lähmung
+Schlaf
+Betäuben
+Schl/Schn.
+AbwSperre
+Biologie
+Angriff
+Verteidig.
+Gesundheit
+ErholGschw
+Schutz
+Wegstecken
+Schn. lad.
+Experte
+Klopfer
+Zerstörer
+Knock-out
+Ausd.Entz.
+Konstitutn
+Gehör
+Windabwehr
+Bebensicher
+Hitzeabw.
+Kälteabw.
+Ausdauer
+AusdErholg
+Ausweichen
+Asweichdst
+Spürsinn
+Block
+Blockstrkng
+Status
+Element
+Feuerangr.
+Wasserang.
+Donnerang.
+Eisangriff
+Drachenan.
+Feuerabw.
+Wasserabw.
+Donnerabw.
+Eisabwehr
+Drachenabw
+Schärfe
+Handwerk
+Schärfer
+StrafHieb
+KritHieb
+Fechten
+NachlGesch
+Kapazität
+Schnellfeu
+Rückstoß
+Präzision
+NormlShoch
+PerfrShoch
+SchrtShoch
+Normal S+
+Perfor S+
+Schrot S+
+Explos S+
+Streu S+
+Schnitt S+
+Spreng S+
+Gift B+
+Lähm B+
+Schlaf B+
+Kraft B+
+Nahkmpf B+
+Ermüd. B+
+Spreng B+
+Maestro
+Artillerie
+BombStärk.
+ErholStufe
+Großraum
+EwigeKraft
+Hunger
+Schlemmen
+Essen
+Fleischfr.
+Kombi-Rate
+KombiBonus
+Sammeln
+SchnllSamm
+Laune
+Honig
+AmulFinder
+Schicksal
+Zerlegen
+Beruhigung
+Wahrnehmen
+Vision
+Rucksack
+Ranger
+Anti-Dieb
+SchnllAufb
+Flammenaura
+Potenzial
+Überleben
+Brachial
+Elan
+Unversehrt
+FreiElemnt
+Mut
+Teamspiel.
+Teamanfüh.
+Autoblock
+Brandabw.
+Statusabw.
+Zorn
+Schneidmst
+Sichere Hd
+Unerschütt
+Heftigkeit
+Widerstand
+Habgier
+Rasereiabw
+Rohheit
+Kommandant
+Aufsteigen
+Ummantelung
+Gewandtht
+Tapferkeit
+Vernunft
+Horten
+Verstärken
+Blutung
+Genügsamkt
+Mykologe
+GroßAppetit
+Klebrigabw.
+Mstrschütze
+Tarnung
+Schnittknde
+KritStatus
+KritElement
+S. Fechten
+Arkana
+Mechaniker
+Muskelkraft
+Gebet
+RumpfVerst
+
+Gift nichtig
+Doppeltes Gift
+Lähmung nichtig
+Doppelte Lähmung
+Schlaf nichtig
+Doppelter Schlaf
+Halbes Betäuben
+Betäuben nichtig
+Dopp. Betäuben
+Schl/Schn nicht.
+Eisenhaut
+Bio-Forscher
+Bio-Meister
+Angriff +
+Angriff ++
+Angriff +++
+Angriff ++++
+Angriff -
+Angriff --
+Angriff ---
+Verteidigung +
+Verteidigung ++
+Verteidigung +++
+Verteidigng ++++
+Verteidigung -
+Verteidigung --
+Verteidigung ---
+Gesundheit +20
+Gesundheit +50
+Gesundheit -10
+Gesundheit -30
+ErholGeschw +1
+ErholGeschw +2
+ErholGeschw -1
+ErholGeschw -2
+Göttl. Schutz
+Dämon. Schutz
+Schn. Wegstecken
+Fokus
+Ablenkung
+Krit. Auge +1
+Krit. Auge +2
+Krit. Auge +3
+Kritischer Gott
+Krit. Auge -1
+Krit. Auge -2
+Krit. Auge -3
+Schwächeausnutzg
+Teilebrecher
+Knock-out-König
+Ausdauerdieb
+Konstitution +1
+Konstitution +2
+Konstitution -1
+Konstitution -2
+Ohrstöpsel
+Best. Ohrstöpsel
+Windsicher [N]
+Windsicher [H]
+Bebensicher
+Hitze beenden
+Hitze erhöhen
+Kälte beenden
+Kälte erhöhen
+Läufer
+Sprinter
+Ausdauererhlg. +
+Ausdauererhlg. -
+Ausweichen +1
+Ausweichen +2
+Ausweichen +3
+Ausweich. runter
+Ausweichen hoch
+Schleichen
+Provozieren
+Block +1
+Block +2
+Block -1
+Blockstrkng
+Statusangriff +1
+Statusangriff +2
+Statusa. runter
+Elementang. hoch
+Elementa. runter
+Feuerangriff +1
+Feuerangriff +2
+Feuerangriff +3
+Feuerang. runter
+Wasserangriff +1
+Wasserangriff +2
+Wasserangriff +3
+Wasseran. runter
+Donnerangriff +1
+Donnerangriff +2
+Donnerangriff +3
+Donneran. runter
+Eisangriff +1
+Eisangriff +2
+Eisangriff +3
+Eisangr. runter
+Drachenangr. +1
+Drachenangr. +2
+Drachenangr. +3
+Drachenang runt.
+Feuerabwehr +15
+Feuerabwehr +20
+Feuerabwehr -20
+Wasserabwehr +15
+Wasserabwehr +20
+Wasserabwehr -20
+Donnerabwehr +15
+Donnerabwehr +20
+Donnerabwehr -20
+Eisabwehr +15
+Eisabwehr +20
+Eisabwehr -20
+Drachenabw. +15
+Drachenabw. +20
+Drachenabw. -20
+Scharfschwert
+Stumpf
+Schärfe +1
+Schnell Schärfen
+Langs. Schärfen
+Strafender Hieb
+Kritischer Hieb
+Übersinnl. Kraft
+Fehlsichtig
+NachlGesch +1
+NachlGesch +2
+NachlGesch +3
+NachlGesch -1
+NachlGesch -2
+NachlGesch -3
+Kapazität hoch
+Bonus-Schuss
+Rückstoß red. +1
+Rückstoß red. +2
+Rückstoß red. +3
+Rückstoß red. -1
+Rückstoß red. -2
+Rückstoß red. -3
+Ruhige Hand +1
+Ruhige Hand +2
+Ruhige Hand -1
+Ruhige Hand -2
+Norm./Schn. hoch
+Perf./Perf. hoch
+Schr/StrPf hoch
+Alle Normal S vw
+Perfor. S St1 vw
+Alle Perfor S vw
+Schrot S St1 vw
+Alle Schrot S vw
+Explos. S St1 vw
+Alle Explos S vw
+Streu S St1 vw
+Alle Streu S vw
+Schnitt S vw
+Spreng S vw
+Giftbeschtg vw
+Lähmbeschtg vw
+Schlafbschtg vw
+Kraftbeschtg vw
+Nahkampfbesch vw
+Ermüdbeschtg vw
+Sprengbschtg vw
+Horn-Maestro
+Artillerienovize
+Artillerieexper.
+Artilleriegott
+Bombardier
+Erholung hoch
+Erholung runter
+Großraum +1
+Großraum +2
+Obj.nutz. hoch
+Obj.nutz runter
+Halber Hunger
+Hunger nichtig
+Mehr Hunger
+Doppelter Hunger
+Feinschmecker
+Allesfresser
+Schnellessen +1
+Schnellessen +2
+Langsamer Esser
+Fleischfan
+Kombination +20%
+Kombination +45%
+Kombination -10%
+Kombination -20%
+Kombi-Profi
+Sammeln +1
+Sammeln +2
+Sammelgott
+Sammeln -1
+Schnellsammler
+Seelenlaune
+Göttliche Laune
+Gespensterlaune
+Teufelslaune
+Honigjäger
+Amulettsammler
+Amulettjäger
+Amulettgott
+Glück
+Glückserhöher
+Glücksverstärker
+Pech
+Unglück
+Zerleger-Profi
+Zerleger-Promi
+Zerleger-Gott
+Fangexperte
+Fangmeister
+Fanggott
+Fang-Guru
+Aufspüren
+Auto-Aufspürer
+Rucksackexperte
+Naturbursche
+Anti-Dieb
+Fallenmeister
+Flammenaura
+Adrenalin +1
+Adrenalin +2
+Pessimist
+Kräftigen
+Latente Kraft +1
+Latente Kraft +2
+Herausforder. +1
+Herausforder. +2
+Höchstleistung
+Erwachen
+Mut
+Kameradentreffen
+Kameradenjubel
+Autoblock
+Brandsicher
+Wohlbefinden
+Erwachter Zorn
+Geschl. Klinge
+Silberkugel
+Felsenfest
+Blutdurst
+Eiserne Wand
+Kopfgeldjäger
+Antivirus
+Rücksichtslosgkt
+Kameradenheld
+Aufsteigmeister
+Rodeo-Gott
+Wundgeritten
+WegsteckKontrlle
+Akrobat
+Schildträger
+Leichtfuß
+Sammelwut
+Elementalität
+Blutung nichtig
+Doppelte Blutung
+Rationierer
+Pilzmagier
+Eisenmagen
+Teer nichtig
+Geschossbahn
+Verstohlenheit
+Ruhige Hand
+KritStatusschaden
+KritElemntschadn
+Profi-S.-Fechter
+Erleuchtete Klinge
+ExplosFallensteller
+Schlagkräftig
+Segen

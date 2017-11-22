@@ -1,0 +1,599 @@
+Ceinture en cuir
+Ceinture de bravoure
+Ceinture en maille
+Tassette de chasseur
+Taille de chasseur
+Tassette d'os
+Taille d'os
+Boucle en alliage
+Taille en alliage
+Kilt de Loc Lac
+Ceinture légère
+Ceinture de fer
+Boucle Bnahabra
+Taille Bnahabra
+Boucle Rhenoplos
+Taille Rhenoplos
+Ceinture Remobra
+Pochette Remobra
+Tassette Jaggi
+Taille Jaggi
+Tassette Genprey
+Taille Genprey
+Tassette Ioprey
+Taille Ioprey
+Tassette Lagombi
+Taille Lagombi
+Tassette Kecha
+Taille Kecha
+Tassette Conga
+Taille Conga
+Tassette Gypceros
+Taille Gypceros
+Tassette Tetsucabra
+Taille Tetsucabra
+Tassette Nerscylla
+Taille Nerscylla
+Tassette Zamtrios
+Taille Zamtrios
+Tassette Najarala
+Taille Najarala
+Tassette Khezu
+Taille Khezu
+Tassette Rathian
+Taille Rathian
+Tassette Velociprey
+Taille Velociprey
+Tassette Kut-Ku
+Taille Kut-Ku
+Tassette Basarios
+Taille Basarios
+Tassette Arzuros
+Taille Arzuros
+Tassette Ludroth
+Taille Ludroth
+Tassette Barroth
+Taille Barroth
+Tassette Nibelsnarf
+Taille Nibelsnarf
+Tassette Ceanataur
+Taille Ceanataur
+Tassette haut-métal
+Taille haut-métal
+Tassette de combat
+Taille de combat
+Tassette Gore
+Taille Gore
+Tassette Rathalos
+Taille Rathalos
+Tassette Tigrex
+Taille Tigrex
+Tassette Zinogre
+Taille Zinogre
+Tassette Seltas
+Taille Seltas
+Tassette Gravios
+Taille Gravios
+Tassette Brachydios
+Taille Brachydios
+Koshiate Crépuscule
+Koshiate Aurore
+Koshiate Mithril
+Koshiate ancestral
+Tassette Archange
+Taille Archange
+Tassette Philia
+Taille Philia
+Tassette Garuga
+Taille Garuga
+Anneau Kirin
+Culotte Kirin
+Tassette Nargacuga
+Taille Nargacuga
+Tassette Uragaan
+Taille Uragaan
+Tassette Duramboros
+Taille Duramboros
+Tassette Lava
+Taille Lava
+Boucle Diablos
+Taille Diablos
+Koshiate Auroros
+Koshiate Genesis
+Koshiate Borealis
+Koshiate Glyphe
+Boucle en lingot
+Taille en lingot
+Boucle Bnahabra S
+Taille Bnahabra S
+Boucle Rhenoplos S
+Taille Rhenoplos S
+Ceinture Remobra S
+Pochette Remobra S
+Tassette Jaggi S
+Taille Jaggi S
+Tassette Genprey S
+Taille Genprey S
+Tassette Ioprey S
+Taille Ioprey S
+Tassette Lagombi S
+Taille Lagombi S
+Tassette Kecha S
+Taille Kecha S
+Tassette Conga S
+Taille Conga S
+Tassette Velociprey S
+Taille Velociprey S
+Tassette Kut-Ku S
+Taille Kut-Ku S
+Tassette Vespoid
+Taille Vespoid
+Tassette Cephalos
+Taille Cephalos
+Tassette Volvidon
+Taille Volvidon
+Tassette Hermitaur
+Taille Hermitaur
+Boucle Qurupeco
+Taille Qurupeco
+Tassette en cuir S
+Taille en cuir S
+Tassette bravoure S
+Taille de bravoure S
+Tassette maille S
+Taille en maille S
+Tassette chasseur S
+Taille de chasseur S
+Tassette d'os S
+Taille d'os S
+Boucle alliage S
+Taille alliage S
+Boucle Chrome
+Taille Chrome
+Feuilles Mosgharl
+Frondes Mosgharl
+Élytre Aelucanth
+Ailes Aelucanth
+Élytre Rhopessa
+Ailes Rhopessa
+Boucle Homard
+Taille Homard
+Boucle Gardien
+Taille Gardien
+Jupe de servante
+Volant de servante
+Boucle de barde
+Taille de barde
+Jupe de clerc
+Minijupe de clerc
+Tassette Conga U
+Taille Conga U
+Tassette Gypceros S
+Taille Gypceros S
+Tassette Tetsucabra S
+Taille Tetsucabra S
+Tassette Nerscylla S
+Taille Nerscylla S
+Tassette Zamtrios S
+Taille Zamtrios S
+Tassette Najarala S
+Taille Najarala S
+Tassette Khezu S
+Taille Khezu S
+Tassette Rathian S
+Taille Rathian S
+Tassette Rathalos S
+Taille Rathalos S
+Tassette Tigrex S
+Taille Tigrex S
+Tassette Zinogre S
+Taille Zinogre S
+Tassette Seltas S
+Taille Seltas S
+Tassette Gravios S
+Taille Gravios S
+Tassette Kut-Ku U
+Taille Kut-Ku U
+Tassette Basarios S
+Taille Basarios S
+Tassette Garuga S
+Taille Garuga S
+Boucle Mono S
+Taille Mono S
+Tassette Blango
+Taille Blango
+Tassette Gobul
+Taille Gobul
+Tassette Barioth
+Taille Barioth
+Tassette haut-métal S
+Taille haut-métal S
+Élytre Nécrologie
+Alae Nécrologie
+Élytre papillon
+Alae papillon
+Boucle Artian S
+Taille Artian S
+Châtelaine Chakra
+Tassette Gore S
+Taille Gore S
+Tassette Regios S
+Taille Regios S
+Tassette Gypceros U
+Taille Gypceros U
+Tassette Khezu U
+Taille Khezu U
+Boucle Cœur Rathian
+Taille Cœur Rathian
+Boucle Âme Rathalos
+Taille Âme Rathalos
+Tassette Tigrex U
+Taille Tigrex U
+Tassette Zinogre U
+Taille Zinogre U
+Tassette Gravios U
+Taille Gravios U
+Tassette Brachydios S
+Taille Brachydios S
+Boucle Vangis
+Taille Vangis
+Tassette Basarios U
+Taille Basarios U
+Anneau Kirin S
+Culotte Kirin S
+Tassette Lagiacrus
+Taille Lagiacrus
+Tassette Agnaktor
+Taille Agnaktor
+Boucle Dober
+Taille Dober
+Boucle Faucon
+Taille Faucon
+Jupe d'érudite
+Volant d'érudite
+Boucle Chevalier
+Jupe Chevalier
+Jupe de soubrette
+Volant de soubrette
+Obi Yukumo Ciel
+Obi Yukumo Terre
+Obi de ranger
+Obi d'archer
+Tassette obi noir
+Taille obi noir
+Jupe de marin
+Minijupe de marin
+Tassette Archange S
+Taille Archange S
+Tassette Philia S
+Taille Philia S
+Obi d'or
+Obi Kuroko
+Obi Ire divine
+Obi Brise-esprit
+Cocon Kushala
+Pagne Kushala
+Tassette Kaiser
+Taille Kaiser
+Koshiate Crépuscule H
+Koshiate Aurore H
+Koshiate Mithril H
+Koshiate ancestral H
+Boucle Rébellion
+Taille Anarchie
+Sangle Akantor
+Écharpe Akantor
+Boucle Solargent
+Taille Solargent
+Boucle Lunedor
+Taille Lunedor
+Tassette Voracité
+Taille Voracité
+Boucle Excello
+Taille Excello
+Dos-de-dragon
+Écaille-de-dragon
+Écaille Fatalis rouge
+Queue Fatalis rouge
+Anneau Kirin U
+Culotte Kirin U
+Sangle Ukanlos
+Écharpe Ukanlos
+Koshiate Indra
+Koshiate inflexible
+Koshimaki Spectre
+Koshimaki Carnage
+Tassette impériale
+Taille impériale
+Maruobi Mizuha
+Maruobi fantasque
+Boucle Helios
+Taille Helios
+Boucle Selene
+Taille Selene
+Pouvoir Escadora
+Force Escadora
+Tassette Rathian EX
+Taille Rathian EX
+Tassette Rathalos EX
+Taille Rathalos EX
+Cocon Kushala EX
+Pagne Kushala EX
+Tassette Kaiser EX
+Taille Kaiser EX
+Tassette Tigrex EX
+Taille Tigrex EX
+Koshiate Yamato
+Koshiate Mutsu
+Koshiate Hyuga
+Koshiate Amagi
+Obi Shinobi Cieux
+Obi Shinobi Terre
+Boucle Étoile bleue
+Taille Étoile bleue
+Boucle Pirate J
+Jupe Pirate J
+Boucle Légende J
+Jupe Légende J
+Ceinture Bouya
+Ceinture Bouya
+Bourse Uniqlo
+Pochette Uniqlo
+Boucle Star Rook
+Taille Star Rook
+Boucle Zodias
+Taille Zodias
+Ceinture du Héros
+Pochette du Héros
+Anneau Kirin U EX
+Culotte Kirin U EX
+Boucle en lingot EX
+Taille en lingot EX
+Boucle Artian EX
+Taille Artian EX
+Tassette Gore Mag EX
+Taille Gore Mag EX
+Boucle Rébellion EX
+Taille Anarchie EX
+Sarong de pâtissier
+Tablier de pâtissier
+Boucle Bnahabra X
+Taille Bnahabra X
+Boucle Rhenoplos X
+Taille Rhenoplos X
+Tassette Ioprey X
+Taille Ioprey X
+Tassette Cephalos X
+Taille Cephalos X
+Tassette Lagombi X
+Taille Lagombi X
+Tassette Kecha X
+Taille Kecha X
+Tassette Kecha Z
+Taille Kecha Z
+Tassette Conga X
+Taille Conga X
+Tassette Conga Z
+Taille Conga Z
+Tassette Gypceros X
+Taille Gypceros X
+Tassette Gypceros Z
+Taille Gypceros Z
+Tassette Hermitaur X
+Taille Hermitaur X
+Tassette Hermit Z
+Taille Hermit Z
+Tassette Tetsucabra X
+Taille Tetsucabra X
+Tassette Tetsucabra Z
+Taille Tetsucabra Z
+Tassette Nerscylla X
+Taille Nerscylla X
+Tassette Zamtrios X
+Taille Zamtrios X
+Tassette Zamtrios Z
+Taille Zamtrios Z
+Tassette Najarala X
+Taille Najarala X
+Tassette Najarala Z
+Taille Najarala Z
+Tassette Khezu X
+Taille Khezu X
+Tassette Khezu Z
+Taille Khezu Z
+Tassette Rathian X
+Taille Rathian X
+Boucle Cœur Rathian Z
+Taille Cœur Rathian Z
+Tassette Velociprey X
+Taille Velociprey X
+Tassette Kut-Ku X
+Taille Kut-Ku X
+Tassette Kut-Ku Z
+Taille Kut-Ku Z
+Tassette Basarios X
+Taille Basarios X
+Tassette Basarios Z
+Taille Basarios Z
+Boucle Qurupeco X
+Taille Qurupeco X
+Tassette Barroth X
+Taille Barroth X
+Tassette Gobul X
+Taille Gobul X
+Tassette Nibelsnarf X
+Taille Nibelsnarf X
+Tassette Barioth X
+Taille Barioth X
+Tassette Agnaktor X
+Taille Agnaktor X
+Tassette Plesioth Z
+Taille Plesioth Z
+Élytre Nécrologie X
+Alae Nécrologie X
+Élytre papillon X
+Alae papillon X
+Élytre Aelucanth X
+Ailes Aelucanth X
+Élytre Rhopessa X
+Ailes Rhopessa X
+Boucle Gardien X
+Taille Gardien X
+Jupe de servante X
+Volant guérisseuse X
+Tassette Regios X
+Taille Regios X
+Tassette Nerscylla Z
+Taille Nerscylla Z
+Tassette Rathalos X
+Taille Rathalos X
+Boucle Âme Rathalos Z
+Taille Âme Rathalos Z
+Tassette Tigrex X
+Taille Tigrex X
+Tassette Tigrex Z
+Taille Tigrex Z
+Tassette Zinogre X
+Taille Zinogre X
+Tassette Zinogre Z
+Taille Zinogre Z
+Tassette Seltas X
+Taille Seltas X
+Tassette Seltas Z
+Taille Seltas Z
+Tassette Gravios X
+Taille Gravios X
+Tassette Gravios Z
+Taille Gravios Z
+Boucle Diablos X
+Taille Diablos X
+Boucle Diablos Z
+Taille Diablos Z
+Tassette Brachydios X
+Taille Brachydios X
+Boucle Vangis X
+Taille Vangis X
+Tassette du chaos
+Taille du chaos
+Tassette Nephilim
+Taille Nephilim
+Tassette Garuga X
+Taille Garuga X
+Boucle Mono X
+Taille Mono X
+Boucle Monodevil
+Taille Monodevil
+Tassette Gore X
+Taille Gore X
+Tassette Nargacuga X
+Taille Nargacuga X
+Tassette Lagiacrus X
+Taille Lagiacrus X
+Tassette Duramboros X
+Taille Duramboros X
+Tassette Lava X
+Taille Lava X
+Boucle Artian X
+Taille Artian X
+Boucle Faucon X
+Taille Faucon X
+Jupe d'érudite X
+Volant d'érudite X
+Tassette As de chasse
+Taille As de chasse
+Tassette Amazone
+Taille Amazone
+Boucle Gardien Z
+Taille Gardien Z
+Jupe de servante Z
+Volant guérisseuse Z
+Boucle Chevalier X
+Jupe Chevalier X
+Jupe de soubrette X
+Volant personnel X
+Tassette Archange X
+Taille Archange X
+Tassette Philia X
+Taille Philia X
+Obi du prophète X
+Obi de l'hermite X
+Obi Ire divine X
+Obi Brise-esprit X
+Cocon Kushala X
+Pagne Kushala X
+Cocon Kujula
+Pagne Kujula
+Tassette Kaiser X
+Taille Kaiser X
+Maruobi Mizuha X
+Maruobi fantasque X
+Koshiate Crépuscule X
+Koshiate Aurore X
+Koshiate Mithril X
+Koshiate ancestral X
+Tassette Gogma
+Taille Gogma
+Boucle Rébellion Z
+Taille Anarchie Z
+Sangle Akantor X
+Écharpe Akantor X
+Sangle Ukanlos X
+Écharpe Ukanlos X
+Tassette Voracité Z
+Taille Voracité Z
+Boucle Excello Z
+Taille Excello Z
+Tassette Brachydium
+Taille Brachydium
+Dos Wroth
+Écaille Wroth
+Anneau Kirin X
+Culotte Kirin X
+Anneau Kirin Z
+Culotte Kirin Z
+Koshimaki Spectre X
+Koshimaki Carnage X
+Koshiate Yamato X
+Koshiate Mutsu X
+Koshiate Hyuga X
+Koshiate Amagi X
+Boucle impériale X
+Taille impériale X
+Boucle Helios X
+Taille Helios X
+Boucle Selene X
+Taille Selene X
+Koshiate Auroros EX
+Koshiate Genesis EX
+Koshiate Borealis EX
+Koshiate Glyphe EX
+Obi Tempête
+Obi céleste
+Poils Miralis
+Écaille Miralis
+Pouvoir Escadora EX
+Force Escadora EX
+Boucle Star Knight
+Taille Star Knight
+Boucle Roi Pirate J
+Jupe Roi Pirate J
+Ceinture Champion
+Ceinture Surhomme
+Boucle Lunedor Z
+Taille Lunedor Z
+Boucle Solargent Z
+Taille Solargent Z
+Boucle Rébellion X
+Taille Anarchie X
+Dos-de-dragon X
+Écaille-de-dragon X
+Dos Fatalis blanc
+Écaille Fatalis blanc
+Surcot de chasseur GX
+Tabar de chasseur GX
+Surcot Voracité GX
+Tabar Voracité GX
+Haobi Tempête GX
+Haobi céleste GX
+Surcot Fatalis rouge GX
+Tabar Fatalis rouge GX

@@ -1,0 +1,138 @@
+﻿-
+&File
+&Options
+&Language
+&Help
+&Load
+&Save
+&Update
+E&xit
+&Clear Settings
+Allow Ba&d Skills
+Allow A&rena Armor
+Allow &Event Armor
+Allow &Japanese-Only DLC
+Allow &Lower Tier Armor
+Show Skill &Points Required for Skills
+Sort Skills Alpha&betically
+Allow Relic &Armor
+Allow Relic &Weapons
+Allow &Gunner Helms
+&Donate
+&Spend spare slots on extra skills
+&What do the skills do?
+Check for &Updates
+&About
+&Charms
+&Import
+&Quick Search
+&Advanced Search
+Ca&ncel
+&Default
+&None
+No Charm
+Unsorted
+&Search
+Select &None
+Select &Best
+&Add New
+&Reset
+De&lete
+Delete &All
+Move &Up
+Move &Down
+&Trim
+&Close
+&Find Next
+Guild Quests
+Caravan Quests
+Max Weapon Slots
+Male
+Female
+No Extra Skill Filtering
+Sort/Filter Results
+Any Charm
+Dragon Res
+Fire Res
+Ice Res
+Thunder Res
+Water Res
+Base Defence
+Max Defence
+Difficulty
+Rarity
+Slots Spare
+Family
+Extra Skills
+Charms
+Use no charms
+Use my charms
+Use slotted charms
+Use up to one skill charms
+Use up to two skill charms
+Skill
+Skills
+Skill Filters
+Blademaster
+Gunner
+Select Armor
+Import Charms
+Characters
+Delete Existing Charms
+Are you sure?
+&Sort
+&Sort by Skill 1
+S&ort by Skill 2
+Slots
+(none)
+1 slot spare
+%1 slots spare
+ (or anything with 1 slot)
+ (or anything with %1 slots)
+ (or anything with Torso Inc)
+Solutions found:
+Showing first %1 solutions only:
+Save data dump
+File is corrupt.
+Version
+Find
+You cheater, you.
+Error
+%1 to %2
+Defence
+Table
+Results
+Unknown charm
+Delete All Charms
+ASS Settings
+&Max Results
+Print &Decoration Names
+%1-%2 Def, %3 Fir, %4 Wat, %5 Ice, %6 Thn, %7 Drg
+%1 %2 Jewel
+&Relics
+Manage Relics
+Relics
+&Save
+&Add New
+&Delete
+&Trim
+Item Type
+Hunter Type
+Both
+Weapon
+Head
+Body
+Arms
+Waist
+Legs
+(%1 possible)
+Show
+Description
+Skills
+Skill Trees
+Armors with points of this skill:
+%1☆
+HR%1
+G%1
+All
+%1 (+%2)

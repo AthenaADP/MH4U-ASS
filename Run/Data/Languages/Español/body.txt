@@ -1,0 +1,629 @@
+﻿Chaleco de cuero
+Chaqueta valerosa
+Chaleco de malla
+Malla de cazador
+Chaleco de cazador
+Malla de hueso
+Chaleco de hueso
+Malla de aleación
+Chaleco de aleación
+Manto de Loc Lac
+Traje de Bnahabra
+Chaleco de Bnahabra
+Capa de Slagtoth
+Cubierta de Slagtoth
+Malla de Rhenoplos
+Chaleco de Rhenoplos
+Traje de Remobra
+Ropaje de Remobra
+Malla de Jaggi
+Chaleco de Jaggi
+Malla de Genprey
+Chaleco de Genprey
+Malla de Ioprey
+Chaleco de Ioprey
+Malla de Lagombi
+Chaleco de Lagombi
+Malla de Kecha
+Chaleco de Kecha
+Malla de Conga
+Chaleco de Conga
+Malla de Gypceros
+Chaleco de Gypceros
+Malla de Tetsucabra
+Chaleco Tetsucabra
+Malla de Nerscylla
+Chaleco de Nerscylla
+Malla de Zamtrios
+Chaleco de Zamtrios
+Malla de Najarala
+Chaleco de Najarala
+Malla de Khezu
+Chaleco de Khezu
+Malla de Rathian
+Chaleco de Rathian
+Malla de Velociprey
+Chaleco Velociprey
+Malla de Kut-Ku
+Chaleco de Kut-Ku
+Malla de Basarios
+Chaleco de Basarios
+Malla de Arzuros
+Chaleco de Arzuros
+Malla de Ludroth
+Chaleco de Ludroth
+Malla de Barroth
+Chaleco de Barroth
+Malla de Nibelsnarf
+Chaleco Nibelsnarf
+Malla de Ceanataur
+Chaleco de Ceanataur
+Malla de megametal
+Chaleco de megametal
+Malla de combate
+Chaleco de combate
+Malla de Gore
+Chaleco de Gore
+Malla de Rathalos
+Chaleco de Rathalos
+Malla de Tigrex
+Chaleco de Tigrex
+Malla de Zinogre
+Chaleco de Zinogre
+Malla de Seltas
+Chaleco de Seltas
+Malla de Gravios
+Chaleco de Gravios
+Malla de Brachydios
+Chaleco Brachydios
+Escama del ocaso
+Escama del alba
+Escama tenaz
+Escama de época
+Malla de arco
+Chaleco de arco
+Malla de amor filial
+Chaleco amor filial
+Malla de Garuga
+Chaleco de Garuga
+Chaqueta de Kirin
+Capa de Kirin
+Malla de Nargacuga
+Chaleco de Nargacuga
+Malla de Uragaan
+Chaleco de Uragaan
+Malla de Duramboros
+Chaleco Duramboros
+Malla de Lava
+Chaleco de Lava
+Malla de Diablos
+Chaleco de Diablos
+Torso de Auroros
+Torso de Génesis
+Pechera de Borealis
+Pechera de Glifo
+Malla Artiana
+Chaleco Artiano
+Malla de lingote
+Chaleco de lingote
+Traje de Bnahabra S
+Chaleco Bnahabra S
+Capa de Slagtoth S
+Cubierta Slagtoth S
+Malla de Rhenoplos S
+Chaleco Rhenoplos S
+Traje de Remobra S
+Ropaje de Remobra S
+Malla de Jaggi S
+Chaleco de Jaggi S
+Malla de Genprey S
+Chaleco de Genprey S
+Malla de Ioprey S
+Chaleco de Ioprey S
+Malla de Lagombi S
+Chaleco de Lagombi S
+Malla de Kecha S
+Chaleco de Kecha S
+Malla de Conga S
+Chaleco de Conga S
+Malla Velociprey S
+Chaleco Velociprey S
+Malla de Kut-Ku S
+Chaleco de Kut-Ku S
+Malla de Vespoid
+Chaleco de Vespoid
+Malla de Cephalos
+Chaleco de Cephalos
+Malla de Volvidon
+Chaleco de Volvidon
+Malla de Hermitaur
+Chaleco de Hermitaur
+Malla de Qurupeco
+Chaleco de Qurupeco
+Malla de Plesioth
+Chaleco de Plesioth
+Malla de cuero S
+Chaleco de cuero S
+Malla valerosa S
+Chaleco valeroso S
+Armadura de malla S
+Chaleco de malla S
+Malla de cazador S
+Chaleco de cazador S
+Malla de hueso S
+Chaleco de hueso S
+Malla de aleación S
+Chaleco aleación S
+Armazón de Mosgharl
+Coraza de Mosgharl
+Tórax de Aelucanth
+Pleura de Aelucanth
+Tórax de Rhopessa
+Pleura de Rhopessa
+Malla de langosta
+Chaleco de langosta
+Traje de guardián
+Chaleco de guardián
+Traje de asistente
+Chaleco de ayudante
+Bolero bardo gremio
+Chaleco bardo gremio
+Blusa de colegiala
+Chaleco de colegiala
+Malla de Conga U
+Chaleco de Conga U
+Malla de Gypceros S
+Chaleco Gypceros S
+Malla Tetsucabra S
+Chaleco Tetsucabra S
+Malla de Nerscylla S
+Chaleco Nerscylla S
+Malla de Zamtrios S
+Chaleco Zamtrios S
+Malla de Najarala S
+Chaleco Najarala S
+Malla de Khezu S
+Chaleco de Khezu S
+Malla de Rathian S
+Chaleco de Rathian S
+Malla de Rathalos S
+Chaleco Rathalos S
+Malla de Tigrex S
+Chaleco de Tigrex S
+Malla de Zinogre S
+Chaleco de Zinogre S
+Malla de Seltas S
+Chaleco de Seltas S
+Malla de Gravios S
+Chaleco de Gravios S
+Malla de Kut-Ku U
+Chaleco de Kut-Ku U
+Malla de Basarios S
+Chaleco Basarios S
+Malla de Garuga S
+Chaleco de Garuga S
+Malla de Mono S
+Chaleco de Mono S
+Malla de Blango
+Chaleco de Blango
+Malla de Gobul
+Chaleco de Gobul
+Malla de Barioth
+Chaleco de Barioth
+Malla de megametal S
+Chaleco megametal S
+Cuerpo de Ioprey
+Ropaje de Ioprey
+Tórax de obituario
+Pleura de obituario
+Tórax de mariposa
+Pleura de mariposa
+Malla Artiana S
+Chaleco Artiano S
+Collar Chakra
+Malla de Gore S
+Chaleco de Gore S
+Malla de Regios S
+Chaleco de Regios S
+Malla de Gypceros U
+Chaleco Gypceros U
+Malla de Khezu U
+Chaleco de Khezu U
+Malla corazón Rath
+Chaleco corazón Rath
+Malla alma de Rath
+Chaleco alma de Rath
+Malla de Tigrex U
+Chaleco de Tigrex U
+Malla de Zinogre U
+Chaleco de Zinogre U
+Malla de Gravios U
+Chaleco de Gravios U
+Malla Brachydios S
+Chaleco Brachydios S
+Malla de Vangis
+Chaleco de Vangis
+Malla de Basarios U
+Chaleco Basarios U
+Chaqueta de Kirin S
+Capa de Kirin S
+Malla de Lagiacrus
+Chaleco de Lagiacrus
+Malla de Agnaktor
+Chaleco de Agnaktor
+Malla de Dober
+Chaleco de Dober
+Traje de halcón
+Chaqueta de halcón
+Traje académico
+Chaqueta académica
+Traje caball. gremio
+Chaleco cab. gremio
+Traje de doncella
+Chaleco de doncella
+Dogi cielo de Yukumo
+Dogi tierra Yukumo
+Cinto de soldado
+Cinto de arquero
+Malla cinturón negro
+Chaleco cint. negro
+Traje de marinero
+Chaleco de marinero
+Malla de arco S
+Chaleco de arco S
+Malla amor filial S
+Chaleco amor filial S
+Haori dorado
+Traje de titiritero
+Haori de ira divina
+Atuendo rompementes
+Cista de Kushala
+Torso de Kushala
+Malla de Káiser
+Chaleco de Káiser
+Archiescama ocaso
+Archiescama del alba
+Archiescama tenaz
+Archiescama de época
+Malla de rebelión
+Chaleco vandálico
+Égida de Akantor
+Placa de Akantor
+Malla sol de plata
+Chaleco sol de plata
+Malla luna dorada
+Chaleco luna dorada
+Malla voraz
+Chaleco voraz
+Malla excelente
+Chaleco excelente
+Piel de dragón
+Pellejo de dragón
+Piel carmesí Fatalis
+Pellejo car. Fatalis
+Chaqueta de Kirin U
+Capa de Kirin U
+Égida de Ukanlos
+Placa de Ukanlos
+Chaleco de Indra
+Chaleco firme
+Vestimenta de Yaksha
+Vestimenta matanza
+Malla de emperatriz
+Chaleco emperatriz
+Guardabrazos Mizuha
+Camisa extravagante
+Malla de Helios
+Chaleco de Helios
+Malla de Selene
+Chaleco de Selene
+Alma Escadora
+Ánima Escadora
+Malla de Rathian EX
+Chaleco Rathian EX
+Malla de Rathalos EX
+Chaleco Rathalos EX
+Cista de Kushala EX
+Torso de Kushala EX
+Malla de Káiser EX
+Chaleco de Káiser EX
+Malla de Tigrex EX
+Chaleco de Tigrex EX
+Doate de Yamato
+Doate de Mutsu
+Muneate de Hyuga
+Muneate de Amagi
+Traje cielo Shinobi
+Traje tierra Shinobi
+Chaqueta de fan
+Chándal de fan
+Chaqueta calavera
+Chupa calavera
+Chaqueta armamento
+Chupa armamento
+Traje estrella azul
+Chaq. estrella azul
+Traje de Capitán J
+Chaleco de Capitán J
+Traje de camuflaje
+Chaqueta camuflaje
+Traje Legend. J
+Chaleco Legend. J
+Chaqueta de Bouya
+Jumper de Bouya
+Bomber de Uniqlo
+Sudadera de Uniqlo
+Malla de luz estelar
+Chaleco luz estelar
+Malla del Zodiaco
+Chaleco del Zodiaco
+Ropas del héroe
+Túnica del héroe
+Chaqueta de ogro
+Chaleco de ogro
+Chaqueta Kirin U EX
+Capa de Kirin U EX
+Malla de lingote EX
+Chaleco lingote EX
+Malla Artiana EX
+Chaleco Artiano EX
+Malla de Magala EX
+Chaleco de Magala EX
+Malla de rebelión EX
+Chaleco vandálico EX
+Traje de pastelero
+Chaleco de pastelero
+Traje de Bnahabra X
+Chaleco Bnahabra X
+Capa de Slagtoth X
+Cubierta Slagtoth X
+Malla de Rhenoplos X
+Chaleco Rhenoplos X
+Malla de Ioprey X
+Chaleco de Ioprey X
+Malla de Cephalos X
+Chaleco de Cephalos X
+Malla de Lagombi X
+Chaleco de Lagombi X
+Malla de Kecha X
+Chaleco de Kecha X
+Malla de Kecha Z
+Chaleco de Kecha Z
+Malla de Conga X
+Chaleco de Conga X
+Malla de Conga Z
+Chaleco de Conga Z
+Malla de Gypceros X
+Chaleco Gypceros X
+Malla de Gypceros Z
+Chaleco Gypceros Z
+Malla de Hermitaur X
+Chaleco Hermitaur X
+Malla de Hermitaur Z
+Chaleco Hermitaur Z
+Malla de Tetsucabra X
+Chaleco Tetsucabra X
+Malla de Tetsucabra Z
+Chaleco Tetsucabra Z
+Malla de Nerscylla X
+Chaleco Nerscylla X
+Malla de Zamtrios X
+Chaleco de Zamtrios X
+Malla de Zamtrios Z
+Chaleco de Zamtrios Z
+Malla de Najarala X
+Chaleco de Najarala X
+Malla de Najarala Z
+Chaleco de Najarala Z
+Malla de Khezu X
+Chaleco de Khezu X
+Malla de Khezu Z
+Chaleco de Khezu Z
+Malla de Rathian X
+Chaleco de Rathian X
+Malla coraz. Rath Z
+Chaleco cor. Rath Z
+Malla de Velociprey X
+Chaleco Velociprey X
+Malla de Kut-Ku X
+Chaleco de Kut-Ku X
+Malla de Kut-Ku Z
+Chaleco de Kut-Ku Z
+Malla de Basarios X
+Chaleco Basarios X
+Malla de Basarios Z
+Chaleco Basarios Z
+Malla de Qurupeco X
+Chaleco Qurupeco X
+Malla de Barroth X
+Chaleco de Barroth X
+Malla de Gobul X
+Chaleco de Gobul X
+Malla Nibelsnarf X
+Chaleco Nibelsnarf X
+Malla de Barioth X
+Chaleco de Barioth X
+Malla de Agnaktor X
+Chaleco Agnaktor X
+Malla de Plesioth Z
+Chaleco Plesioth Z
+Chaqueta estelar Kita
+Chaqueta océano Umi
+Tórax de obituario X
+Pleura obituario X
+Tórax de mariposa X
+Pleura de mariposa X
+Tórax de Aelucanth X
+Pleura Aelucanth X
+Tórax de Rhopessa X
+Pleura de Rhopessa X
+Traje de guardián X
+Chaleco guardián X
+Chaleco ayudante X
+Chaleco sanador X
+Malla de Regios X
+Chaleco de Regios X
+Malla de Nerscylla Z
+Chaleco Nerscylla Z
+Malla de Rathalos X
+Chaleco Rathalos X
+Malla alma Rath Z
+Chaleco alma Rath Z
+Malla de Tigrex X
+Chaleco de Tigrex X
+Malla de Tigrex Z
+Chaleco de Tigrex Z
+Malla de Zinogre X
+Chaleco de Zinogre X
+Malla de Zinogre Z
+Chaleco de Zinogre Z
+Malla de Seltas X
+Chaleco de Seltas X
+Malla de Seltas Z
+Chaleco de Seltas Z
+Malla de Gravios X
+Chaleco de Gravios X
+Malla de Gravios Z
+Chaleco de Gravios Z
+Malla de Diablos X
+Chaleco de Diablos X
+Malla de Diablos Z
+Chaleco de Diablos Z
+Malla Brachydios X
+Chaleco Brachydios X
+Malla de Vangis X
+Chaleco de Vangis X
+Malla caótica
+Chaleco caótico
+Malla de Nephilim
+Chaleco de Nephilim
+Malla de Garuga X
+Chaleco de Garuga X
+Malla de Mono X
+Chaleco Mono X
+Malla de Monodevil
+Chaleco de Monodevil
+Malla de Gore X
+Chaleco de Gore X
+Malla de Nargacuga X
+Chaleco Nargacuga X
+Malla de Lagiacrus X
+Chaleco Lagiacrus X
+Malla Duramboros X
+Chaleco Duramboros X
+Malla de Lava X
+Chaleco de Lava X
+Malla Artiana X
+Chaleco Artiano X
+Traje de halcón X
+Chaqueta de halcón X
+Traje académico X
+Chaqueta académica X
+Malla de élite
+Chaleco de élite
+Malla fraternal
+Chaleco fraternal
+Traje de guardián Z
+Chaleco guardián Z
+Chaleco ayudante Z
+Chaleco de sanador Z
+Traje g. caballero X
+Chal. g. caballero X
+Traje de doncella X
+Chaleco exclusivo X
+Malla de arco X
+Chaleco de arco X
+Malla amor filial X
+Chaleco amor filial X
+Gran toga divina
+Gran toga ermitaño
+Gran toga ira divina
+Gran toga rompementes
+Cista de Kushala X
+Torso de Kushala X
+Cista de Kujula
+Torso de Kujula
+Malla de Káiser X
+Chaleco de Káiser X
+Gran guardab. Mizuha
+Gr. camisa extravag.
+Gran placa del ocaso
+Gran placa del alba
+Gran placa tenaz
+Gran placa de época
+Malla de Gogma
+Chaleco de Gogma
+Malla de rebelión Z
+Chaleco vandálico Z
+Égida de Akantor X
+Placa de Akantor X
+Égida de Ukanlos X
+Placa de Ukanlos X
+Malla voraz Z
+Chaleco voraz Z
+Malla excelente Z
+Chaleco excelente Z
+Malla de Brachydium
+Chaleco de Brachydium
+Piel furiosa
+Pell. furioso
+Chaqueta de Kirin X
+Capa de Kirin X
+Chaqueta de Kirin Z
+Capa de Kirin Z
+Vestim. Gran Yaksha
+Gran vestim. matanza
+Doate de Gran Yamato
+Doate de Gran Mutsu
+Muneate Gran Hyuga
+Muneate Gran Amagi
+Malla emperatriz X
+Chaleco emperatriz X
+Malla de Helios X
+Chaleco de Helios X
+Malla de Selene X
+Chaleco de Selene X
+Torso de Auroros EX
+Torso de Génesis EX
+Pechera borealis EX
+Pechera de glifo EX
+Toga de tempestad
+Toga de firmamento
+Peto de Miralis
+Pechera de Miralis
+Alma Escadora EX
+Ánima Escadora EX
+Chándal dorado fan
+Chándal plateado fan
+Malla caball. estelar
+Chal. caball. estelar
+Traje de Rey Pirata J
+Chaleco de Rey Pirata J
+Cuerpo de campeón
+Cuerpo musculoso
+Armadura climática
+Barrera climática
+Cuerpo traje Zero
+Ropa traje Zero
+Malla luna dorada Z
+Chal. luna dorada Z
+Malla sol de plata Z
+Chal. sol de plata Z
+Malla de rebelión X
+Chaleco vandálico X
+Piel de dragón X
+Pellejo de dragón X
+Piel Fatalis blanco
+Pell. Fatalis blanco
+Armadura cazador GX
+Pizane de cazador GX
+Armadura voraz GX
+Pizane voraz GX
+Vestidura Escadora GX
+Vest. firmamento GX
+Armd. car. Fatalis GX
+Piz. car. Fatalis GX
+Malla de ira
+Chaleco de ira
+Malla de Anat
+Chaleco de Anat

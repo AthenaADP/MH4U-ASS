@@ -1,0 +1,643 @@
+Coiffe en cuir
+Coiffe de bravoure
+Coiffe en maille
+Heaume de chasseur
+Calot de chasseur
+Heaume d'os
+Calot d'os
+Heaume en alliage
+Calot en alliage
+Chapeau Bnahabra
+Calot Bnahabra
+Capuche Slagtoth
+Coule Slagtoth
+Heaume Rhenoplos
+Calot Rhenoplos
+Tête Remobra
+Visage Remobra
+Heaume Jaggi
+Calot Jaggi
+Heaume Genprey
+Calot Genprey
+Heaume Ioprey
+Calot Ioprey
+Heaume Lagombi
+Calot Lagombi
+Heaume Kecha
+Calot Kecha
+Heaume Conga
+Calot Conga
+Heaume Gypceros
+Calot Gypceros
+Heaume Tetsucabra
+Calot Tetsucabra
+Heaume Nerscylla
+Calot Nerscylla
+Heaume Zamtrios
+Calot Zamtrios
+Heaume Najarala
+Calot Najarala
+Heaume Khezu
+Calot Khezu
+Heaume Rathian
+Calot Rathian
+Heaume Velociprey
+Calot Velociprey
+Heaume Kut-Ku
+Calot Kut-Ku
+Heaume Basarios
+Calot Basarios
+Heaume Arzuros
+Calot Arzuros
+Heaume Ludroth
+Calot Ludroth
+Heaume Barroth
+Calot Barroth
+Heaume Nibelsnarf
+Calot Nibelsnarf
+Heaume Ceanataur
+Calot Ceanataur
+Heaume haut-métal
+Calot haut-métal
+Heaume de combat
+Calot de combat
+Heaume Gore
+Calot Gore
+Heaume Rathalos
+Calot Rathalos
+Heaume Tigrex
+Calot Tigrex
+Heaume Zinogre
+Calot Zinogre
+Heaume Seltas
+Calot Seltas
+Heaume Gravios
+Calot Gravios
+Heaume Brachydios
+Calot Brachydios
+Kabuto Crépuscule
+Jingasa Aurore
+Kabuto Mithril
+Kanmuri ancestral
+Heaume Archange
+Calot Archange
+Heaume Philia
+Calot Philia
+Heaume Garuga
+Calot Garuga
+Corne Kirin
+Crête Kirin
+Heaume Nargacuga
+Calot Nargacuga
+Heaume Uragaan
+Calot Uragaan
+Heaume Duramboros
+Calot Duramboros
+Heaume Lava
+Calot Lava
+Heaume Diablos
+Calot Diablos
+Kabuto Auroros
+Eboshi Genesis
+Hachigane Borealis
+Hachigane Glyphe
+Heaume en lingot
+Calot en lingot
+Masque Gargwa
+Masque Jaggi
+Regard du roi-dragon
+Plume d'amitié
+Chapeau Bnahabra S
+Calot Bnahabra S
+Capuche Slagtoth S
+Coule Slagtoth S
+Heaume Rhenoplos S
+Calot Rhenoplos S
+Tête Remobra S
+Visage Remobra S
+Heaume Jaggi S
+Calot Jaggi S
+Heaume Genprey S
+Calot Genprey S
+Heaume Ioprey S
+Calot Ioprey S
+Heaume Lagombi S
+Calot Lagombi S
+Heaume Kecha S
+Calot Kecha S
+Heaume Conga S
+Calot Conga S
+Heaume Velociprey S
+Calot Velociprey S
+Heaume Kut-Ku S
+Calot Kut-Ku S
+Heaume Vespoid
+Calot Vespoid
+Heaume Cephalos
+Calot Cephalos
+Heaume Volvidon
+Calot Volvidon
+Heaume Hermitaur
+Calot Hermitaur
+Heaume Qurupeco
+Calot Qurupeco
+Heaume Plesioth
+Calot Plesioth
+Heaume en cuir S
+Calot en cuir S
+Heaume de bravoure S
+Calot de bravoure S
+Heaume en maille S
+Calot en maille S
+Heaume de chasseur S
+Calot de chasseur S
+Heaume d'os S
+Calot d'os S
+Heaume en alliage S
+Calot en alliage S
+Visière Mosgharl
+Voile Mosgharl
+Vertex Aelucanth
+Clypeus Aelucanth
+Vertex Rhopessa
+Clypeus Rhopessa
+Heaume Homard
+Calot Homard
+Heaume Gardien
+Masque Gardien
+Capuchon de servante
+Calot de servante
+Fedora de barde
+Chapeau de barde
+Béret de clerc
+Calot de clerc
+Heaume Conga U
+Calot Conga U
+Heaume Gypceros S
+Calot Gypceros S
+Heaume Tetsucabra S
+Calot Tetsucabra S
+Heaume Nerscylla S
+Calot Nerscylla S
+Heaume Zamtrios S
+Calot Zamtrios S
+Heaume Najarala S
+Calot Najarala S
+Heaume Khezu S
+Calot Khezu S
+Heaume Rathian S
+Calot Rathian S
+Heaume Rathalos S
+Calot Rathalos S
+Heaume Tigrex S
+Calot Tigrex S
+Heaume Zinogre S
+Calot Zinogre S
+Heaume Seltas S
+Calot Seltas S
+Heaume Gravios S
+Calot Gravios S
+Heaume Kut-Ku U
+Calot Kut-Ku U
+Heaume Basarios S
+Calot Basarios S
+Heaume Garuga S
+Calot Garuga S
+Heaume Mono S
+Calot Mono S
+Heaume Blango
+Calot Blango
+Heaume Gobul
+Calot Gobul
+Heaume Barioth
+Calot Barioth
+Tête de mort
+Visage de mort
+Heaume haut-métal S
+Calot haut-métal S
+Tête Ioprey
+Visage Ioprey
+Vertex Nécrologie
+Clypeus Nécrologie
+Vertex papillon
+Clypeus papillon
+Heaume Artian S
+Calot Artian S
+Boucle d'oreille Chakra
+Heaume Gore S
+Calot Gore S
+Heaume Regios S
+Calot Regios S
+Heaume Gypceros U
+Calot Gypceros U
+Heaume Khezu U
+Calot Khezu U
+Heaume Cœur Rathian
+Calot Cœur Rathian
+Heaume Âme Rathalos
+Calot Âme Rathalos
+Heaume Tigrex U
+Calot Tigrex U
+Heaume Zinogre U
+Calot Zinogre U
+Heaume Gravios U
+Calot Gravios U
+Heaume Brachydios S
+Calot Brachydios S
+Heaume Vangis
+Calot Vangis
+Heaume Basarios U
+Calot Basarios U
+Corne Kirin S
+Crête Kirin S
+Heaume Lagiacrus
+Calot Lagiacrus
+Heaume Agnaktor
+Calot Agnaktor
+Heaume Dober
+Calot Dober
+Chapeau Faucon
+Calot Faucon
+Capuchon d'érudite
+Coiffe d'érudite
+Plume Chevalier
+Masque Chevalier
+Serre-tête soubrette
+Coiffe de soubrette
+Kasa Yukumo Ciel
+Kasa Yukumo Terre
+Coiffe de ranger
+Cagoule d'archer
+Heaume obi noir
+Calot obi noir
+Chapeau de marin
+Béret de marin
+Heaume Archange S
+Calot Archange S
+Heaume Philia S
+Calot Philia S
+Coiffure d'or
+Cagoule Kuroko
+Coiffure Ire divine
+Cagoule Brise-esprit
+Regard Kushala
+Grondement Kushala
+Couronne Kaiser
+Masque Kaiser
+Kabuto Crépuscule H
+Jingasa Aurore H
+Kabuto Mithril H
+Kanmuri ancestrale H
+Heaume Rébellion
+Calot Anarchie
+Kran Akantor
+Crocs Akantor
+Heaume Solargent
+Calot Solargent
+Heaume Lunedor
+Calot Lunedor
+Heaume Voracité
+Calot Voracité
+Heaume Excello
+Calot Excello
+Tête-de-dragon
+Visage-de-dragon
+Tête Fatalis rouge
+Visage Fatalis rouge
+Corne Kirin U
+Crête Kirin U
+Kran Ukanlos
+Crocs Ukanlos
+Kabuto Indra
+Kabuto inflexible
+O-men Spectre
+O-men Carnage
+Tiare impériale
+Masque impérial
+Eboshi Mizuha
+Eboshi fantasque
+Heaume Helios
+Calot Helios
+Heaume Selene
+Calot Selene
+Sérénité Escadora
+Sagesse Escadora
+Heaume Rathian EX
+Calot Rathian EX
+Heaume Rathalos EX
+Calot Rathalos EX
+Regard Kushala EX
+Grondement Kushala EX
+Couronne Kaiser EX
+Masque Kaiser EX
+Heaume Tigrex EX
+Calot Tigrex EX
+Kabuto Yamato
+Eboshi Mutsu
+Hachigane Hyuga
+Hachigane Amagi
+Masque Shinobi Cieux
+Masque Shinobi Terre
+Lunettes ingénieuses
+Serre-tête Felyne
+Pare-soleil
+Masque de Sgt. Grenouille
+Fedora Étoile bleue
+Chapeau Étoile bleue
+Chapeau Pirate J
+Coiffe Pirate J
+Chapeau de Légende J
+Coiffe de Légende J
+Capuchon Uniqlo
+Casquette Uniqlo
+Heaume Star Rook
+Calot Star Rook
+Heaume Zodias
+Calot Zodias
+Chapeau du Héros
+Coiffe du Héros
+Épines de Rage
+Coiffe menaçante
+Corne Kirin U EX
+Crête Kirin U EX
+Heaume en lingot EX
+Calot en lingot EX
+Heaume Artian EX
+Calot Artian EX
+Heaume Gore EX
+Calot Gore EX
+Heaume Rébellion EX
+Calot Anarchie EX
+Plume de victoire
+Plume de champion
+Plume de seigneur
+Toque de pâtissier
+Coiffe de pâtissier
+Chapeau Bnahabra X
+Calot Bnahabra X
+Capuche Slagtoth X
+Coule Slagtoth X
+Heaume Rhenoplos X
+Calot Rhenoplos X
+Heaume Ioprey X
+Calot Ioprey X
+Heaume Cephalos X
+Calot Cephalos X
+Heaume Lagombi X
+Calot Lagombi X
+Heaume Kecha X
+Calot Kecha X
+Heaume Kecha Z
+Calot Kecha Z
+Heaume Conga X
+Calot Conga X
+Heaume Conga Z
+Calot Conga Z
+Heaume Gypceros X
+Calot Gypceros X
+Heaume Gypceros Z
+Calot Gypceros Z
+Heaume Hermitaur X
+Calot Hermitaur X
+Heaume Hermitaur Z
+Calot Hermitaur Z
+Heaume Tetsucabra X
+Calot Tetsucabra X
+Heaume Tetsucabra Z
+Calot Tetsucabra Z
+Heaume Nerscylla X
+Calot Nerscylla X
+Heaume Zamtrios X
+Calot Zamtrios X
+Heaume Zamtrios Z
+Calot Zamtrios Z
+Heaume Najarala X
+Calot Najarala X
+Heaume Najarala Z
+Calot Najarala Z
+Heaume Khezu X
+Calot Khezu X
+Heaume Khezu Z
+Calot Khezu Z
+Heaume Rathian X
+Calot Rathian X
+Heaume Cœur Rathian Z
+Calot Cœur Rathian Z
+Heaume Velociprey X
+Calot Velociprey X
+Heaume Kut-Ku X
+Calot Kut-Ku X
+Heaume Kut-Ku Z
+Calot Kut-Ku Z
+Heaume Basarios X
+Calot Basarios X
+Heaume Basarios Z
+Calot Basarios Z
+Heaume Qurupeco X
+Calot Qurupeco X
+Heaume Barroth X
+Calot Barroth X
+Heaume Gobul X
+Calot Gobul X
+Heaume Nibelsnarf X
+Calot Nibelsnarf X
+Heaume Barioth X
+Calot Barioth X
+Heaume Agnaktor X
+Calot Agnaktor X
+Heaume Plesioth Z
+Calot Plesioth Z
+Coiffure Hokushin
+Coiffure Océan
+Vertex Nécrologie X
+Clypeus Nécrologie X
+Vertex papillon X
+Clypeus papillon X
+Vertex Aelucanth X
+Clypeus Aelucanth X
+Vertex Rhopessa X
+Clypeus Rhopessa X
+Heaume Gardien X
+Masque Gardien X
+Capuchon servante X
+Lunettes guérisseuse X
+Heaume Regios X
+Calot Regios X
+Heaume Nerscylla Z
+Calot Nerscylla Z
+Heaume Rathalos X
+Calot Rathalos X
+Heaume Âme Rathalos Z
+Calot Âme Rathalos Z
+Heaume Tigrex X
+Calot Tigrex X
+Heaume Tigrex Z
+Calot Tigrex Z
+Heaume Zinogre X
+Calot Zinogre X
+Heaume Zinogre Z
+Calot Zinogre Z
+Heaume Seltas X
+Calot Seltas X
+Heaume Seltas Z
+Calot Seltas Z
+Heaume Gravios X
+Calot Gravios X
+Heaume Gravios Z
+Calot Gravios Z
+Heaume Diablos X
+Calot Diablos X
+Heaume Diablos Z
+Calot Diablos Z
+Heaume Brachydios X
+Calot Brachydios X
+Heaume Vangis X
+Calot Vangis X
+Heaume du chaos
+Calot du chaos
+Heaume Nephilim
+Calot Nephilim
+Heaume Garuga X
+Calot Garuga X
+Heaume Mono X
+Calot Mono X
+Heaume Monodevil
+Calot Monodevil
+Heaume Gore X
+Calot Gore X
+Heaume Nargacuga X
+Calot Nargacuga X
+Heaume Lagiacrus X
+Calot Lagiacrus X
+Heaume Duramboros X
+Calot Duramboros X
+Heaume Lava X
+Calot Lava X
+Heaume Artian X
+Calot Artian X
+Chapeau Faucon X
+Calot Faucon X
+Capuchon d'érudite X
+Coiffe d'érudite X
+Tête As de chasse
+Visage As de chasse
+Tête Amazone
+Visage Amazone
+Heaume Gardien Z
+Masque Gardien Z
+Capuchon servante Z
+Béret guérisseuse Z
+Plume Chevalier X
+Masque Chevalier X
+Serre-tête soubrette X
+Lunettes branchées X
+Serre-tête Felyne X
+Heaume Archange X
+Calot Archange X
+Heaume Philia X
+Calot Philia X
+Coiffure du prophète X
+Coiffure de l'hermite X
+Coiffure Ire divine X
+Coiffure Brise-esprit
+Regard Kushala X
+Grondement Kushala X
+Regard Kujala
+Grondement Kujula
+Couronne Kaiser X
+Masque Kaiser X
+Menbo Mizuha X
+Eboshi fantasque X
+Kabuto Crépuscule X
+Kabuto Aurore X
+Kabuto Mithril X
+Kabuto ancestral X
+Heaume Gogma
+Calot Gogma
+Heaume Rébellion Z
+Calot Anarchie Z
+Kran Akantor X
+Crocs Akantor X
+Kran Ukanlos X
+Crocs Ukanlos X
+Heaume Voracité Z
+Calot Voracité Z
+Heaume Excello Z
+Calot Excello Z
+Heaume Brachydium
+Calot Brachydium
+Tête Wroth
+Visage Wroth
+Corne Kirin X
+Crête Kirin X
+Corne Kirin Z
+Crête Kirin Z
+O-men Spectre X
+O-men Carnage X
+Kabuto Yamato X
+Jingasa Mutsu X
+Hachigane Hyuga X
+Jingasa Amagi X
+Tiare impériale X
+Masque impérial X
+Heaume Helios X
+Calot Helios X
+Heaume Selene X
+Calot Selene X
+Kabuto Auroros EX
+Eboshi Genesis EX
+Hachigane Borealis EX
+Hachigane Glyphe EX
+Kanmuri Tempête
+Kanmuri céleste
+Diadème Miralis
+Visage Miralis
+Sérénité Escadora EX
+Sagesse Escadora EX
+Heaume Star Knight
+Calot Star Knight
+Chapeau Roi Pirate J
+Coiffe Roi Pirate J
+Tête de Champion
+Tête du Surhomme
+Visière Varia
+Scope Varia
+Queue de cheval Zéro
+Masque Zéro
+Chaospignon
+Masque Velociprey
+Masque Giaprey
+Masque Genprey
+Masque Mosswine
+Masque Bulldrome
+Masque Garuga
+Faux Felyne
+Heaume châtaigne
+Frangin camarade
+Heaume Lunedor Z
+Calot Lunedor Z
+Heaume Solargent Z
+Calot Solargent Z
+Heaume Rébellion X
+Calot Anarchie X
+Tête-de-dragon X
+Visage-de-dragon X
+Tête Fatalis blanc
+Visage Fatalis blanc
+Casque de chasseur GX
+Armet de chasseur GX
+Casque Voracité GX
+Armet Voracité GX
+Diadème Tempête GX
+Diadème céleste GX
+Casque Fatalis rg GX
+Armet Fatalis rouge GX
+Heaume hérétique
+Calot hérétique
+Heaume Anat
+Calot Anat
+Lunettes d'artisan
+Ampliplumes
+Piercing œil de faucon
+Piercing fine lame
+Piercing barrage

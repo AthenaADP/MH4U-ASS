@@ -1,0 +1,421 @@
+﻿Veneno
+Parálisis
+Sueño
+Aturdir
+Barro/Nieve
+Piel dura
+Biólogo
+Ataque
+Defensa
+Salud
+Recuperac.
+Protección
+Vaina veloz
+Carga veloz
+Curtido
+Maza
+Destructor
+Boxeador
+Robarresis.
+Constitución
+Prot. oído
+Res. viento
+Res. temblor
+Res. calor
+Res. frío
+Resistencia (Corredor)
+Estad. forma
+Evasión
+Dis. evasión
+Sentido
+Guardia
+Escudo
+Est. anor.
+Atq. elem.
+Atq. fuego
+Atq. agua
+Atq. rayo
+Atq. hielo
+Atq. draco
+Res. fuego
+Res. agua
+Res. rayo
+Res. hielo
+Res. draco
+Cuchilla
+Artesano
+Afilador
+Pena inmed.
+Desenfunde
+Esgrima
+Vel. recarg.
+Carga+
+Disp. bonus
+Cadencia
+Precisión
+Disparo+
+Perforar+
+Perdigón+
+Mun. normal
+Mun. perfor.
+Mun. perdig.
+Mun. explos.
+Mun. fragm.
+Mun. cortad.
+Mun. nitro
+Rv. veneno
+Rv. paraliz.
+Rv. sueño
+Rv. energía
+Rv. alcance
+Rev. fatiga
+Rev. nitro
+Músico
+Artillería
+Bombardero
+Curación
+Efecto área
+Duración
+Hambre
+Glotonería
+Consumir
+Carnívoro
+Combinación
+Combinac.+
+Recogida
+Vel. recog.
+Capricho
+Miel
+Amuleto
+Suerte
+Cortador
+Capturas
+Percepción
+Psíquica
+Mochilero
+Soldado
+Antirrobo
+Trampero
+Aura llama
+Potencial
+Superviv.
+Poder
+Espíritu
+Ileso
+Despertar
+Tripas
+En equipo
+Liderazgo
+Autoguardia
+Res. plaga
+Bienestar
+Furia
+Punzante
+Pulso firme
+Invencible
+Fiereza
+Resistencia (Muro de hierro)
+Codicia
+Res. cólera
+Brutalidad
+Comandante
+Monta
+Iai-do
+Destreza
+Lealtad
+Prudencia
+Acaparar
+Amplificar
+Sangrado
+Comeluces
+Micología
+Comepoder
+Res. pegaj.
+Puntería
+Encubierto
+Saber filo
+Crít. est.
+Crít. elm.
+Esgrima s.
+Arcano
+Mecánico
+Músculos
+Oración
+Torso+
+
+Anula veneno
+Doble veneno
+Anula parálisis
+Doble parálisis
+Anula sueño
+Doble sueño
+Mitad aturdimiento
+Anula aturdimiento
+Doble aturdimiento
+Anula Barro/Nieve
+Piel de hierro
+Bioinvestigador
+Biólogo
+Ataque +1
+Ataque +2
+Ataque +3
+Ataque +4
+Ataque -1
+Ataque -2
+Ataque -3
+Defensa +1
+Defensa +2
+Defensa +3
+Defensa +4
+Defensa -1
+Defensa -2
+Defensa -3
+Salud +20
+Salud +50
+Salud -10
+Salud -30
+Recuperación +1
+Recuperación +2
+Recuperación -1
+Recuperación -2
+Bendición divina
+Bendic. demoníaca
+Vaina rápida
+Concentración
+Distracción
+Ojo crítico +1
+Ojo crítico +2
+Ojo crítico +3
+Dios crítico
+Ojo crítico -1
+Ojo crítico -2
+Ojo crítico -3
+Maza
+Destructor
+Boxeador
+Robarresistencia
+Constitución +1
+Constitución +2
+Constitución -1
+Constitución -2
+Tapones +1
+Tapones +2
+Resist. viento +1
+Resist. viento +2
+Resistencia temblor
+Anula el calor
+Aumentar calor
+Anula el frío
+Aumentar frío
+Corredor +1
+Corredor -1
+Estado forma +1
+Estado forma -1
+Evasión +1
+Evasión +2
+Evasión +3
+Evasión -1
+Distancia evasión
+Sigilo
+Provocación
+Guardia +1
+Guardia +2
+Guardia -1
+Escudo
+Estado anormal +1
+Estado anormal +2
+Estado anormal -1
+Elemental +1
+Elemental -1
+Ataque fuego +1
+Ataque fuego +2
+Ataque fuego +3
+Ataque fuego -1
+Ataque agua  +1
+Ataque agua  +2
+Ataque agua  +3
+Ataque agua -1
+Ataque rayo +1
+Ataque rayo +2
+Ataque rayo +3
+Ataque rayo -1
+Ataque hielo +1
+Ataque hielo +2
+Ataque hielo +3
+Ataque hielo -1
+Ataque draco +1
+Ataque draco +2
+Ataque draco +3
+Ataque draco -1
+Resist. fuego +15
+Resist. fuego +20
+Resist. fuego -20
+Resist. agua +15
+Resist. agua +20
+Resist. agua -20
+Resist. rayo +15
+Resist. rayo +20
+Resist. rayo -20
+Resist. hielo +15
+Resist. hielo +20
+Resist. hielo -20
+Resist. draco +15
+Resist. draco +20
+Resist. draco -20
+Filo de cuchilla
+Filo romo
+Afilado +1
+Afilado rápido
+Afilado lento
+Pena inmediata
+Desenf. especial
+Ojo preciso
+Ojo ciego
+Vel. recarga +1
+Vel. recarga +2
+Vel. recarga +3
+Vel. recarga -1
+Vel. recarga -2
+Vel. recarga -3
+Carga+
+Disparo bonus
+Cadencia +1
+Cadencia +2
+Cadencia +3
+Cadencia -1
+Cadencia -2
+Cadencia -3
+Precisión +1
+Precisión +2
+Precisión -1
+Precisión -2
+Normal/salva+
+Perforante+
+Perdigón/abanico+
+Mun. normal
+Mun. perfor. Nv1
+Mun. perforadora
+Mun. perdigón Nv1
+Mun. perdigón
+Mun. explosiva Nv1
+Mun. explosiva
+Mun. fragment. Nv1
+Mun. fragmentación
+Mun. cortadora
+Mun. nitro
+Revestim. veneno
+Revestim. paraliz.
+Revestim. sueño
+Revestim. energía
+Revestim. alcance
+Revestim. fatiga
+Revestim. nitro
+Músico
+Artillería +1
+Artillería +2
+Dios artillero
+Bombardero
+Curación +1
+Curación -1
+Efecto área +1
+Efecto área +2
+Efecto objeto +1
+Efecto objeto -1
+Mitad hambre
+Anula hambre
+Aumenta hambre
+Doble hambre
+Glotón
+Carroñero
+Consumir +1
+Consumir +2
+Consumir -1
+Carnívoro
+Combinación +20%
+Combinación +45%
+Combinación -10%
+Combinación -20%
+Combinación+
+Recogida +1
+Recogida +2
+Dios recogedor
+Recogida -1
+Veloc. recogida
+Capricho +1
+Capricho +2
+Capricho -1
+Capricho -2
+Cazamiel
+Recogeamuletos
+Buscamuletos
+Dios del amuleto
+Suerte
+Suerte +1
+Suerte +2
+Suerte -1
+Suerte -2
+Experto cortador
+Célebre cortante
+Dios cortador
+Experto capturas
+Maestro capturas
+Dios capturador
+Gurú de captura
+Detectar
+Autorrastreador
+Experto mochilero
+Soldado
+Antirrobo
+Trampero
+Aura llama
+Adrenalina +1
+Adrenalina +2
+Agobiado
+Fortalecer
+Poder oculto +1
+Poder oculto +2
+Espíritu +1
+Espíritu +2
+Plena forma
+Despertar
+Tripas
+Reunión camaradas
+Ovación camaradas
+Autoguardia
+Antiplagas
+Bienestar
+Furia
+Punzante
+Pulso firme
+Invencible
+Sed de sangre
+Muro de hierro
+Cazarrecompensas
+Antivirus
+Crueldad
+Héroe camarada
+Maestro de monta
+Dios del rodeo
+Dolor de nalgas
+Iai-jutsu
+Acróbata
+Portaescudos
+Pies veloces
+Rataque
+Elementalidad
+Anula sangrado
+Sangrado doble
+Repartidor
+Micólogo
+Estómago fuerte
+Anula brea
+Trayectoria
+Clandestino
+Mano firme
+Crít. estado
+Crít. elemental
+Esgrimista sucio
+Espada iluminada
+Colocaexplosivos
+Pegando fuerte
+Bendición

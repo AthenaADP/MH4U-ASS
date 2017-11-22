@@ -1,0 +1,202 @@
+﻿Joya firme 1
+Joya rotunda 1
+Joya inmóvil 1
+Joya inmóvil 2
+Joya sueño 1
+Joya sueño 2
+Joya antidoto 1
+Joya antidoto 2
+Joya bloqueo 1
+Joya alarma 1
+Joya rastreo 1
+Joya vigía 1
+Joya torniq. 1
+Joya limpia 1
+Joya cordura 1
+Joya cordura 3
+Joya ancla 1
+Joya sísmica 1
+J. res. calor 1
+J. res. frío 1
+Joya tapones 1
+Joya tapones 3
+J. res. viento 1
+J. res. viento 2
+Joya ataque 1
+Joya ataque 2
+Joya ataque 3
+Joya experto 1
+Joya experto 2
+Joya experto 3
+Joya estado 1
+Joya estado 2
+Joya elemento 1
+Joya elemento 3
+Joya fuego 1
+Joya fuego 2
+Joya agua 1
+Joya agua 2
+Joya rayo 1
+Joya rayo 2
+Joya hielo 1
+Joya hielo 2
+Joya draco 1
+Joya draco 2
+Joya maza 1
+Joya maza 3
+Joya destr. 1
+Joya destr. 3
+J. crit. elem. 1
+J. crit. elem. 2
+J. crt. estado 1
+J. crt. estado 2
+Joya carga 2 (Solo artillero)
+Joya carga 3 (Solo artillero)
+Joya cargada 3 (Solo artillero)
+Joya carga 1
+Joya carga 3
+Joya poder 1
+Joya poder 2
+Joya boxeo 1
+Joya boxeo 2
+Joya débil 1
+Joya débil 2
+Joya potencia 1
+Joya potencia 2
+Joya superv. 1
+Joya superv. 2
+Joya bomba 1
+Joya músico 1
+Joya artillera 1
+Joya defensa 1
+Joya defensa 2
+Joya defensa 3
+Joya resist. 1
+Joya resist. 3
+J. res. fuego 1
+J. antifuego 1
+J. res. agua 1
+J. antiagua 1
+J. res. rayo 1
+J. antirayo 1
+J. res. hielo 1
+J. antihielo 1
+J. res. draco 1
+J. antidraco 1
+Joya protecc. 1
+Joya celest. 1
+Joya fuerza 1
+Joya recup. 1
+Joya recup. 2
+Joya curador 1
+Joya curador 2
+Joya evadir 1
+Joya evadir 2
+Joya salto 1
+Joya salto 2
+Joya enfund. 1
+Joya enfund. 2
+Joya trampas 1
+Joya tragón 1
+Joya tragón 3
+Joya saciada 1
+Joya veloz 1
+Joya veloz 3
+Joya salud 1
+Joya salud 2
+Joya forma 1
+Joya forma 2
+Joya antigula 1
+Joya glotón 1
+Joya suerte 1
+Joya suerte 3
+Joya captura 1
+Joya captura 3
+Joya cortante 1
+Joya cortante 3
+Joya mochila 1
+Joya recoge 1
+Joya colector 1
+Joya bendita 1
+Joya amistad 1
+Joya amistad 2
+Joya psique 1
+Joya profesor 1
+Joya armero 1
+Joya tenaz 1
+Joya percibe 1
+Joya soldado 1
+Joya ninja 1
+Joya artesan. 2
+Joya artesan. 3
+Joya orfebre 3
+Joya esgrima 1
+Joya esgrima 3
+Joya cuchilla 1
+Joya cuchilla 3
+Joya desenf. 1
+Joya desenf. 2
+Joya gambito 1
+Joya gambito 3
+Joya guardia 1
+Joya guardia 2
+Joya escudo 1
+Joya escudo 2
+Joya afilador 1
+Joya disparo 1
+Joya disparo 3
+Joya perfor. 1
+Joya perfor. 3
+Joya perdig. 1
+Joya perdig. 3
+J. mun. normal 1
+J. mun. normal 2
+J. mun. perf. 1
+J. mun. perd. 1
+J. mun. expl. 1
+J. mun. fragm. 1
+J. mun. corta 1
+J. mun. nitro 1
+Joya bonus 1
+Joya bonus 3
+Joya recarga 1
+Joya recarga 2
+Joya retroc. 1
+Joya retroc. 3
+Joya precisa 1
+Joya precisa 2
+Joya tirador 1
+Joya paraliz. 1
+Joya paraliz. 2
+Joya sueño 1 (Solo artillero)
+Joya venen. 1
+Joya refuerza 1
+Joya refuerza 2
+Joya alcance 1
+Joya nitro 1+
+Joya fatiga 1
+Joya aura 1
+Joya libera 2
+Joya libera 3
+Joya cataliz. 3+
+Joya tripas 1
+Joya tripas 2
+Joya carne 1
+Joya carne 1+
+Joya micótica 1
+Joya abeja 1
+Joya abeja 1+
+Joya biólogo 1
+Joya biólogo 1+
+Joya espíritu 1
+Joya espíritu 2
+Joya ileso 1
+Joya ileso 2
+Joya aguante 1
+Joya aguante 3
+Joya equipo 1
+Joya moral 1
+Joya líder 1
+Joya líder 2
+Joya amuleto 1
+Joya rodeo 1
